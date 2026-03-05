@@ -1,4 +1,5 @@
 {
-  "cssTheme": "Obsidian Nord",
-  "theme": "moonstone"
+  "cssTheme": "Minimal",
+  "theme": "moonstone",
+  "accentColor": "#4c8ce6"
 }

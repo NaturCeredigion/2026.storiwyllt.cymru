@@ -14,6 +14,8 @@ Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turp
 
 Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue.
 
+
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">

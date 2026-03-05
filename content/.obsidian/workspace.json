@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "da17530e5679c5d3",
+        "id": "bb29090125abc9da",
         "type": "tabs",
         "children": [
           {
-            "id": "32b95cd8b7726915",
+            "id": "abcc7fe8e6d78c95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "posts/10-things-you-can-do-for-your-mental-health.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "10-things-you-can-do-for-your-mental-health"
+              "title": "New tab"
             }
           }
         ]
@@ -183,6 +179,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "32b95cd8b7726915",
-  "lastOpenFiles": []
+  "active": "abcc7fe8e6d78c95",
+  "lastOpenFiles": [
+    "projects/social-environment.md",
+    "projects/meditation-practices.md",
+    "posts/best-places-to-invest-in-vacation-rental-property.md",
+    "posts/10-things-you-can-do-for-your-mental-health.md",
+    "posts/_index.md"
+  ]
 }
