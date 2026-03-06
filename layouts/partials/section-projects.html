@@ -1,4 +1,4 @@
-{{ if .Site.Params.projects.enable }}
+{{ if .Site.Params.schools.enable }}
 <!-- begin projects -->
 <section class="section projects animate">
   <div class="container">
@@ -6,18 +6,18 @@
       <div class="col col-12">
         <div class="container__inner">
 
-          {{ if .Site.Params.projects.projects_title }}
+          {{ if .Site.Params.schools.schools_title }}
           <div class="section__info">
             <div class="section__head">
-              <h2 class="section__title">{{ .Site.Params.projects.projects_title | safeHTML }}</h2>
-              <a class="section__link" href="/projects">View all</a>
+              <h2 class="section__title">{{ .Site.Params.schools.schools_title | safeHTML }}</h2>
+              <a class="section__link" href="/schools">View all</a>
             </div>
             <svg xmlns="http://www.w3.org/2000/svg" width="52" height="12" fill="none"><path stroke="var(--accent-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="m2 1.734 8 8 8-8 8 8 8-8 8 8 8-8"/></svg>
           </div>
           {{ end }}
 
           <div class="row">
-            {{ range (where .Site.RegularPages "Section" "projects" | first 6 ) }}
+            {{ range (where .Site.RegularPages "Section" "schools" | first 6 ) }}
             <article class="project col col-4 col-w-6 col-t-12">
               <div class="project__content">
                 {{ if .Params.Image }}

@@ -1,9 +1,10 @@
 ---
-title: Team Collaboration
-subtitle: Abstract
+title: Aberteifi
+subtitle: Vectors
 summary: Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.
 client: Anvod Studio
-date: 2023-01-08 08:01:35 +0300
+tools: 1. Illustrator 2. Procreate
+date: 2023-01-06 08:01:35 +0300
 image: 'https://via.placeholder.com/1920x1080'
 ---
 

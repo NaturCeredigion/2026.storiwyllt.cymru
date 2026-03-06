@@ -74,35 +74,38 @@
     <loc>http://localhost:1313/posts/why-humanity-must-save-nature-to-save-itself/</loc>
     <lastmod>2023-03-01T15:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2023-01-10T08:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/wild-nature/</loc>
-    <lastmod>2023-01-10T08:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/meditation-practices/</loc>
+    <loc>http://localhost:1313/schools/llanilar/</loc>
     <lastmod>2023-01-09T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/team-collaboration/</loc>
-    <lastmod>2023-01-08T08:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/schools/</loc>
+    <lastmod>2023-01-09T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/woman-dancing/</loc>
-    <lastmod>2023-01-07T08:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/workshops/</loc>
+    <lastmod>2023-01-09T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/autumn-season/</loc>
+    <loc>http://localhost:1313/workshops/04/</loc>
+    <lastmod>2023-01-09T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/workshops/05/</loc>
+    <lastmod>2023-01-09T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/schools/aberteifi/</loc>
     <lastmod>2023-01-06T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/hand-drawn-people/</loc>
+    <loc>http://localhost:1313/workshops/02/</loc>
+    <lastmod>2023-01-06T08:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/schools/aberaeron/</loc>
     <lastmod>2023-01-05T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/meeting-with-friends/</loc>
-    <lastmod>2023-01-04T08:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/workshops/01/</loc>
+    <lastmod>2023-01-05T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/evening-camping-trip/</loc>
+    <loc>http://localhost:1313/schools/llanarth/</loc>
     <lastmod>2023-01-03T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/social-environment/</loc>
-    <lastmod>2023-01-02T08:01:35+03:00</lastmod>
+    <loc>http://localhost:1313/workshops/03/</loc>
+    <lastmod>2023-01-03T08:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
@@ -111,5 +114,7 @@
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/elements/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gallery/</loc>
   </url>
 </urlset>

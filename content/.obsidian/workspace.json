@@ -11,14 +11,10 @@
             "id": "abcc7fe8e6d78c95",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projects/hand-drawn-people.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "hand-drawn-people"
+              "title": "New tab"
             }
           }
         ]
@@ -180,15 +176,41 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "iconic:Open rulebook": false
     }
   },
   "active": "abcc7fe8e6d78c95",
   "lastOpenFiles": [
-    "projects/social-environment.md",
-    "projects/meditation-practices.md",
-    "posts/best-places-to-invest-in-vacation-rental-property.md",
-    "posts/10-things-you-can-do-for-your-mental-health.md",
-    "posts/_index.md"
+    "gallery.md",
+    "workshops/05.md",
+    "workshops/04.md",
+    "workshops/03.md",
+    "workshops/02.md",
+    "workshops/01.md",
+    "workshops/llanilar.md",
+    "workshops/llanarth.md",
+    "workshops/aberteifi.md",
+    "workshops/aberaeron.md",
+    "workshops/_index.md",
+    "workshops",
+    "schools (copy)/llanilar.md",
+    "schools (copy)/llanarth.md",
+    "schools (copy)/aberteifi.md",
+    "schools (copy)/aberaeron.md",
+    "schools (copy)/_index.md",
+    "schools (copy)",
+    "schools/llanilar.md",
+    "schools/aberaeron.md",
+    "schools/llanarth.md",
+    "schools/aberteifi.md",
+    "projects/woman-dancing.md",
+    "schools/woman-dancing.md",
+    "schools/wild-nature.md",
+    "schools/team-collaboration.md",
+    "schools/social-environment.md",
+    "schools/meeting-with-friends.md",
+    "schools"
   ]
 }
