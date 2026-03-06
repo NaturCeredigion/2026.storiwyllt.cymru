@@ -6,5 +6,6 @@
   "obsidian-pandoc",
   "obsidian-text-format",
   "obsidian-git",
-  "iconic"
+  "iconic",
+  "vault-nickname"
 ]

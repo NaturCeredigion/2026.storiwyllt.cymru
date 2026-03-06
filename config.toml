@@ -36,12 +36,6 @@ title = "Stori Wyllt 2026"
     weight = 1
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
-
-
-  [[menu.main]]
     name = "Blog"
     url = "/posts/"
     weight = 3
@@ -124,16 +118,10 @@ title = "Stori Wyllt 2026"
       weight = 2
 
       [[menu.footer]]
-      name = "Schools"
-      url = "/schools/"
-      weight = 3
-
-      [[menu.footer]]
       identifier = "blog"
       name = "Blog"
       url = "/posts/"
       weight = 4
-
 
   #-------------------------------
   # Social Settings
@@ -171,13 +159,11 @@ title = "Stori Wyllt 2026"
     hero_button_contact = "Get In Touch"
     hero_button_about = "About Me"
 
-
   #-------------------------------
-  # Projects Settings
+  # Schools Settings
   [params.schools]
     enable = true
     schools_title= "Ysgolion <i>Schools</i>"
-
 
   #-------------------------------
   # Testimonials Section
@@ -213,20 +199,17 @@ title = "Stori Wyllt 2026"
     link = "https://facebook.com/"
     content = "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
 
-
   #-------------------------------
   # Blog Section
   [params.blog]
     enable = true
     blog_title = "📚 Read Latest Posts"
 
-
   #-------------------------------
   # Tags Section
   [params.tags]
     enable = true
     tags_title = "✌️ Explore Topics"
-
 
   #-------------------------------
   # Newsletter Settings
@@ -237,12 +220,10 @@ title = "Stori Wyllt 2026"
     mailchimp_input_text = "Enter your email address"
     mailchimp_background_image = "https://via.placeholder.com/1920x1080"
 
-
   #-------------------------------
   # Footer Settings
   [params.footer]
     footer_description = "I’m Aaron, a creative Illustrator & Art Director based in San Francisco. I seek to push the limits of creativity to create high-engaging and memorable interactive experiences."
-
 
   #-------------------------------
   # Contact Settings
@@ -252,19 +233,16 @@ title = "Stori Wyllt 2026"
     # NOTE
     # Simpler theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
-
   #-------------------------------
   # Comment Section (Disqus)
   [params.disqus]
     enable = true
     disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
 
 [markup.highlight]
   codeFences = true
