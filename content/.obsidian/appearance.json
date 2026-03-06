@@ -1,5 +1,9 @@
 {
   "cssTheme": "Minimal",
   "theme": "moonstone",
-  "accentColor": "#4c8ce6"
+  "accentColor": "#4c8ce6",
+  "textFontFamily": "Droid Sans",
+  "baseFontSize": 18,
+  "monospaceFontFamily": "Droid Sans Mono",
+  "baseFontSizeAction": true
 }
