@@ -19,7 +19,7 @@ title = "Stori Wyllt 2026"
 [params]
   logo = "https://res.cloudinary.com/naturceredigion/image/upload/w_200/v1772530714/stori-wyllt-logo.png" # You can add own logo. For example "/images/logo.png".
   logo_dark = "/images/logo.png"
-  description = "Simpler – A modern portfolio theme for Jekyll"
+  description = "Stori Wyllt - combining wildlife ID, habitat creation & storytelling"
   color_scheme = "auto" # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the users can choose the light or dark mode themself.
 
   #-------------------------------
@@ -106,22 +106,41 @@ title = "Stori Wyllt 2026"
       url = "/workshops/05/"
       weight = 4
 
-      # Footer Menu
-      [[menu.footer]]
-      name = "Home"
-      url = "/"
-      weight = 1
+  # Footer Menu
+  [[menu.footer]]
+  name = "Home"
+  url = "/"
+  weight = 1
 
-      [[menu.footer]]
-      name = "About"
-      url = "/about/"
-      weight = 2
+  [[menu.footer]]
+  name = "About"
+  url = "/about/"
+  weight = 2
 
-      [[menu.footer]]
-      identifier = "blog"
-      name = "Blog"
-      url = "/posts/"
-      weight = 4
+  [[menu.footer]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/posts/"
+  weight = 3
+
+  [[menu.footer]]
+  identifier = "artists"
+  name = "Artists"
+  url = "/artists/"
+  weight = 4
+
+  [[menu.footer]]
+  identifier = "naturalists"
+  name = "Naturalists"
+  url = "/naturalists/"
+  weight = 5
+
+  [[menu.footer]]
+  identifier = "organise"
+  name = "Organise"
+  url = "/organise/"
+  weight = 6
+
 
   #-------------------------------
   # Social Settings
