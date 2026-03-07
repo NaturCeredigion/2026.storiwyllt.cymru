@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3f2bc196e15c9bdf",
+        "id": "e398f3c40d7cfceb",
         "type": "tabs",
         "children": [
           {
-            "id": "8aef68c045ac7c28",
+            "id": "c905f938ba56a436",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/organise.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "organise"
+              "title": "New tab"
             }
           }
         ]
@@ -182,8 +178,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "8aef68c045ac7c28",
+  "active": "c905f938ba56a436",
   "lastOpenFiles": [
+    "content/organise.md",
     "resources/_gen/assets/sass/main.scss_170188855d14d903eca10cc8b6dffa74.json",
     "resources/_gen/assets/sass/main.scss_170188855d14d903eca10cc8b6dffa74.content",
     "public/resources/index.xml",
@@ -194,9 +191,7 @@
     "public/organise-copy/index.html",
     "public/organise-copy",
     "public/naturalists/yusef/index.html",
-    "public/naturalists/sheena/index.html",
     "content/resources.md",
-    "content/organise.md",
     "content/naturalists.md",
     "content/artists.md"
   ]
