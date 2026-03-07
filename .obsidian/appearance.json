@@ -1,8 +1,9 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Blue Topaz",
   "interfaceFontFamily": "Droid Sans",
   "textFontFamily": "Droid Sans",
   "monospaceFontFamily": "Droid Sans Mono",
-  "baseFontSize": 18,
-  "baseFontSizeAction": true
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "theme": "moonstone"
 }

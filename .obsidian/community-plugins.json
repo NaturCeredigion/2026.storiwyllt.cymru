@@ -4,8 +4,8 @@
   "copy-as-html",
   "emoji-shortcodes",
   "obsidian-git",
-  "iconic",
   "obsidian-pandoc",
   "obsidian-text-format",
-  "vault-nickname"
+  "vault-nickname",
+  "obsidian-sort-and-permute-lines"
 ]

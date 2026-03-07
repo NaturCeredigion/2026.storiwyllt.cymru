@@ -49,22 +49,25 @@ image: 'https://via.placeholder.com/1200x800'
 | *Aberaeron* | Carys May     | Rebecca Kelly | Carys Griffiths-Jones |
 | *Llanarth*  | Jo Dainty     | Molly Gilbert | Cally Mason           |
 | *Llanilar*  | Sheena Duller | Marian Haf    | Jan Jones             |
-Emrys Plant - *Creative Custodian*
-Sheena Duller - *Ecology Advisor*
-Jake Rayson - *Facilitator*
+
+---
+
+- Emrys Plant - *Creative Custodian*
+- Sheena Duller - *Ecology Advisor*
+- Jake Rayson - *Facilitator*
 ### Alphabetical people
-Emrys Plant - Creative Custodian
-Sheena Duller - Ecologist, Llanilar & Ecology Advisor
-Jake Rayson - Facilitator
-Yusef Samari - Ecologist, Aberteifi 
-Carys May - Ecologist, Aberaeron
-Jo Dainty - Forest school practitioner, Llanarth 
-Pip Lewis - 
-Rebecca Kelly
-Molly Gilbert
-Marian Haf
-Mari Roberts
-Carys Griffiths-Jones
-Cally Mason
-Jannette Jones
+- Emrys Plant - Creative Custodian
+- Cally Mason - Teacher, Llanarth
+- Carys Griffiths-Jones - Teacher, Aberaeron
+- Carys May - Ecologist, Aberaeron
+- Jake Rayson - Facilitator
+- Jannette Jones - Teacher, Llanilar
+- Jo Dainty - Forest school practitioner, Llanarth 
+- Marian Haf - Artist, Llanilar
+- Mari Roberts - Teacher, Aberteifi
+- Molly Gilbert - Artist, Llanarth
+- Pip Lewis - Artist, Aberteifi
+- Rebecca Kelly - Artist, Aberaeron
+- Sheena Duller - Ecologist, Llanilar & Ecology Advisor
+- Yusef Samari - Ecologist, Aberteifi 
 
