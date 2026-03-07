@@ -25,7 +25,7 @@
   "dialogState": {
     "iconMode": true,
     "emojiMode": false,
-    "rulePage": "folder"
+    "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -34,21 +34,6 @@
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [
-    {
-      "id": "L0fFw",
-      "name": "Markdown",
-      "match": "all",
-      "conditions": [
-        {
-          "source": "extension",
-          "operator": "is",
-          "value": "md"
-        }
-      ],
-      "enabled": true,
-      "icon": "lucide-file-text"
-    }
-  ],
+  "fileRules": [],
   "folderRules": []
 }

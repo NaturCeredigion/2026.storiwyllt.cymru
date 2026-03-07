@@ -36,9 +36,9 @@ image: 'https://via.placeholder.com/1200x800'
 
 | Ysgol |              1              |              2              |                3                |              4              |              5              |
 | :---- | :-------------------------: | :-------------------------: | :-----------------------------: | :-------------------------: | :-------------------------: |
-| AT    |       `Thu 16 Apr AM`       |       `Thu 30 Apr AM`       |         `Thu 07 May AM`         |       `Thu 21 May AM`       |  `Thu 04 Jun`<br>==Site==   |
-| AB    |       `Fri 20 Mar AM`       | `Fri 17 Apr AM`<br>==Site== |         `Fri 08 May PM`         |       `Fri 15 May AM`       |       `Thu 11 Jun AM`       |
-| LTH   | `Fri 27 Mar AM`<br>==Site== |       `Fri 24 Apr AM`       | `Fri 08 May AM`<br>==Site==<br> | `Fri 22 May AM`<br>==Site== | `Fri 12 Jun AM`<br>==Site== |
+| AT    |       `Thu 16 Apr AM`       |       `Thu 30 Apr AM`       |         `Thu 07 May AM`         |       `Thu 21 May AM`       |  `Thu 04 Jun`<br>Site   |
+| AB    |       `Fri 20 Mar AM`       | `Fri 17 Apr AM`<br>Site |         `Fri 08 May PM`         |       `Fri 15 May AM`       |       `Thu 11 Jun AM`       |
+| LTH   | `Fri 27 Mar AM`<br>Site |       `Fri 24 Apr AM`       | `Fri 08 May AM`<br>Site<br> | `Fri 22 May AM`<br>Site | `Fri 12 Jun AM`<br>Site |
 | LAR   |       `Tue 24 Mar AM`       |       `Tue 14 Apr AM`       |         `Tue 28 Apr AM`         |       `Tue 12 May AM`       |       `Tue 02 Jun AM`       |
 
 ## People
