@@ -4,7 +4,7 @@ image: 'https://via.placeholder.com/1200x800'
 ---
 
 ## Summary
-*Combining wildlife ID with habitat creation and storytelling, culminating in bilingual wild story books on exhibition at the Senedd in late June.*
+*Combining wildlife ID with habitat creation and storytelling, culminating in bilingual wild stories at celebration in Aberteifi in late June.*
 
 - 4 schools
 - 5x 2-hour workshops **Mar-Jun**
