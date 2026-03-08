@@ -1,9 +1,9 @@
 {
-  "cssTheme": "Blue Topaz",
-  "interfaceFontFamily": "Droid Sans",
-  "textFontFamily": "Droid Sans",
-  "monospaceFontFamily": "Droid Sans Mono",
-  "baseFontSize": 19,
+  "cssTheme": "Prism",
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 20,
   "baseFontSizeAction": true,
   "theme": "moonstone"
 }

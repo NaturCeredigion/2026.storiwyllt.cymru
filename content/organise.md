@@ -16,14 +16,15 @@ image: 'https://via.placeholder.com/1200x800'
     - Ecologist 1, 2, 3
     - Artist 2, 3, 4, 5
 - Aberteifi celebration **end Jun**
-## Symposiwm
-**Tue 3 Mar 4pm [Moody Meadows](https://w3w.co/necks.cheaply.flippers)**
-1. Croeso 4pm-4.15pm
-2. Wildlife ID recording 4.15pm-5.15pm
-3. Project outline 5.15pm-5.30pm
-4. Workshop structure 5.30pm-6pm
-5. Introductions & buffet 6pm-7pm
-## Date range workshops w/b
+## Workshop dates
+
+| Ysgol |             1             |            2            |               3               |             4             |             5             |
+| :---- | :-----------------------: | :---------------------: | :---------------------------: | :-----------------------: | :-----------------------: |
+| AT    |      `Thu 16 Apr AM`      |     `Thu 30 Apr AM`     |        `Thu 07 May AM`        |      `Thu 21 May AM`      |   `Thu 04 Jun`<br>Site    |
+| AB    |      `Fri 20 Mar AM`      | `Fri 17 Apr AM`<br>Site |        `Fri 08 May PM`        |      `Fri 15 May AM`      |      `Thu 11 Jun AM`      |
+| LTH   | `Fri 27 Mar AM`<br>*Site* |     `Fri 24 Apr AM`     | `Fri 08 May AM`<br>*Site*<br> | `Fri 22 May AM`<br>*Site* | `Fri 12 Jun AM`<br>*Site* |
+| LAR   |      `Tue 24 Mar AM`      |     `Tue 14 Apr AM`     |        `Tue 28 Apr AM`        |      `Tue 12 May AM`      |      `Tue 02 Jun AM`      |
+### Date ranges
 
 | No. | Date                  | Location | Staff             | Activity               |
 | :-: | :-------------------- | :------- | :---------------- | :--------------------- |
@@ -33,13 +34,6 @@ image: 'https://via.placeholder.com/1200x800'
 |  4  | `Mon 11 & 18 May`     | School   | Artist            | Art. Habitat.          |
 |  5  | `Mon 01 & 08 Jun`     | School   | Artist            | Art. Quiz.             |
 *Facilitator present for every session*
-
-| Ysgol |              1              |              2              |                3                |              4              |              5              |
-| :---- | :-------------------------: | :-------------------------: | :-----------------------------: | :-------------------------: | :-------------------------: |
-| AT    |       `Thu 16 Apr AM`       |       `Thu 30 Apr AM`       |         `Thu 07 May AM`         |       `Thu 21 May AM`       |  `Thu 04 Jun`<br>Site   |
-| AB    |       `Fri 20 Mar AM`       | `Fri 17 Apr AM`<br>Site |         `Fri 08 May PM`         |       `Fri 15 May AM`       |       `Thu 11 Jun AM`       |
-| LTH   | `Fri 27 Mar AM`<br>Site |       `Fri 24 Apr AM`       | `Fri 08 May AM`<br>Site<br> | `Fri 22 May AM`<br>Site | `Fri 12 Jun AM`<br>Site |
-| LAR   |       `Tue 24 Mar AM`       |       `Tue 14 Apr AM`       |         `Tue 28 Apr AM`         |       `Tue 12 May AM`       |       `Tue 02 Jun AM`       |
 
 ## People
 
