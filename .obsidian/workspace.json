@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/resources.md",
+                "file": "content/organise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "organise"
             }
           }
         ]
@@ -171,7 +171,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "iconic:Open rulebook": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -184,8 +183,8 @@
   },
   "active": "c905f938ba56a436",
   "lastOpenFiles": [
-    "content/elements.md",
     "content/resources.md",
+    "content/elements.md",
     "content/naturalists.md",
     "content/organise.md",
     "content/about.md",
