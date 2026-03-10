@@ -1,6 +1,6 @@
 ---
-title: Naturalists
-image: 'https://via.placeholder.com/1200x800'
+title: Naturiaethwyr / Naturalists
+image: https://via.placeholder.com/1200x800
 ---
 
 - Carys May

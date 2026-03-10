@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/artists.md",
+                "file": "content/organise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "artists"
+              "title": "organise"
             }
           }
         ]
@@ -183,10 +183,11 @@
   },
   "active": "c905f938ba56a436",
   "lastOpenFiles": [
+    "content/naturalists.md",
     "content/organise.md",
+    "content/artists.md",
     "content/resources.md",
     "content/elements.md",
-    "content/naturalists.md",
     "content/about.md",
     "resources/_gen/assets/sass/main.scss_170188855d14d903eca10cc8b6dffa74.json",
     "resources/_gen/assets/sass/main.scss_170188855d14d903eca10cc8b6dffa74.content",
@@ -197,7 +198,6 @@
     "public/organise",
     "public/organise-copy/index.html",
     "public/organise-copy",
-    "public/naturalists/yusef/index.html",
-    "content/artists.md"
+    "public/naturalists/yusef/index.html"
   ]
 }
