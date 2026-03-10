@@ -1,6 +1,6 @@
 ---
 title: Naturalists
-image: 'https://via.placeholder.com/1200x800'
+image: 'https://via.placeholder.com/1200x200'
 ---
 
 - Carys May
