@@ -109,16 +109,18 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/artists/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/artists/</loc>
+    <loc>http://localhost:1313/elements/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resources/</loc>
   </url><url>
     <loc>http://localhost:1313/naturalists/</loc>
   </url><url>
     <loc>http://localhost:1313/organise/</loc>
-  </url><url>
-    <loc>http://localhost:1313/resources/</loc>
   </url>
 </urlset>
