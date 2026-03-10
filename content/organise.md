@@ -3,7 +3,7 @@ title: Trefnu / Organise
 image: https://via.placeholder.com/1200x800
 ---
 ## Summary
-*Combining wildlife ID with habitat creation and storytelling, culminating in bilingual wild stories at celebration in Aberteifi in late June.*
+*Combining wildlife ID with habitat creation and storytelling, culminating in bilingual wild stories celebration in Aberteifi in late June.*
 
 - 4 schools
 - 5x 2-hour workshops **Mar-Jun**
@@ -12,7 +12,7 @@ image: https://via.placeholder.com/1200x800
 - Workshops
     - 1, 3, 4, 5 in school
     - 2 on-site
-    - Ecologist 1, 2, 3
+    - Naturalist 1, 2, 3
     - Artist 2, 3, 4, 5
 - Aberteifi celebration **end Jun**
 ## Workshop dates
