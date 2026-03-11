@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/naturalists.md",
+                "file": "content/artists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "naturalists"
+              "title": "artists"
             }
           }
         ],
@@ -198,9 +198,9 @@
   },
   "active": "3bb1851637e72902",
   "lastOpenFiles": [
+    "content/naturalists.md",
     "conflict-files-obsidian-git.md",
     "content/organise.md",
-    "content/naturalists.md",
     "content/artists.md",
     "content/resources.md",
     "content/elements.md",

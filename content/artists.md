@@ -14,6 +14,5 @@ image: 'https://via.placeholder.com/1200x800'
 ## Molly Gilbert
 
 ## Pip Lewis
-[Llais yr Afon project
-](https://www.spacetocreate.org.uk/projects/llais-yr-afon/)
+[Llais yr Afon project](https://www.spacetocreate.org.uk/projects/llais-yr-afon/)
 ## Rebecca Kelly
