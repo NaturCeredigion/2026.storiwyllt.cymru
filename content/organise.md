@@ -19,19 +19,19 @@ image: https://via.placeholder.com/1200x800
 
 | Ysgol |             1             |             2             |               3               |             4             |             5             |
 | :---- | :-----------------------: | :-----------------------: | :---------------------------: | :-----------------------: | :-----------------------: |
-| AT    |      `Thu 16 Apr AM`      |      `Fri 17 Apr AM`      |        `Thu 07 May AM`        |      `Thu 21 May AM`      |  `Thu 04 Jun`<br>*Site*   |
+| AT    |      `Thu 16 Apr AM`      |      `Thu 30 Apr AM`      |        `Thu 07 May AM`        |      `Thu 21 May AM`      |  `Thu 04 Jun`<br>*Site*   |
 | AB    |      `Fri 20 Mar AM`      | `Fri 17 Apr AM`<br>*Site* |        `Fri 08 May PM`        |      `Fri 15 May AM`      |      `Thu 11 Jun AM`      |
 | LTH   | `Fri 27 Mar AM`<br>*Site* |      `Thu 16 Apr AM`      | `Fri 08 May AM`<br>*Site*<br> | `Fri 22 May AM`<br>*Site* | `Fri 12 Jun AM`<br>*Site* |
 | LAR   |      `Tue 24 Mar AM`      |      `Thu 16 Apr AM`      |        `Tue 28 Apr AM`        |      `Thu 21 May PM`      |      `Tue 02 Jun AM`      |
 ### Date ranges
 
-| No. | Date                  | Location | Staff             | Activity               |
-| :-: | :-------------------- | :------- | :---------------- | :--------------------- |
+| No. | Date                  | Location | Staff              | Activity               |
+| :-: | :-------------------- | :------- | :----------------- | :--------------------- |
 |  1  | `Mon 16 & 23 Mar`     | School   | Naturalist         | Intro, quiz, game      |
 |  2  | `Mon 13 & 20 Apr`     | On-site  | Naturalist, Artist | Wildlife ID & sketches |
 |  3  | `Mon 27 Apr & 04 May` | School   | Naturalist, Artist | Wildlife ID & art      |
-|  4  | `Mon 11 & 18 May`     | School   | Artist            | Art. Habitat.          |
-|  5  | `Mon 01 & 08 Jun`     | School   | Artist            | Art. Quiz.             |
+|  4  | `Mon 11 & 18 May`     | School   | Artist             | Art. Habitat.          |
+|  5  | `Mon 01 & 08 Jun`     | School   | Artist             | Art. Quiz.             |
 *Facilitator present for every session*
 
 ## People
