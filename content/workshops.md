@@ -7,13 +7,13 @@ image: 'https://via.placeholder.com/1920x1080'
 # Sessions
 1. **Introduction to Plants and Insects** - *naturalist*
     - *Objective:* Learn basics of plant and animal identification
-2. **Food webs, habitat, observation** - *naturalist & artist*
+2. **Food webs, habitat, observation** - *naturalist & creative*
     - *Objective 1:* Gain understanding of food web and ecological roles of plants and insects
     - *Objective 2:* Build on skills of observation and description for plants (visual and written)
-3. **Insect id skills and recording** - *naturalist & artist*
+3. **Insect id skills and recording** - *naturalist & creative*
     - *Objective 1:* Further ID skills linking recording and habitat
     - *Objective 2:* Skills of observation and description for insects (visual and written)
-4. Artists 
+4. Creatives 
 ---
 ## Session 1. Introduction to Plants and Insects
 *Objective: Learn basics of plant and animal identification*
@@ -67,11 +67,11 @@ Grasses Rushes and Flowers ‘hands on’ quiz style, several different plants a
 - *Objective 1: Gain understanding of food web and ecological roles of plants and insects*
 - *Objective 2 Build on skills of observation and description (visual and written)*
 ### Recap
-- Recap on previous session, introduce artist, outline
+- Recap on previous session, introduce creative, outline
 - Quickfire quiz on plant and insect anatomy. **(10 mins)**
 
 Split into 2 groups **(50 mins in each)**
-### Group 1 with Artist
+### Group 1 with Creative
 Build on Plant ID skills through drawing and describing.
 
 **Plants:** Outside or pre-collected. Find four different plants (or more), 2 grasses, two flowers/’broadleaved’
@@ -117,7 +117,7 @@ Split into groups (3-4) Ideally greenspace with different habitats (walls, hedge
 ### Recap
 - Recap on previous session 
 - Quickfire quiz on plant and insect anatomy. **(10 mins)**
-### Group 1 with Artist 
+### Group 1 with Creative 
 #### Build on Insect ID skills through drawing and describing
 1. Find different insects (with nets)
 2. Draw and make a note of key features:
