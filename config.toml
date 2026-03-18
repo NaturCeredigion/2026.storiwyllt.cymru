@@ -74,37 +74,6 @@ title = "Stori Wyllt 2026"
     name = "Workshops"
     url = "/workshops/"
     weight = 4
-    hasChildren = true
-
-      [[menu.main]]
-      parent = "Workshops"
-      name = "Workshop 1"
-      url = "/workshops/01/"
-      weight = 1
-
-      [[menu.main]]
-      parent = "Workshops"
-      name = "Workshop 2"
-      url = "/workshops/02/"
-      weight = 2
-
-      [[menu.main]]
-      parent = "Workshops"
-      name = "Workshop 3"
-      url = "/workshops/03/"
-      weight = 3
-
-      [[menu.main]]
-      parent = "Workshops"
-      name = "Workshop 4"
-      url = "/workshops/04/"
-      weight = 4
-
-      [[menu.main]]
-      parent = "Workshops"
-      name = "Workshop 5"
-      url = "/workshops/05/"
-      weight = 4
 
   # Footer Menu
   [[menu.footer]]
