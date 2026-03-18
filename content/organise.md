@@ -28,18 +28,18 @@ image: https://via.placeholder.com/1200x800
 | No. | Date                  | Location | Staff              | Activity               |
 | :-: | :-------------------- | :------- | :----------------- | :--------------------- |
 |  1  | `Mon 16 & 23 Mar`     | School   | Naturalist         | Intro, quiz, game      |
-|  2  | `Mon 13 & 20 Apr`     | On-site  | Naturalist, Artist | Wildlife ID & sketches |
-|  3  | `Mon 27 Apr & 04 May` | School   | Naturalist, Artist | Wildlife ID & art      |
-|  4  | `Mon 11 & 18 May`     | School   | Artist             | Art. Habitat.          |
-|  5  | `Mon 01 & 08 Jun`     | School   | Artist             | Art. Quiz.             |
+|  2  | `Mon 13 & 20 Apr`     | On-site  | Naturalist, Creative | Wildlife ID & sketches |
+|  3  | `Mon 27 Apr & 04 May` | School   | Naturalist, Creative | Wildlife ID & art      |
+|  4  | `Mon 11 & 18 May`     | School   | Creative             | Art. Habitat.          |
+|  5  | `Mon 01 & 08 Jun`     | School   | Creative             | Art. Quiz.             |
 *Facilitator present for every session*
 
 ## People
 
-| School      | Naturalist     | Artist        | Teacher               |
+| School      | Naturalist     | Creative        | Teacher               |
 | :---------- | :------------ | :------------ | :-------------------- |
 | *Aberteifi* | Yusef Samari  | Pip Lewis     | Mari Roberts          |
-| *Aberaeron* | Carys May     | Rebecca Kelly | Carys Griffiths-Jones |
+| *Aberaeron* | Carys May     | Rebecca Wyn Kelly | Carys Griffiths-Jones |
 | *Llanarth*  | Jo Dainty     | Molly Gilbert | Cally Mason           |
 | *Llanilar*  | Sheena Duller | Marian Haf    | Jan Jones             |
 
@@ -60,7 +60,7 @@ image: https://via.placeholder.com/1200x800
 - Mari Roberts - Teacher, Aberteifi
 - Molly Gilbert - Artist, Llanarth
 - Pip Lewis - Artist, Aberteifi
-- Rebecca Kelly - Artist, Aberaeron
+- Rebecca Wyn Kelly - Artist, Aberaeron
 - Sheena Duller - Ecologist, Llanilar & Ecology Advisor
 - Yusef Samari - Ecologist, Aberteifi 
 

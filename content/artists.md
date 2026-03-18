@@ -15,4 +15,4 @@ image: 'https://via.placeholder.com/1200x800'
 
 ## Pip Lewis
 [Llais yr Afon project](https://www.spacetocreate.org.uk/projects/llais-yr-afon/)
-## Rebecca Kelly
+## Rebecca Wyn Kelly
