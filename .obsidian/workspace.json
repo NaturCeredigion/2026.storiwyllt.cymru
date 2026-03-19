@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/workshops/01.md",
+                "file": "content/organise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01"
+              "title": "organise"
             }
           }
         ],

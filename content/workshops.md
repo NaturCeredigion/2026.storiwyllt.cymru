@@ -1,15 +1,14 @@
 ---
 title: Workshops
-description: Outline of workshops
 date: 2023-01-05 08:01:35 +0300
 ---
 # Sessions
-1. **Introduction to Plants and Insects** - *naturalist*
+1. **[Introduction to Plants and Insects](#session-1-introduction-to-plants-and-insects)** - *naturalist*
     - *Objective:* Learn basics of plant and animal identification
-2. **Food webs, habitat, observation** - *naturalist & creative*
+2. **[Food webs, habitat, observation](#session-2-food-webs-habitat-observation)** - *naturalist & creative*
     - *Objective 1:* Gain understanding of food web and ecological roles of plants and insects
     - *Objective 2:* Build on skills of observation and description for plants (visual and written)
-3. **Insect id skills and recording** - *naturalist & creative*
+3. **[Insect id skills and recording](#session-3-insect-id-skills-and-recording)** - *naturalist & creative*
     - *Objective 1:* Further ID skills linking recording and habitat
     - *Objective 2:* Skills of observation and description for insects (visual and written)
 4. Creatives 
@@ -61,6 +60,9 @@ Grasses Rushes and Flowers ‘hands on’ quiz style, several different plants a
 3. Docks, sorrels and plantain
 4. Clover, thistle, buttercup and dandelion
 5. Mosses, ferns, lichens….
+
+*[Top ↑](#)*
+
 ---
 ## Session 2. Food webs, habitat, observation
 - *Objective 1: Gain understanding of food web and ecological roles of plants and insects*
@@ -109,6 +111,9 @@ Split into groups (3-4) Ideally greenspace with different habitats (walls, hedge
 1. In groups look for different habitats.
 2. Describe what species are or could be living in them – lichens, mosses, plants, fungi, insects, spiders, where might mammals live?
 3. Recap and share 2 group activities.
+
+*[Top ↑](#)*
+
 ---
 ## Session 3. Insect ID skills and recording
 - *Objective 1: Further ID skills linking recording and habitat*
@@ -135,3 +140,4 @@ Working in groups (2-4)
 
 **Recap and share 2 group activities** (**10 mins**)
 
+*[Top ↑](#)*
