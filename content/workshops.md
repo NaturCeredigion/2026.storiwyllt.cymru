@@ -2,7 +2,6 @@
 title: Workshops
 description: Outline of workshops
 date: 2023-01-05 08:01:35 +0300
-image: 'https://via.placeholder.com/1920x1080'
 ---
 # Sessions
 1. **Introduction to Plants and Insects** - *naturalist*
