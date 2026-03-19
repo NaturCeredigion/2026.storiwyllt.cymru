@@ -1,6 +1,5 @@
 ---
 title: Trefnu / Organise
-image: https://via.placeholder.com/1200x800
 ---
 ## Summary
 *Combining wildlife ID with habitat creation and storytelling, culminating in bilingual wild stories celebration in Aberteifi in late June.*
