@@ -75,6 +75,11 @@ title = "Stori Wyllt 2026"
     url = "/workshops/"
     weight = 4
 
+  [[menu.main]]
+    name = "Organise"
+    url = "/organise/"
+    weight = 5
+
   # Footer Menu
   [[menu.footer]]
   name = "Home"
