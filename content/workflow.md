@@ -5,6 +5,7 @@ draft: false
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-root-moss-stone-twr-gwyllt-169.jpg
 title: Image workflow
 ---
+
 1. Take photos, make notes
 2. Choose, edit, crop & upload to Signal group
 3. Download files to PC
@@ -17,5 +18,12 @@ title: Image workflow
 ```
 ![Toad home pile of stones and wood and moss](https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-root-moss-stone-twr-gwyllt-169.jpg)
 ```
-`
-![Toad home pile of stones and wood and moss](https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-root-moss-stone-twr-gwyllt-169.jpg)`
+
+![Toad home pile of stones and wood and moss](https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-root-moss-stone-twr-gwyllt-169.jpg)
+
+{{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433496/260320-becca-toad-twr-gwyllt-169.jpg" >}}
+
+{{< gallery >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433495/260320-lletau-llyffant-both-sides-gabion-twr-gwyllt-169.jpg" >}}
+{{< /gallery >}}
+

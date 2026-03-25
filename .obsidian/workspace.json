@@ -184,6 +184,17 @@
   },
   "active": "c1c700c2b2c6d3a1",
   "lastOpenFiles": [
+    "public/workflow/index.html",
+    "public/workflow",
+    "public/js/load-photoswipe.js",
+    "public/css/hugo-easy-gallery.css",
+    "public/css",
+    "static/js/load-photoswipe.js",
+    "static/js",
+    "static/css/hugo-easy-gallery.css",
+    "static/css",
+    "layouts/shortcodes/load-photoswipe.html",
+    "layouts/shortcodes/load-photoswipe-theme.html",
     "content/posts/260324-llanilar-workshop-1.md",
     "content/workflow.md",
     "content/posts/260320-esgair-arth-site.md",
@@ -204,18 +215,8 @@
     "Untitled.md",
     "content/posts/260326-.md",
     "Untitled 1.md",
-    "assets/templates",
     "2026-03-23.md",
     "conflict-files-obsidian-git.md",
-    "content/elements.md",
-    "resources/_gen/assets/sass/main.scss_170188855d14d903eca10cc8b6dffa74.json",
-    "resources/_gen/assets/sass/main.scss_170188855d14d903eca10cc8b6dffa74.content",
-    "public/resources/index.xml",
-    "public/resources/index.html",
-    "public/resources",
-    "public/organise/index.html",
-    "public/organise",
-    "public/organise-copy/index.html",
-    "public/organise-copy"
+    "content/elements.md"
   ]
 }
