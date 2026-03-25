@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/260325-.md",
+                "file": "content/posts/260324-llanilar-workshop-1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "260325-"
+              "title": "260324-llanilar-workshop-1"
             }
           }
         ]
@@ -184,21 +184,29 @@
   },
   "active": "c1c700c2b2c6d3a1",
   "lastOpenFiles": [
+    "content/posts/260320-esgair-arth-site.md",
+    "content/posts/260320-aberaeron-workshop-1.md",
+    "content/posts/260319-llanilar-site.md",
+    "content/posts/260319-aberaeron-site.md",
     "assets/templates/post.md",
-    "content/posts/260325-.md",
+    "content/workshops.md",
+    "content/resources.md",
+    "content/organise.md",
+    "content/naturalists.md",
+    "content/contact.md",
+    "content/artists.md",
+    "content/about.md",
+    "content/posts/260324-llanilar-workshop-1.md",
+    "content/posts/_index.md",
+    "content/posts/10-things-you-can-do-for-your-mental-health.md",
+    "content/posts/why-humanity-must-save-nature-to-save-itself.md",
     "Untitled.md",
     "content/posts/260326-.md",
     "Untitled 1.md",
-    "content/organise.md",
-    "content/posts/10-things-you-can-do-for-your-mental-health.md",
     "assets/templates",
     "2026-03-23.md",
-    "content/artists.md",
-    "content/naturalists.md",
     "conflict-files-obsidian-git.md",
-    "content/resources.md",
     "content/elements.md",
-    "content/about.md",
     "resources/_gen/assets/sass/main.scss_170188855d14d903eca10cc8b6dffa74.json",
     "resources/_gen/assets/sass/main.scss_170188855d14d903eca10cc8b6dffa74.content",
     "public/resources/index.xml",

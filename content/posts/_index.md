@@ -1,5 +1,6 @@
 ---
-title: Blog
-description: Simpler blog features productivity, tips, inspiration and strategies for massive profits. Find out how to set up a successful blog or how to make yours even better!
-image: 'https://via.placeholder.com/1920x1080'
+title: Posts
+description: Blog posts from the field about the progress of Stori Wyllt across four schools
+image: https://via.placeholder.com/1920x1080
+modified: 2026-03-25T20:05:33+00:00
 ---
