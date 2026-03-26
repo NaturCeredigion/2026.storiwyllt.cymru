@@ -1,10 +1,10 @@
 ---
 title: Ysgol Llanilar site visit
 description: Pre-workshop meetup and site visit
-image:
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544843/250319-llanilar-reccie-river-ystwyth-stone-beach.jpg
 image_caption:
 tags:
-draft: true
+draft: false
 date: 2026-03-19T20:05:33+00:00
-modified: 2026-03-26T17:18:43+00:00
+modified: 2026-03-26T18:26:03+00:00
 ---
