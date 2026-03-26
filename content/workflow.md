@@ -41,7 +41,7 @@ title: Image workflow
   <div class="gallery">
     <figure>
       <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-root-moss-stone-twr-gwyllt-169.jpg" alt="" loading="lazy">
-      <figcaption>Rocks</figcaption>
+      <figcaption>Rocks and moss and stuff</figcaption>
     </figure>
     <figure>
       <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-trees-twr-gwyllt-169.jpg" alt="" loading="lazy">
@@ -49,15 +49,15 @@ title: Image workflow
     </figure>
     <figure>
       <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433496/260320-becca-toad-twr-gwyllt-169.jpg" alt="" loading="lazy">
-      <figcaption>Toad</figcaption>
+      <figcaption>Toad (Bufo bufo)</figcaption>
     </figure>
     <figure>
       <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433496/260320-lletau-llyffant-closeup-twr-gwyllt-169.jpg" alt="" loading="lazy">
-      <figcaption>HOles</figcaption>
+      <figcaption>Holes into the habitat</figcaption>
     </figure>
     <figure>
       <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433495/260320-lletau-llyffant-both-sides-gabion-twr-gwyllt-169.jpg" alt="" loading="lazy">
-      <figcaption>Resplendent</figcaption>
+      <figcaption>Resplendent dual accommodation</figcaption>
     </figure>
   </div>
 </div>
