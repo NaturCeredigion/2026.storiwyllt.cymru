@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/260324-llanilar-workshop-1.md",
+                "file": "content/posts/260319-aberaeron-site.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260324-llanilar-workshop-1"
+              "title": "260319-aberaeron-site"
+            }
+          },
+          {
+            "id": "927da5179e842d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/about.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
         ]
@@ -184,35 +198,36 @@
   },
   "active": "c1c700c2b2c6d3a1",
   "lastOpenFiles": [
-    "static/js/load-photoswipe.js",
-    "static/js",
+    "content/posts/260303-symposiwm.md",
+    "content/posts/260319-aberaeron-site.md",
+    "public/posts/260319-aberaeron-site/index.html",
+    "public/posts/260319-aberaeron-site",
+    "content/posts/260320-aberaeron-twr-gwyllt.md",
+    "content/about.md",
+    "public/posts/260320-aberaeron-twr-gwyllt/index.html",
+    "public/posts/260320-aberaeron-twr-gwyllt",
+    "content/organise.md",
+    "public/posts/260303-symposiwm/index.html",
+    "public/posts/260303-symposiwm",
+    "content/posts/260324-llanilar-workshop-1.md",
     "content/posts/260320-esgair-arth-site.md",
     "content/posts/260320-aberaeron-workshop-1.md",
     "content/posts/260319-llanilar-site.md",
-    "content/posts/260319-aberaeron-site.md",
     "assets/templates/post.md",
+    "static/js/load-photoswipe.js",
+    "static/js",
     "content/workflow.md",
     "public/workflow/index.html",
     "public/workflow",
-    "public/js/load-photoswipe.js",
-    "public/css/hugo-easy-gallery.css",
-    "public/css",
-    "static/css/hugo-easy-gallery.css",
-    "static/css",
-    "layouts/shortcodes/load-photoswipe.html",
-    "content/posts/260324-llanilar-workshop-1.md",
     "content/workshops.md",
     "content/resources.md",
-    "content/organise.md",
     "content/naturalists.md",
     "content/contact.md",
     "content/artists.md",
-    "content/about.md",
     "content/posts/_index.md",
     "content/posts/10-things-you-can-do-for-your-mental-health.md",
     "content/posts/why-humanity-must-save-nature-to-save-itself.md",
     "Untitled.md",
-    "content/posts/260326-.md",
     "Untitled 1.md",
     "2026-03-23.md",
     "conflict-files-obsidian-git.md",

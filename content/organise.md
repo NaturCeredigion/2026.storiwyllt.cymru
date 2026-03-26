@@ -1,5 +1,6 @@
 ---
 title: Trefnu / Organise
+modified: 2026-03-26T18:07:38+00:00
 ---
 ## Workshop dates
 
@@ -11,8 +12,6 @@ title: Trefnu / Organise
 | LAR   |      `Tue 24 Mar AM`      |      `Thu 16 Apr AM`      |        `Tue 28 Apr AM`        |      `Thu 21 May PM`      |      `Tue 02 Jun AM`      |
 ## Summary
 *Combining wildlife ID with habitat creation and storytelling, culminating in bilingual wild stories celebration in Aberteifi in late June.*
-! [ALT text]()
-![https://res.cloudinary.com/growdigital/image/upload/v1773781549/Screenshot_2026-03-17_20-39-52.webp](https://res.cloudinary.com/growdigital/image/upload/v1773781549/Screenshot_2026-03-17_20-39-52.webp)
 - 4 schools
 - 5x 2-hour workshops **Mar-Jun**
 - Group size 12-15
