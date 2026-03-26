@@ -9,15 +9,16 @@ date: 2026-03-20T20:17:47+00:00
 modified: 2026-03-26T18:29:54+00:00
 ---
 
+## Oriel Gallery
 <div class="gallery-box">
   <div class="gallery">
     <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544857/250320-aberaeron-workshop1-7-spot-ladybird-net.jpg" alt="" loading="lazy">
+      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-jewson-garden.jpg" alt="" loading="lazy">
       <figcaption>a</figcaption>
     </figure>
     <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544858/250320-aberaeron-workshop1-carys_carys.jpg" alt="" loading="lazy">
-      <figcaption>a</figcaption>
+      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544857/250320-aberaeron-workshop1-7-spot-ladybird-net.jpg" alt="" loading="lazy">
+      <figcaption>Seven-spot Ladybird caught in the net</figcaption>
     </figure>
     <figure>
       <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544859/250320-aberaeron-workshop1-carys-students.jpg" alt="" loading="lazy">
@@ -56,7 +57,7 @@ modified: 2026-03-26T18:29:54+00:00
       <figcaption>a</figcaption>
     </figure>
     <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-jewson-garden.jpg" alt="" loading="lazy">
+      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544858/250320-aberaeron-workshop1-carys_carys.jpg" alt="" loading="lazy">
       <figcaption>a</figcaption>
     </figure>
   </div>

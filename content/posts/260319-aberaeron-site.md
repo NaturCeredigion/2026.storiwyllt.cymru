@@ -13,3 +13,25 @@ Last year, we ran the Grassland ID workshops at Penmorfa with Ysgol Gynradd Aber
 {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1762376607/250516-aberaeron-penmorfa-children.jpg" alt="Students in bright red shirts on green sloping grassland with blue sea and sky" caption="Students from Ysgol Gynradd Aberaeron on Grassland ID workshop 2025" >}}
 
 This year, we’re hoping for another magical spot, with a witch’s house, but this has yet to be confirmed. I had a chance meeting with my colleague, the learned Tree Officer Norman Birch, and he explained that 
+
+## Oriel Gallery
+<div class="gallery-box">
+  <div class="gallery">
+    <figure>
+      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-jewson-garden.jpg" alt="" loading="lazy">
+      <figcaption>a</figcaption>
+    </figure>
+    <figure>
+      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-wood-anemones.jpg" alt="" loading="lazy">
+      <figcaption>a</figcaption>
+    </figure>
+    <figure>
+      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544827/250319-aberaeron-reccie-allotment.jpg" alt="" loading="lazy">
+      <figcaption>a</figcaption>
+    </figure>
+    <figure>
+      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544827/250319-aberaeron-reccie-penmorfa-beach.jpg" alt="" loading="lazy">
+      <figcaption>a</figcaption>
+    </figure>
+  </div>
+</div>

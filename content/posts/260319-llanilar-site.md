@@ -8,3 +8,6 @@ draft: false
 date: 2026-03-19T20:05:33+00:00
 modified: 2026-03-26T18:26:03+00:00
 ---
+
+
+{{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544843/250319-llanilar-reccie-river-ystwyth-sun.jpg" alt="" caption="" >}}
