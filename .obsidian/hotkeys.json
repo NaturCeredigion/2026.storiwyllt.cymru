@@ -324,5 +324,15 @@
       ],
       "key": "J"
     }
+  ],
+  "snippets-manager:open-snippet-search": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Meta"
+      ],
+      "key": "P"
+    }
   ]
 }
