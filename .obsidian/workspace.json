@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "944db5f67f1eadb7",
+        "id": "1a74559b7fc182da",
         "type": "tabs",
         "children": [
           {
-            "id": "a6773ea889b2aebe",
+            "id": "f1c5256f3086c567",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/260319-aberaeron-site.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "260319-aberaeron-site"
             }
           }
         ]
@@ -175,23 +179,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "iconic:Open rulebook": false
     }
   },
-  "active": "a6773ea889b2aebe",
+  "active": "f1c5256f3086c567",
   "lastOpenFiles": [
-    "content/contact.md",
-    "assets/snippets/snippets.md",
+    "content/posts/260324-llanilar-workshop-1.md",
+    "content/posts/260320-esgair-arth-site.md",
     "content/posts/260320-aberaeron-workshop-1.md",
-    "assets/snippets",
+    "content/posts/260320-aberaeron-twr-gwyllt.md",
+    "content/posts/260319-llanilar-site.md",
     "content/posts/260319-aberaeron-site.md",
     "content/posts/260303-symposiwm.md",
-    "content/posts/260320-aberaeron-twr-gwyllt.md",
-    "content/posts/260320-esgair-arth-site.md",
-    "content/posts/260324-llanilar-workshop-1.md",
+    "assets/snippets/snippets.md",
+    "content/contact.md",
+    "assets/snippets",
     "content/about.md",
     "content/posts/_index.md",
-    "content/posts/260319-llanilar-site.md",
     "public/posts/260320-esgair-arth-site/index.html",
     "public/posts/260320-esgair-arth-site",
     "public/posts/260324-llanilar-workshop-1/index.html",

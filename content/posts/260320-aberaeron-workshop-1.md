@@ -3,10 +3,11 @@ title: Workshop No.1 at Ysgol Gynradd Aberaeron
 description:
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544858/250320-aberaeron-workshop1-carys-hedgehog-poo.jpg
 image_caption:
+author: Jake Rayson
 tags:
 draft: false
 date: 2026-03-20T20:17:47+00:00
-modified: 2026-03-26T18:29:54+00:00
+modified: 2026-03-28T21:03:49+00:00
 ---
 
 ## Oriel Gallery
