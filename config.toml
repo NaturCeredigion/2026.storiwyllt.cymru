@@ -148,9 +148,9 @@ title = "Stori Wyllt 2026"
     enable = true
     hero_title = "Stori Wyllt <span><i>Wild&nbsp;Story</i></span>" # Add the "span" tag to highlight text.
     hero_description = "Hud bywyd gwyllt i ysgolion drwy adrodd straeon<br><i>Wildlife magic for schools through storytelling</i>"
-    hero_image = "https://via.placeholder.com/1920x1080"
+    hero_image = "https://res.cloudinary.com/naturceredigion/image/upload/v1774544843/250319-llanilar-reccie-river-ystwyth-stone-beach.jpg"
     hero_button_contact = "Get In Touch"
-    hero_button_about = "About Me"
+    hero_button_about = "Am Stori Wyllt"
 
   #-------------------------------
   # Schools Settings
@@ -162,7 +162,7 @@ title = "Stori Wyllt 2026"
   # Testimonials Section
   [params.testimonials]
     enable = true
-    testimonial_title = "🙂 What Clients Say"
+    testimonial_title = "🙂 What People Say"
 
   [[params.testimonial_item]]
     name = "Carla Kenter"
@@ -208,10 +208,10 @@ title = "Stori Wyllt 2026"
   # Newsletter Settings
   [params.mailchimp]
     enable = true
-    mailchimp_title = "Get interesting news"
-    mailchimp_identifier = "frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp_title = "For Ceredigion nature news, sign up to Newyddion Natur Ceredigion News"
+    mailchimp_identifier = "" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp_input_text = "Enter your email address"
-    mailchimp_background_image = "https://via.placeholder.com/1920x1080"
+    mailchimp_background_image = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618622/hare-grassland-background.jpg"
 
   #-------------------------------
   # Footer Settings
