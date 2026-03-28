@@ -15,27 +15,6 @@ Last year, we ran the Grassland ID workshops at Penmorfa with Ysgol Gynradd Aber
 This year, we’re hoping for another magical spot, with a witch’s house, but this has yet to be confirmed. I had a chance meeting with my colleague, the learned Tree Officer Norman Birch, and he explained that 
 
 ## Oriel Gallery
-<!-- <div class="gallery-box">
-  <div class="gallery">
-    <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-jewson-garden.jpg" alt="" loading="lazy">
-      <figcaption>a</figcaption>
-    </figure>
-    <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-wood-anemones.jpg" alt="" loading="lazy">
-      <figcaption>a</figcaption>
-    </figure>
-    <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544827/250319-aberaeron-reccie-allotment.jpg" alt="" loading="lazy">
-      <figcaption>a</figcaption>
-    </figure>
-    <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544827/250319-aberaeron-reccie-penmorfa-beach.jpg" alt="" loading="lazy">
-      <figcaption>a</figcaption>
-    </figure>
-  </div>
-</div>
- -->
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-jewson-garden.jpg" caption="The community garden at Jewsons in Aberaeron, site of the Tŵr Gwyllt project" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-wood-anemones.jpg" caption="Wood Anemones (Anemone nemerosa) on riverside walk to allotment & Jewsons" >}}

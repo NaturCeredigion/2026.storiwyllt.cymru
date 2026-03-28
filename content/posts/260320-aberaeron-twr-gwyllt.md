@@ -20,24 +20,9 @@ In old Welsh folk belief, toads were linked to wise women and hidden knowledge, 
 
 Next is the bug bothy!
 ## Oriel Gallery
-
-<div class="gallery-box">
-  <div class="gallery">
-    <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433496/260320-becca-toad-twr-gwyllt-169.jpg" alt="A toad in a pair of gentle hands" loading="lazy">
-      <figcaption>Llyffant preswyl / Resident toad</figcaption>
-    </figure>
-    <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433495/260320-lletau-llyffant-both-sides-gabion-twr-gwyllt-169.jpg" alt="Inside of gabion, showing 2 sides filled with driftwood, stones and moss" loading="lazy">
-      <figcaption>The beginnings of the Tŵr Gwyllt</figcaption>
-    </figure>
-    <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-root-moss-stone-twr-gwyllt-169.jpg" alt="Rock, driftwood and moss" loading="lazy">
-      <figcaption>Simple, powerful ingredients: rock, driftwood, moss</figcaption>
-    </figure>
-    <figure>
-      <img src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433496/260320-lletau-llyffant-closeup-twr-gwyllt-169.jpg" alt="Close-up of gnarly hole in driftwood" loading="lazy">
-      <figcaption>This is a crevice crying out for occupation</figcaption>
-    </figure>
-  </div>
-</div>
+{{< gallery >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433496/260320-becca-toad-twr-gwyllt-169.jpg" caption="Llyffant preswyl / Resident toad" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433495/260320-lletau-llyffant-both-sides-gabion-twr-gwyllt-169.jpg" caption="The beginnings of the Tŵr Gwyllt" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-root-moss-stone-twr-gwyllt-169.jpg" caption="Simple, powerful ingredients: rock, driftwood, moss" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774433496/260320-lletau-llyffant-closeup-twr-gwyllt-169.jpg" caption="This is a crevice crying out for occupation" >}}
+{{< /gallery >}}
