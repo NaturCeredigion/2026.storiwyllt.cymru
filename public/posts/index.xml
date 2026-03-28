@@ -4,7 +4,7 @@
     <title>Posts on Stori Wyllt 2026</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Stori Wyllt 2026</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Thu, 26 Mar 2026 20:44:24 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/260324-llanilar-workshop-1/</link>
       <pubDate>Tue, 24 Mar 2026 20:19:33 +0000</pubDate>
       <guid>http://localhost:1313/posts/260324-llanilar-workshop-1/</guid>
-      <description></description>
+      <description>Oriel gallery </description>
     </item>
     <item>
       <title>Mishaps &amp; magic at Esgair Arth</title>
@@ -27,35 +27,35 @@
       <link>http://localhost:1313/posts/260320-aberaeron-workshop-1/</link>
       <pubDate>Fri, 20 Mar 2026 20:17:47 +0000</pubDate>
       <guid>http://localhost:1313/posts/260320-aberaeron-workshop-1/</guid>
-      <description>&lt;div class=&#34;gallery-box&#34;&gt;&#xA;  &lt;div class=&#34;gallery&#34;&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-jewson-garden.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544857/250320-aberaeron-workshop1-7-spot-ladybird-net.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;Seven-spot Ladybird caught in the net&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544859/250320-aberaeron-workshop1-carys-students.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544859/250320-aberaeron-workshop1-daffodil-lens.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544860/250320-aberaeron-workshop1-native-plants-box.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544862/250320-aberaeron-workshop1-plantain-flower.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544863/250320-aberaeron-workshop1-plant-samples-bag.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544863/250320-aberaeron-workshop1-slug-bugpot.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544864/250320-aberaeron-workshop1-spiders-open-pooter.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544866/250320-aberaeron-workshop1-spiders-pooter.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544875/250320-aberaeron-workshop1-woodlice-bark.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;    &lt;figure&gt;&#xA;      &lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1774544858/250320-aberaeron-workshop1-carys_carys.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34;&gt;&#xA;      &lt;figcaption&gt;a&lt;/figcaption&gt;&#xA;    &lt;/figure&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+      <description>Oriel Gallery a Seven-spot Ladybird caught in the net a a a a a a a a a a </description>
     </item>
     <item>
       <title>Tŵr Gwyllt at Aberaeron</title>
       <link>http://localhost:1313/posts/260320-aberaeron-twr-gwyllt/</link>
       <pubDate>Fri, 20 Mar 2026 18:10:28 +0000</pubDate>
       <guid>http://localhost:1313/posts/260320-aberaeron-twr-gwyllt/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Guest post by artist &lt;a href=&#34;https://www.instagram.com/rebeccawynkelly&#34;&gt;Rebecca Wyn Kelly&lt;/a&gt;:&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;While Jake was visiting the Jewsons yard with Ysgol Aberaeron, we came across this toad tucked beneath a log, a quiet little resident already making use of the space.&lt;/p&gt;&#xA;&lt;p&gt;I’m really hoping he might take shelter in one of the &lt;em&gt;Lletau Llyffant&lt;/em&gt; I’ve created; these are small shelters made with the toads in mind.&lt;/p&gt;&#xA;&lt;p&gt;A little about Llyffantod&lt;/p&gt;&#xA;&lt;p&gt;In old Welsh folk belief, toads were linked to wise women and hidden knowledge, and were said to carry carreg y llyffant in their heads, a magical stone with protective powers. Living between water and land, tucked beneath logs and stones, they’re natural threshold keepers, creatures of the in-between, brushing right up against the Otherworld of Annwn.&lt;/p&gt;</description>
+      <description>Guest post by artist Rebecca Wyn Kelly:&#xA;While Jake was visiting the Jewsons yard with Ysgol Aberaeron, we came across this toad tucked beneath a log, a quiet little resident already making use of the space.&#xA;I’m really hoping he might take shelter in one of the Lletau Llyffant I’ve created; these are small shelters made with the toads in mind.&#xA;A little about Llyffantod&#xA;In old Welsh folk belief, toads were linked to wise women and hidden knowledge, and were said to carry carreg y llyffant in their heads, a magical stone with protective powers.</description>
     </item>
     <item>
       <title>Aberaeron site reccie</title>
       <link>http://localhost:1313/posts/260319-aberaeron-site/</link>
       <pubDate>Thu, 19 Mar 2026 20:17:25 +0000</pubDate>
       <guid>http://localhost:1313/posts/260319-aberaeron-site/</guid>
-      <description>&lt;p&gt;Last year, we ran the Grassland ID workshops at Penmorfa with Ysgol Gynradd Aberaeron.&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://res.cloudinary.com/naturceredigion/image/upload/v1762376607/250516-aberaeron-penmorfa-children.jpg&#34;&#xA;    alt=&#34;Students in bright red shirts on green sloping grassland with blue sea and sky&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Students from Ysgol Gynradd Aberaeron on Grassland ID workshop 2025&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;This year, we’re hoping for another magical spot, with a witch’s house, but this has yet to be confirmed. I had a chance meeting with my colleague, the learned Tree Officer Norman Birch, and he explained that&lt;/p&gt;</description>
+      <description>Last year, we ran the Grassland ID workshops at Penmorfa with Ysgol Gynradd Aberaeron.&#xA;Students from Ysgol Gynradd Aberaeron on Grassland ID workshop 2025&#xA;This year, we’re hoping for another magical spot, with a witch’s house, but this has yet to be confirmed. I had a chance meeting with my colleague, the learned Tree Officer Norman Birch, and he explained that&#xA;Oriel Gallery </description>
     </item>
     <item>
       <title>Ysgol Llanilar site visit</title>
       <link>http://localhost:1313/posts/260319-llanilar-site/</link>
       <pubDate>Thu, 19 Mar 2026 20:05:33 +0000</pubDate>
       <guid>http://localhost:1313/posts/260319-llanilar-site/</guid>
-      <description></description>
+      <description> </description>
     </item>
     <item>
       <title>Stori Wyllt Symposiwm</title>
       <link>http://localhost:1313/posts/260303-symposiwm/</link>
       <pubDate>Tue, 03 Mar 2026 17:14:59 +0000</pubDate>
       <guid>http://localhost:1313/posts/260303-symposiwm/</guid>
-      <description>&lt;h4 id=&#34;croeso-ir-stori-wyllt-symposiwmwelcome-to-the-stori-wyllt-symposium&#34;&gt;Croeso i&amp;rsquo;r Stori Wyllt symposiwm!&lt;br&gt;Welcome to the Stori Wyllt symposium!&lt;/h4&gt;&#xA;&lt;p&gt;The Stori Wyllt Symposiwm was an ideal opportunity for the teachers, naturalists and creatives from the four schools to meet each other in-person and share ideas at a central location in Ceredigion (Moody Meadows at Bargoed Farm ar bwys Llwyncelyn).&lt;/p&gt;&#xA;&lt;p&gt;The Stori Wyllt schools are, from the south to the north, Ysgol Gynradd Aberteifi, Ysgol Llanarth, Ysgol Gynradd Aberaeron and Ysgol Llanilar.&lt;/p&gt;</description>
+      <description>Croeso i&amp;rsquo;r Stori Wyllt symposiwm!&#xA;Welcome to the Stori Wyllt symposium! The Stori Wyllt Symposiwm was an ideal opportunity for the teachers, naturalists and creatives from the four schools to meet each other in-person and share ideas at a central location in Ceredigion (Moody Meadows at Bargoed Farm ar bwys Llwyncelyn).&#xA;The Stori Wyllt schools are, from the south to the north, Ysgol Gynradd Aberteifi, Ysgol Llanarth, Ysgol Gynradd Aberaeron and Ysgol Llanilar.</description>
     </item>
   </channel>
 </rss>
