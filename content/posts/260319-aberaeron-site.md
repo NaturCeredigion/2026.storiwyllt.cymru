@@ -36,7 +36,6 @@ This year, we’re hoping for another magical spot, with a witch’s house, but 
   </div>
 </div>
  -->
- {{< load-photoswipe >}}
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-jewson-garden.jpg" caption="The community garden at Jewsons in Aberaeron, site of the Tŵr Gwyllt project" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-wood-anemones.jpg" caption="Wood Anemones (Anemone nemerosa) on riverside walk to allotment & Jewsons" >}}
