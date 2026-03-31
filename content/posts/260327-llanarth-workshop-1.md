@@ -7,7 +7,7 @@ tags:
   - Llanarth
   - workshop
 draft: false
-modified: 2026-03-27T17:18:14+00:00
+modified: 2026-03-31T22:03:34+01:00
 date: 2026-03-31T15:50:24+01:00
 ---
 ## Oriel Gallery
