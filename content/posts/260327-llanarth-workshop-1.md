@@ -5,6 +5,7 @@ image: https://res.cloudinary.com/naturceredigion/image/upload/v1774967827/26032
 image_caption: Focussed on their clay creation
 tags:
   - Llanarth
+  - workshop
 draft: false
 modified: 2026-03-27T17:18:14+00:00
 date: 2026-03-31T15:50:24+01:00

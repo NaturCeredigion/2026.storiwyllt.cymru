@@ -5,9 +5,11 @@ image: https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/26032
 image_caption: The beginnings of a gabion wildlife habitat art installation
 author: Jake Rayson
 tags:
+  - TwrGwyllt
+  - Aberaeron
 draft: false
 date: 2026-03-20T18:10:28+00:00
-modified: 2026-03-28T21:03:44+00:00
+modified: 2026-03-31T21:59:35+01:00
 ---
 *Guest post by artist [Rebecca Wyn Kelly](https://www.instagram.com/rebeccawynkelly):*
 

@@ -5,9 +5,11 @@ image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544986/25032
 image_caption:
 author: Jake Rayson
 tags:
+  - Llanilar
+  - workshop
 draft: false
 date: 2026-03-24T20:19:33+00:00
-modified: 2026-03-31T15:42:11+01:00
+modified: 2026-03-31T22:00:15+01:00
 ---
 
 ## Oriel Gallery

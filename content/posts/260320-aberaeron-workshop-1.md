@@ -5,9 +5,11 @@ image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544858/25032
 image_caption:
 author: Jake Rayson
 tags:
+  - workshop
+  - Aberaeron
 draft: false
 date: 2026-03-20T20:17:47+00:00
-modified: 2026-03-31T13:23:55+01:00
+modified: 2026-03-31T21:59:41+01:00
 ---
 
 ## Oriel Gallery

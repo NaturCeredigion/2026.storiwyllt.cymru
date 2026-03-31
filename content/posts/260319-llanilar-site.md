@@ -5,9 +5,10 @@ image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544843/25031
 image_caption: Afon Ystwyth at Llanilar, a beautiful spot
 author: Jake Rayson
 tags:
+  - Llanilar
 draft: false
 date: 2026-03-19T20:05:33+00:00
-modified: 2026-03-28T21:03:28+00:00
+modified: 2026-03-31T21:58:50+01:00
 ---
 I 
 

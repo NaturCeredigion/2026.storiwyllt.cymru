@@ -5,9 +5,11 @@ image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544827/25031
 image_caption: Aberaeron allotments, rife with life
 author: Jake Rayson
 tags:
+  - aberaeron
+  - workshop
 draft: false
 date: 2026-03-19T20:17:25+00:00
-modified: 2026-03-28T21:03:39+00:00
+modified: 2026-03-31T21:58:37+01:00
 ---
 Last year, we ran the Grassland ID workshops at Penmorfa with Ysgol Gynradd Aberaeron. 
 
