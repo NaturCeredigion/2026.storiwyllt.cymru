@@ -1,6 +1,6 @@
 ---
 title: Trefnu / Organise
-modified: 2026-03-26T18:07:38+00:00
+modified: 2026-03-31T15:37:39+01:00
 ---
 ## Workshop dates
 

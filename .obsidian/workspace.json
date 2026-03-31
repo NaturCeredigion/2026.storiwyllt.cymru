@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/organise.md",
+                "file": "content/posts/260324-llanilar-workshop-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "organise"
+              "title": "260324-llanilar-workshop-1"
             }
           }
         ]
@@ -184,6 +184,9 @@
   },
   "active": "20dbd86aa5c68c03",
   "lastOpenFiles": [
+    "assets/snippets/snippets.md",
+    "content/posts/260324-llanilar-workshop-1.md",
+    "content/organise.md",
     "content/posts/260320-aberaeron-workshop-1.md",
     "static/js/load-photoswipe.js",
     "static/js",
@@ -195,16 +198,13 @@
     "layouts/shortcodes/figure.html",
     "layouts/shortcodes",
     "layouts/partials/load-photoswipe.html",
-    "assets/snippets/snippets.md",
     "content/posts/260319-aberaeron-site.md",
     "content/posts/260303-symposiwm.md",
     "content/posts/260320-aberaeron-twr-gwyllt.md",
     "content/posts/260320-esgair-arth-site.md",
-    "content/posts/260324-llanilar-workshop-1.md",
     "content/about.md",
     "content/posts/_index.md",
     "content/posts/260319-llanilar-site.md",
-    "content/organise.md",
     "assets/templates/post.md",
     "content/workflow.md",
     "content/workshops.md",

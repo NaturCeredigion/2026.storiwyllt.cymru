@@ -7,11 +7,12 @@ author: Jake Rayson
 tags:
 draft: false
 date: 2026-03-24T20:19:33+00:00
-modified: 2026-03-28T21:04:21+00:00
+modified: 2026-03-31T15:40:24+01:00
 ---
 
-## Oriel gallery
+## Oriel Gallery
 {{< gallery >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774816007/250324-llanilar-workshop1-lichen.jpg" caption="Looking at lichen (a symbiotic life form of fungi and algae/bacteria) went down very well in the classroom" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544986/250324-llanilar-workshop1-sheena-sedge-grass" caption="" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544991/250324-llanilar-workshop1-yellow-iris-pond" caption="" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544989/250324-llanilar-workshop1-wood-anemone-willow" caption="" >}}
