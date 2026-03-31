@@ -10,6 +10,11 @@ modified: 2026-03-26T18:07:38+00:00
 | AB    |      `Fri 20 Mar AM`      | `Fri 17 Apr AM`<br>*Site* |        `Fri 08 May PM`        |      `Fri 15 May AM`      |      `Thu 11 Jun AM`      |
 | LTH   | `Fri 27 Mar AM`<br>*Site* |      `Thu 16 Apr AM`      | `Fri 08 May AM`<br>*Site*<br> | `Fri 22 May AM`<br>*Site* | `Fri 12 Jun AM`<br>*Site* |
 | LAR   |      `Tue 24 Mar AM`      |      `Thu 16 Apr AM`      |        `Tue 28 Apr AM`        |      `Thu 21 May PM`      |      `Tue 02 Jun AM`      |
+### Celebration event
+- **Mon 29 Jun** - early eve
+- [Stiwdio 3](https://www.openstreetmap.org/way/545863539), Aberteifi
+- Work on display until **Mon 6 Jul**
+- School visits **Wed 8, Thu 9, Fri 10 Jul**
 ## Summary
 *Combining wildlife ID with habitat creation and storytelling, culminating in bilingual wild stories celebration in Aberteifi in late June.*
 - 4 schools

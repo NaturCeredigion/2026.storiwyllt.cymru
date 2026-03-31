@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1434e33ade415f84",
+        "id": "1f13dc6e0a8fc4c0",
         "type": "tabs",
         "children": [
           {
-            "id": "e48da28743ce2fa8",
+            "id": "20dbd86aa5c68c03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/organise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "organise"
             }
           }
         ]
@@ -179,39 +179,38 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "zk-prefixer:Create new unique note": false,
-      "iconic:Open rulebook": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "e48da28743ce2fa8",
+  "active": "20dbd86aa5c68c03",
   "lastOpenFiles": [
-    "content/posts/260319-aberaeron-site.md",
-    "content/posts/260324-llanilar-workshop-1.md",
-    "content/posts/260320-esgair-arth-site.md",
     "content/posts/260320-aberaeron-workshop-1.md",
-    "content/posts/260320-aberaeron-twr-gwyllt.md",
-    "content/posts/260319-llanilar-site.md",
-    "content/posts/260303-symposiwm.md",
+    "static/js/load-photoswipe.js",
+    "static/js",
+    "static/css/hugo-easy-gallery.css",
+    "static/css",
+    "layouts/shortcodes/load-photoswipe.html",
+    "layouts/shortcodes/load-photoswipe-theme.html",
+    "layouts/shortcodes/gallery.html",
+    "layouts/shortcodes/figure.html",
+    "layouts/shortcodes",
+    "layouts/partials/load-photoswipe.html",
     "assets/snippets/snippets.md",
-    "content/contact.md",
-    "assets/snippets",
+    "content/posts/260319-aberaeron-site.md",
+    "content/posts/260303-symposiwm.md",
+    "content/posts/260320-aberaeron-twr-gwyllt.md",
+    "content/posts/260320-esgair-arth-site.md",
+    "content/posts/260324-llanilar-workshop-1.md",
     "content/about.md",
     "content/posts/_index.md",
-    "public/posts/260320-esgair-arth-site/index.html",
-    "public/posts/260320-esgair-arth-site",
-    "public/posts/260324-llanilar-workshop-1/index.html",
-    "public/posts/260324-llanilar-workshop-1",
-    "public/posts/260320-aberaeron-workshop-1/index.html",
-    "public/posts/260320-aberaeron-workshop-1",
-    "public/posts/260319-llanilar-site/index.html",
-    "public/posts/260319-llanilar-site",
-    "public/posts/260319-aberaeron-site/index.html",
+    "content/posts/260319-llanilar-site.md",
     "content/organise.md",
     "assets/templates/post.md",
     "content/workflow.md",
     "content/workshops.md",
     "content/resources.md",
     "content/naturalists.md",
+    "content/contact.md",
     "content/artists.md",
     "content/posts/10-things-you-can-do-for-your-mental-health.md",
     "content/posts/why-humanity-must-save-nature-to-save-itself.md",
