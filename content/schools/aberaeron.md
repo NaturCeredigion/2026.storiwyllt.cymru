@@ -17,6 +17,9 @@ Aberaeron is a small coastal town on the river Aeron, with a population of about
 
 The school took part in the Grassland ID workshops in 2025, organised by Ceredigion Nature Partnership, which was laid the foundations for the Stori Wyllt project. 
 
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-4.266785681247712%2C52.240581110591286%2C-4.263245165348054%2C52.242075708847516&amp;layer=mapnik" style="border: 1px solid black"></iframe><p><small><a href="https://www.openstreetmap.org/?#map=19/52.241328/-4.265015&amp;layers=N">View Larger Map</a></small></p>
+
+## Oriel Gallery
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1775042024/260401-ysgol-gynradd-aberaeron-satellite.webp" caption="Satellite photo showing Ysgol Gynradd Aberaeron situated right next to the coast, grassland, river and woodland, all accessible by footpaths" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1775040367/260401-ysgol-gynradd-aberaeron-website-screenshot.webp" caption="Ysgol Gynradd Aberaeron‘s website" >}}
