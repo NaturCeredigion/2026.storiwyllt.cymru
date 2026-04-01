@@ -118,10 +118,10 @@ title = "Stori Wyllt 2026"
 
   #-------------------------------
   # Social Settings
-  [[params.social]]
-    icon = "fa-brands fa-mastodon"
-    name = "Mastodon"
-    link = "https://en.wikipedia.org/wiki/Mastodon_(social_network)"
+  # [[params.social]]
+  #   icon = "fa-brands fa-mastodon"
+  #   name = "Mastodon"
+  #   link = "https://en.wikipedia.org/wiki/Mastodon_(social_network)"
 
   # [[params.social]]
   #   icon = "fa-brands fa-pixelfed"
@@ -195,7 +195,7 @@ title = "Stori Wyllt 2026"
   #-------------------------------
   # Footer Settings
   [params.footer]
-    footer_description = "I’m Aaron, a creative Illustrator & Art Director based in San Francisco. I seek to push the limits of creativity to create high-engaging and memorable interactive experiences."
+    footer_description = "Stori Wyllt aims to bring nature to life. Wildlife ID, habitat creation & storytelling workshops to create a Wild Story."
 
   #-------------------------------
   # Contact Settings
@@ -207,9 +207,9 @@ title = "Stori Wyllt 2026"
 
   #-------------------------------
   # Comment Section (Disqus)
-  [params.disqus]
-    enable = true
-    disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
+  # [params.disqus]
+  #   enable = true
+  #   disqusShortname = "anvodstudio-demo" # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 [markup]
   [markup.goldmark]

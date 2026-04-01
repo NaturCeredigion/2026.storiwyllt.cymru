@@ -13,7 +13,7 @@ modified: 2026-04-01T10:55:51+01:00
 {{< load-photoswipe >}}
 
 <p><i lang="cy">Dod â natur yn fyw. ID bywyd gwyllt, creu cynefinoedd a gweithdai adrodd straeon i greu Stori Wyllt.</i><br>Bring nature to life. Wildlife ID, habitat creation & storytelling workshops to create a Wild Story.</p>
-<p><i lang="cy">Mae Stori Wyllt yn brosiect peilot ar gyfer ysgolion cynradd yng Cheredigion sy'n rhedeg o fis Mawrth i fis Mehefin 2026, gyda'r nod o ymgorffori adferiad natur ym mywyd yr ysgol, wedi‘i drefnu gan
+<p><i lang="cy">Mae Stori Wyllt yn brosiect peilot ar gyfer ysgolion cynradd yng Cheredigion sy'n rhedeg o fis Mawrth i fis Mehefin 2026, gyda'r nod o ymgorffori adferiad natur ym mywyd yr ysgol, wedi‘i drefnu gan.
 <a href="https://www.naturceredigion.cymru/cy/">Bartneriaeth Natur Ceredigion</a>.</i><br>Stori Wyllt is a pilot project for primary schools in Ceredigion running from March to June 2026, aiming to embed nature recovery into school life, organised by <a href="https://www.naturceredigion.cymru/en/">Ceredigion Nature Partnership</a>.</p>
 
 The project is organised by Jake Rayson, Biodiversity Assistant at [Ceredigion Nature Partnership](https://naturceredigion.cymru/). The idea came about from a Grassland ID workshop in the summer of 2025 (the workshops were funded by Dŵr Cymru). [WWBIC](https://www.wwbic.org.uk/) Ecologist Carys May and teacher Carys Griffiths-Jones at Ysgol Gynradd Aberaeron had organised sketching as one of the activities. One of the students started to colour in the pencil drawing with plant material.
