@@ -1,24 +1,25 @@
 <div class="widget-sidebar project-meta">
-  <h2 class="widget-sidebar__title">Project Details</h2>
+  <h2 class="widget-sidebar__title">School details</h2>
   {{ if .Params.summary }}
   <p class="project-meta__summary">{{ .Params.summary }}</p>
   {{ end }}
-  {{ if .Params.client }}
+  {{ if .Params.website }}
   <div class="project-meta__item">
-    <h3 class="project-meta__name">Client</h3>
-    <div class="project-meta__text">{{ .Params.client }}</div>
+    <h3 class="project-meta__name">Website</h3>
+    <div class="project-meta__text"><a href="{{ .Params.website }}" target="_blank">{{ strings.TrimLeft "https://" .Params.website }}</a></div>
   </div>
   {{ end }}
-  {{ if .Params.tools }}
+  {{ if .Params.students }}
   <div class="project-meta__item">
-    <h3 class="project-meta__name">Made With</h3>
-    <div class="project-meta__text">{{ .Params.tools }}</div>
+    <h3 class="project-meta__name">Number of students</h3>
+    <div class="project-meta__text">{{ .Params.students }}</div>
   </div>
   {{ end }}
-  {{ if .Params.date }}
+  {{ if .Params.map }}
   <div class="project-meta__item">
-    <h3 class="project-meta__name">Date</h3>
-    <time class="project-meta__text" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 January, 2006" }}
+    <h3 class="project-meta__name">Map</h3>
+    <div class="project-meta__text"><a href="https://{{ .Params.map }}">OpenStreetMap</a></div>
+    <!-- <time class="project-meta__text" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "2 January, 2006" }} -->
     </time>
   </div>
   {{ end }}

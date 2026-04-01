@@ -1,10 +1,13 @@
 ---
-title: Aberaeron
-subtitle: Ysgol Gynradd Aberaeron
+title: Ysgol Gynradd Aberaeron
+subtitle: “Gweithio’n Galed, Chwarae‘n Galed”
 summary: Carys Griffiths-Jones is a key inspiration for Stori Wyllt, is head of Year 5 and co-leads The Expressive Arts at the school. 
 date: 2026-04-01T11:39:57+01:00
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544859/250320-aberaeron-workshop1-carys-students.jpg
 caption: Teacher Carys Griffiths-Jones discussing wildlife with students
+website: https://www.ysgolgynraddaberaeron.cymru
+students: 218
+map: https://www.openstreetmap.org/way/159052695
 ---
 {{< load-photoswipe >}}
 
