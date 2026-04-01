@@ -13,7 +13,7 @@ map: https://www.openstreetmap.org/way/159052695
 
 [Ysgol Gynradd Aberaeron](https://www.ysgolgynraddaberaeron.cymru/) is a Welsh medium primary school with about 220 students, situated right next to the [Cardigan Bay](https://en.wikipedia.org/wiki/Cardigan_Bay) coastline in the town of [Aberaeron](https://en.wikipedia.org/wiki/Aberaeron). 
 
-Aberaeron is a small coastal town on the river Aeron, with a population of about 1,500, and an administrative centre for Ceredigion County Council. As can be seen from the satellite photo, there is a wide range of habitat, from the storm beaches accessible by the Ceredigion Coast Path, through to the grassland at Penmorfa, the woodland in Panteg across the A487, and the [River Aeron](https://en.wikipedia.org/wiki/River_Aeron), which flows past the [Aberaeron Allotments](https://www.aberaeronallotmentassociation.org.uk/).
+Aberaeron is a small coastal town on the river Aeron, with a population of about 1,500, and an administrative centre for Ceredigion County Council. As can be seen from the satellite photo, there is a wide range of habitat, from the storm beaches accessible by the [Ceredigion Coast Path](https://en.wikipedia.org/wiki/Ceredigion_Coast_Path), through to the grassland at Penmorfa, the woodland in Panteg across the A487, and the [River Aeron](https://en.wikipedia.org/wiki/River_Aeron), which flows past the [Aberaeron Allotments](https://www.aberaeronallotmentassociation.org.uk/).
 
 The school took part in the Grassland ID workshops in 2025, organised by Ceredigion Nature Partnership, which was laid the foundations for the Stori Wyllt project. 
 

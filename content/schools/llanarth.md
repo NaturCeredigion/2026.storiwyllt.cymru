@@ -1,6 +1,6 @@
 ---
 title: Ysgol Llanarth
-subtitle: 
+subtitle: “Mae pawb yn ennill gyda dysgu”
 summary: Cally Jones 
 date: 2026-04-01T11:39:57+01:00
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774967838/260327-llanarth-workshop1-clay-table.jpg
@@ -16,7 +16,7 @@ map: https://www.openstreetmap.org/way/105136066
 - History
 
 {{< gallery >}}
-  {{< figure src="" caption="" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1772538530/260303-molly-ysgol-llanarth-satellite.jpg" caption="" >}}
   {{< figure src="" caption="" >}}
   {{< figure src="" caption="" >}}
 {{< /gallery >}}
