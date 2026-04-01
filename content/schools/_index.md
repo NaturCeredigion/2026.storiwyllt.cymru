@@ -1,4 +1,4 @@
 ---
-title: My Works
-description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+title: Ysgolion / Schools
+description: The four Ceredigion schools involved in Stori Wyllt 2026
 ---

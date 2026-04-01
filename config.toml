@@ -162,47 +162,26 @@ title = "Stori Wyllt 2026"
   # Testimonials Section
   [params.testimonials]
     enable = true
-    testimonial_title = "🙂 What People Say"
+    testimonial_title = "🙂 What people say"
 
   [[params.testimonial_item]]
-    name = "Carla Kenter"
-    image = "https://via.placeholder.com/200x200"
-    designation = "Professional Artist"
-    link = "https://twitter.com/"
-    content = "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
-
-  [[params.testimonial_item]]
-    name = "Kierra Botosh"
-    image = "https://via.placeholder.com/200x200"
-    designation = "Growth & Community"
-    link = "https://facebook.com/"
-    content = "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
-
-  [[params.testimonial_item]]
-    name = "Randy Herwitz"
-    image = "https://via.placeholder.com/200x200"
-    designation = "Executive Assistant"
-    link = "https://twitter.com/"
-    content = "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
-
-  [[params.testimonial_item]]
-    name = "Hanna Franci"
-    image = "https://via.placeholder.com/200x200"
-    designation = "Product Designer"
-    link = "https://facebook.com/"
-    content = "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus"
+    name = "Ysgol Llanarth"
+    image = "https://res.cloudinary.com/naturceredigion/image/upload/v1775043960/251015-ysgol-llanarth-mollys-square.jpg"
+    designation = "Student"
+    link = "https://mylocalschool.gov.wales/School/6672291?lang=en"
+    content = "This is better than Xbox!!!"
 
   #-------------------------------
   # Blog Section
   [params.blog]
     enable = true
-    blog_title = "📚 Read Latest Posts"
+    blog_title = "📚 Read latest posts"
 
   #-------------------------------
   # Tags Section
   [params.tags]
     enable = true
-    tags_title = "✌️ Explore Topics"
+    tags_title = "✌️ Explore topics"
 
   #-------------------------------
   # Newsletter Settings
@@ -220,8 +199,8 @@ title = "Stori Wyllt 2026"
 
   #-------------------------------
   # Contact Settings
-  [params.contact]
-    contact_email = "your@email.com" # Add your form_id
+  # [params.contact]
+  #   contact_email = "your@email.com" # Add your form_id
 
     # NOTE
     # Simpler theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.

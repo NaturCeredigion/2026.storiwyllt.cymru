@@ -1,36 +1,25 @@
 ---
 title: Aberaeron
-subtitle: Poster
-summary: Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.
-date: 2023-01-05 08:01:35 +0300
-image: 'https://via.placeholder.com/1920x1080'
+subtitle: Ysgol Gynradd Aberaeron
+summary: Carys Griffiths-Jones is a key inspiration for Stori Wyllt, is head of Year 5 and co-leads The Expressive Arts at the school. 
+date: 2026-04-01T11:39:57+01:00
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544859/250320-aberaeron-workshop1-carys-students.jpg
+caption: Teacher Carys Griffiths-Jones discussing wildlife with students
 ---
+{{< load-photoswipe >}}
 
-Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Donec lacus viverran, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus enim ultrices.
+[Ysgol Gynradd Aberaeron](https://www.ysgolgynraddaberaeron.cymru/) is a Welsh medium primary school with about 220 students, situated right next to the [Cardigan Bay](https://en.wikipedia.org/wiki/Cardigan_Bay) coastline in the town of [Aberaeron](https://en.wikipedia.org/wiki/Aberaeron). 
 
-## The Benefits of Custom Illustrations
+Aberaeron is a small coastal town on the river Aeron, with a population of about 1,500, and an administrative centre for Ceredigion County Council. As can be seen from the satellite photo, there is a wide range of habitat, from the storm beaches accessible by the Ceredigion Coast Path, through to the grassland at Penmorfa, the woodland in Panteg across the A487, and the [River Aeron](https://en.wikipedia.org/wiki/River_Aeron), which flows past the [Aberaeron Allotments](https://www.aberaeronallotmentassociation.org.uk/).
 
-Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna. Ut orci risus, accumsan porttitor, cursus quis.
+The school took part in the Grassland ID workshops in 2025, organised by Ceredigion Nature Partnership, which was laid the foundations for the Stori Wyllt project. 
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-  </div>
-  <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Freepic</a></em>
-</div>
-
-Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Aenean lectus elit, fermentum non, convallis sagit.
-
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
->
-> <cite>– George Bernard Shaw</cite>
-
-Nulla quam. Aenean laoreet. Vestibulum nisi lectus, commodo ac, facilisis ac, ultricies eu, pede. Ut orci risus, accumsan porttitor, cursus quis, aliquet eget, justo. Sed pretium blandit orci. Ut eu diam at pede suscipit sodales. Aenean lectus elit, fermentum non, convallis id, sagittis at, neque. Nullam mauris orci, aliquet et, iaculis et, viverra vitae, ligula. Nulla ut felis in purus aliquam imperdiet. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-
-- Etiam ultrices. Suspendisse in justo massa fusce non tortor.
-- Quisque volutpat condimentum velit class aptent taciti sodales.
-- Aenean lectus elit fermentum non convallis id sagittis neque porttitor.
-- Morbi lectus risus iaculis vel suscipit luctus nostra non massa.
-
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis sem.
+{{< gallery >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1775042024/260401-ysgol-gynradd-aberaeron-satellite.webp" caption="Satellite photo showing Ysgol Gynradd Aberaeron situated right next to the coast, grassland, river and woodland, all accessible by footpaths" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1775040367/260401-ysgol-gynradd-aberaeron-website-screenshot.webp" caption="Ysgol Gynradd Aberaeron‘s website" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544858/250320-aberaeron-workshop1-carys-hedgehog-poo.jpg" caption="Aberaeron students on the first Stori Wyllt workshop with ecologist Carys May" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1775043255/260331-twr-gwyllt-aberaeron-bybecca.jpg" caption="The new Tŵr Gwyllt (Wild Tower) art installation and wildlife habitat at Jewsons in Aberaeron" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1752935234/250709-aberaeron-grasslandid-downhill-walk.jpg" caption="Students taking part in the Grassland ID workshops in 2025 at Penmorfa" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544827/250319-aberaeron-reccie-allotment.jpg" caption="Aberaeron Allotments by the river, most excellent habitat" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544827/250319-aberaeron-reccie-penmorfa-beach.jpg" caption="Aberaeron storm beach, just below Penmorfa grassland and the Ceredigion Coastal Path" >}}
+{{< /gallery >}}
