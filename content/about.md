@@ -1,29 +1,29 @@
 ---
-title: About
-image: 'https://via.placeholder.com/1200x800'
+title: Am Stori Wyllt
+description: About the Stori Wyllt project
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1765297451/250709-aberaeron-grasslandid-tabletop-habitat.jpg
+image_caption: Grassland ID project in the summer of 2025, funded by Dŵr Cymru
+author: Jake Rayson
+tags:
+  - about
+draft: false
+date: 2026-04-01T10:55:40+01:00
+modified: 2026-04-01T10:55:51+01:00
 ---
+{{< load-photoswipe >}}
 
-Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet.
+<p><i lang="cy">Dod â natur yn fyw. ID bywyd gwyllt, creu cynefinoedd a gweithdai adrodd straeon i greu Stori Wyllt.</i><br>Bring nature to life. Wildlife ID, habitat creation & storytelling workshops to create a Wild Story.</p>
+<p><i lang="cy">Mae Stori Wyllt yn brosiect peilot ar gyfer ysgolion cynradd yng Cheredigion sy'n rhedeg o fis Mawrth i fis Mehefin 2026, gyda'r nod o ymgorffori adferiad natur ym mywyd yr ysgol, wedi‘i drefnu gan
+<a href="https://www.naturceredigion.cymru/cy/">Bartneriaeth Natur Ceredigion</a>.</i><br>Stori Wyllt is a pilot project for primary schools in Ceredigion running from March to June 2026, aiming to embed nature recovery into school life, organised by <a href="https://www.naturceredigion.cymru/en/">Ceredigion Nature Partnership</a>.</p>
 
-Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue.
+The project is organised by Jake Rayson, Biodiversity Assistant at [Ceredigion Nature Partnership](https://naturceredigion.cymru/). The idea came about from a Grassland ID workshop in the summer of 2025 (the workshops were funded by Dŵr Cymru). [WWBIC](https://www.wwbic.org.uk/) Ecologist Carys May and teacher Carys Griffiths-Jones at Ysgol Gynradd Aberaeron had organised sketching as one of the activities. One of the students started to colour in the pencil drawing with plant material.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-    <img src="https://via.placeholder.com/1200x800" loading="lazy" alt="Project">
-  </div>
-  <em>Gallery / <a href="https://via.placeholder.com/1200x800" target="_blank">Freepic</a></em>
-</div>
+{{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1775038182/250516-aberaeron-penmorfa-drawing-plant-colour-square.jpg" alt="Pencil sketch of blue flower coloured in" caption="The plant-based pigment coloured drawing that inspired Stori Wyllt" >}}
 
-Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit amet, augue proin sodales eget ante.
+Another student created a montage of flowers, which were pressed and then laminated, and then they added sketches and names.
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+{{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1765297542/250709-aberaeron-grasslandid-pressed-flowers-laminated.jpg" alt="Flowers, pencil sketch and pencil names on laminated sheet" caption="A spontaneous and " >}}
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas et, augue. Vestibulum tincidunt malesuada tellus. Ut ultrices ultrices enim. Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi. Integer lacinia sollicitudin massa.
+Jake is studying a masters in [Sustainable Planning & Environmental Policy](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability-planning-and-environmental-policy-msc) at Cardiff University, and Stori Wyllt was further developed in a joint project with fellow students Shaheera Sami, Erin Phillips and Abdi Said. 
 
-![Forest](https://via.placeholder.com/1200x800)
-*Photo by [Freepik](https://via.placeholder.com/1200x800)*
-
-Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum. Morbi in ipsum sit amet pede facilisis laoreet. Donec lacus nunc, viverra nec, blandit vel, egestas augue.
-
-Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui.
+There are four primary schools involved across Ceredigion (Ysgol Gynradd Aberteifi, Ysgol Llanarth, Ysgol Gynradd Aberaeron and Ysgol Llanilar), four [artists](/artists/) (Pip Lewis, Molly Gilbert, Rebecca Wyn Kelly and Marian Haf) and four [naturalists](/naturalists/) (Yusef Samari, Jo Dainty, Carys May and Sheena Duller), with a **Celebration Event** at [Stiwdio 3 café & gallery](https://www.openstreetmap.org/way/545863539) week beginning 29th June.

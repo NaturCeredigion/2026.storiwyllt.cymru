@@ -14,7 +14,7 @@
           {{ if or (.Site.Params.hero.hero_button_contact) (.Site.Params.hero.hero_button_about) }}
           <div class="hero__buttons">
             {{ if .Site.Params.hero.hero_button_contact }}
-            <a href="/contact/" class="button hero__button__left">{{ .Site.Params.hero.hero_button_contact }} <i class="hero__button__arrow fa-solid fa-arrow-right"></i></a>
+            <a href="/posts/" class="button hero__button__left">{{ .Site.Params.hero.hero_button_contact }} <i class="hero__button__arrow fa-solid fa-arrow-right"></i></a>
             {{ end }}
             {{ if .Site.Params.hero.hero_button_about }}
             <a href="/about/" class="button button--secondary hero__button__right">{{ .Site.Params.hero.hero_button_about }} <i class="hero__button__arrow fa-solid fa-chevron-right"></i></a>
