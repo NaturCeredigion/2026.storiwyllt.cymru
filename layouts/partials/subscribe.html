@@ -11,10 +11,10 @@
             {{ end }}
           </div>
           <form class="subscribe-form validate"
-            action="{{ if .Site.Params.mailchimp.mailchimp_identifier }}//{{.Site.Params.mailchimp.mailchimp_identifier}}{{ else }}#{{ end }}"
-            method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
+            action="https://buttondown.email/api/emails/embed-subscribe/NaturCeredigion"
+            method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="popupwindow" novalidate  onsubmit="window.open('https://buttondown.email/NaturCeredigion', 'popupwindow')">
             <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="{{ if .Site.Params.mailchimp.mailchimp_input_text }}{{ .Site.Params.mailchimp.mailchimp_input_text }}{{ else }}Email address{{ end }}">
+            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="email" placeholder="{{ if .Site.Params.mailchimp.mailchimp_input_text }}{{ .Site.Params.mailchimp.mailchimp_input_text }}{{ else }}Email address{{ end }}">
             <button class="subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">Subscribe <i class="fa-solid fa-arrow-right"></i></button>
           </form>
         </div>
@@ -27,3 +27,4 @@
 </div>
 <!-- end subscribe -->
 {{ end }}
+

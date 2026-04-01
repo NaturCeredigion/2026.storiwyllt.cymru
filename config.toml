@@ -187,7 +187,7 @@ title = "Stori Wyllt 2026"
   # Newsletter Settings
   [params.mailchimp]
     enable = true
-    mailchimp_title = "For Ceredigion nature news, sign up to Newyddion Natur Ceredigion News"
+    mailchimp_title = "Sign up for Ceredigion Nature Partnership news"
     mailchimp_identifier = "" # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
     mailchimp_input_text = "Enter your email address"
     mailchimp_background_image = "https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618622/hare-grassland-background.jpg"

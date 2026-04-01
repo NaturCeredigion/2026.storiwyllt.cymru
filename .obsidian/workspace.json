@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6ce3676e7a5af310",
+        "id": "0e5279e104f729db",
         "type": "tabs",
         "children": [
           {
-            "id": "710f6a81f1cd8163",
+            "id": "84c858a0d8386113",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/260319-aberaeron-site.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "260319-aberaeron-site"
+              "title": "New tab"
             }
           }
         ]
@@ -182,15 +178,21 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "710f6a81f1cd8163",
+  "active": "84c858a0d8386113",
   "lastOpenFiles": [
+    "content/posts/260319-aberaeron-site.md",
+    "layouts/projects/single.html",
+    "layouts/projects/list.html",
+    "layouts/projects",
+    "layouts/schools/single.html",
+    "layouts/schools/list.html",
+    "layouts/schools",
     "content/posts/260320-aberaeron-twr-gwyllt.md",
     "content/posts/260303-symposiwm.md",
     "content/posts/260327-llanarth-workshop-1.md",
     "content/posts/260324-llanilar-workshop-1.md",
     "content/posts/260320-esgair-arth-site.md",
     "content/posts/260320-aberaeron-workshop-1.md",
-    "content/posts/260319-aberaeron-site.md",
     "content/posts/260319-llanilar-site.md",
     "assets/snippets/snippets.md",
     "content/organise.md",
@@ -198,12 +200,6 @@
     "static/js",
     "static/css/hugo-easy-gallery.css",
     "static/css",
-    "layouts/shortcodes/load-photoswipe.html",
-    "layouts/shortcodes/load-photoswipe-theme.html",
-    "layouts/shortcodes/gallery.html",
-    "layouts/shortcodes/figure.html",
-    "layouts/shortcodes",
-    "layouts/partials/load-photoswipe.html",
     "content/about.md",
     "content/posts/_index.md",
     "assets/templates/post.md",

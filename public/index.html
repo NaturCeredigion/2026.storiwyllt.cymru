@@ -241,7 +241,7 @@
           <div class="section__info">
             <div class="section__head">
               <h2 class="section__title">Ysgolion <i>Schools</i></h2>
-              <a class="section__link" href="/schools">View all</a>
+              
             </div>
             <svg xmlns="http://www.w3.org/2000/svg" width="52" height="12" fill="none"><path stroke="var(--accent-color)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3" d="m2 1.734 8 8 8-8 8 8 8-8 8 8 8-8"/></svg>
           </div>
@@ -279,45 +279,20 @@
                 
                 <div class="project__head">
                   <div class="project__image">
-                    <img class="lazy" data-src="https://via.placeholder.com/1920x1080" alt="Llanilar">
+                    <img class="lazy" data-src="https://res.cloudinary.com/naturceredigion/image/upload/v1765301456/1751579361723-ysgol-aberteifi-grasslandid-netpool.jpg" alt="Aberteifi">
                   </div>
                 </div>
                 
                 <div class="project__inner">
                   <div class="project__info">
                     
-                    <div class="project__subtitle">Design</div>
-                    
-                    
-                    <h3 class="project__title"><a href="/schools/llanilar/" class="project__link">Llanilar</a></h3>
-                    
-                    
-                    <p class="project__excerpt">Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.</p>
-                    
-                  </div>
-                </div>
-              </div>
-            </article>
-            
-            <article class="project col col-4 col-w-6 col-t-12">
-              <div class="project__content">
-                
-                <div class="project__head">
-                  <div class="project__image">
-                    <img class="lazy" data-src="https://via.placeholder.com/1920x1080" alt="Aberteifi">
-                  </div>
-                </div>
-                
-                <div class="project__inner">
-                  <div class="project__info">
-                    
-                    <div class="project__subtitle">Vectors</div>
+                    <div class="project__subtitle">Ysgol Gynradd Aberteifi</div>
                     
                     
                     <h3 class="project__title"><a href="/schools/aberteifi/" class="project__link">Aberteifi</a></h3>
                     
                     
-                    <p class="project__excerpt">Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.</p>
+                    <p class="project__excerpt">Mari Roberts</p>
                     
                   </div>
                 </div>
@@ -329,20 +304,45 @@
                 
                 <div class="project__head">
                   <div class="project__image">
-                    <img class="lazy" data-src="https://via.placeholder.com/1920x1080" alt="Llanarth">
+                    <img class="lazy" data-src="https://res.cloudinary.com/naturceredigion/image/upload/v1774967841/260327-llanarth-workshop1-worm-hunt-3-groups.jpg" alt="Llanarth">
                   </div>
                 </div>
                 
                 <div class="project__inner">
                   <div class="project__info">
                     
-                    <div class="project__subtitle">Desing</div>
+                    <div class="project__subtitle">Ysgol Llanarth</div>
                     
                     
                     <h3 class="project__title"><a href="/schools/llanarth/" class="project__link">Llanarth</a></h3>
                     
                     
-                    <p class="project__excerpt">Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.</p>
+                    <p class="project__excerpt">Cally Jones</p>
+                    
+                  </div>
+                </div>
+              </div>
+            </article>
+            
+            <article class="project col col-4 col-w-6 col-t-12">
+              <div class="project__content">
+                
+                <div class="project__head">
+                  <div class="project__image">
+                    <img class="lazy" data-src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544975/250324-llanilar-workshop1-jan-cleavers.jpg" alt="Llanilar">
+                  </div>
+                </div>
+                
+                <div class="project__inner">
+                  <div class="project__info">
+                    
+                    <div class="project__subtitle">Ysgol Llanilar</div>
+                    
+                    
+                    <h3 class="project__title"><a href="/schools/llanilar/" class="project__link">Llanilar</a></h3>
+                    
+                    
+                    <p class="project__excerpt">Jannette Jones, visionary headteacher</p>
                     
                   </div>
                 </div>
@@ -849,14 +849,14 @@
         <div class="subscribe__inner">
           <div class="subscribe__content">
             
-            <h3 class="subscribe__title">For Ceredigion nature news, sign up to Newyddion Natur Ceredigion News</h3>
+            <h3 class="subscribe__title">Sign up for Ceredigion Nature Partnership news</h3>
             
           </div>
           <form class="subscribe-form validate"
-            action="#"
-            method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
+            action="https://buttondown.email/api/emails/embed-subscribe/NaturCeredigion"
+            method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="popupwindow" novalidate  onsubmit="window.open('https://buttondown.email/NaturCeredigion', 'popupwindow')">
             <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="Enter your email address">
+            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="email" placeholder="Enter your email address">
             <button class="subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">Subscribe <i class="fa-solid fa-arrow-right"></i></button>
           </form>
         </div>
@@ -867,6 +867,8 @@
     <div class="subscribe__bg lazy" data-bg="https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618622/hare-grassland-background.jpg"></div>
   
 </div>
+
+
 
 
 

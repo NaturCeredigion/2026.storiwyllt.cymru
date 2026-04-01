@@ -188,33 +188,27 @@
     <main class="content" aria-label="Content">
       
 
-
-
 <div class="container">
-  <div class="page-head">
 
-    <div class="page-info">
-      
-      <h1 class="page-title">Aberaeron</h1>
-      
-      
-    </div>
-
+  <div class="project-info">
     
-    <div class="page-image">
-      <img class="lazy" data-src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544859/250320-aberaeron-workshop1-carys-students.jpg" alt="Aberaeron">
-    </div>
+    <p class="project-info__subtitle">Ysgol Gynradd Aberaeron</p>
     
     
-
+    <h1 class="project-info__title">Aberaeron</h1>
+    
   </div>
-</div>
 
+  
+  <div class="project-info-image">
+    <img class="lazy" data-src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544859/250320-aberaeron-workshop1-carys-students.jpg" alt="Aberaeron">
+  </div>
+  
 
-<div class="container">
-  <article class="page">
-    <div class="page__content">
-      
+  <div class="row">
+    <div class="project-left col col-7 col-d-12">
+      <div class="project-content">
+        
 
 
 
@@ -385,12 +379,47 @@
 </div>
 
 
+        
+        <div class="project__nav">
+          <div class="project__prev">
+            <div class="project__box">
+              <span class="project__nav-info">Next Project</span>
+              <h2 class="project__nav-title">
+                <a href="http://localhost:1313/schools/aberteifi/" class="project__nav-link">Aberteifi</a>
+              </h2>
+            </div>
+          </div>
+          <a class="project__nav-image" href="http://localhost:1313/schools/aberteifi/">
+            <img class="lazy" data-src="https://res.cloudinary.com/naturceredigion/image/upload/v1765301456/1751579361723-ysgol-aberteifi-grasslandid-netpool.jpg" alt="Aberteifi">
+          </a>
+        </div>
+        
+      </div>
     </div>
-  </article>
+
+    <div class="project-right col col-5 col-d-12">
+      <aside class="sidebar">
+        <div class="widget-sidebar project-meta">
+  <h2 class="widget-sidebar__title">Project Details</h2>
+  
+  <p class="project-meta__summary">Carys Griffiths-Jones is a key inspiration for Stori Wyllt, is head of Year 5 and co-leads The Expressive Arts at the school.</p>
+  
+  
+  
+  
+  <div class="project-meta__item">
+    <h3 class="project-meta__name">Date</h3>
+    <time class="project-meta__text" datetime="2026-04-01T11:39:57&#43;01:00">1 April, 2026
+    </time>
+  </div>
+  
 </div>
+        
+      </aside>
+    </div>
+  </div>
 
-
-
+</div>
 
 
     </main>
@@ -405,14 +434,14 @@
         <div class="subscribe__inner">
           <div class="subscribe__content">
             
-            <h3 class="subscribe__title">For Ceredigion nature news, sign up to Newyddion Natur Ceredigion News</h3>
+            <h3 class="subscribe__title">Sign up for Ceredigion Nature Partnership news</h3>
             
           </div>
           <form class="subscribe-form validate"
-            action="#"
-            method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
+            action="https://buttondown.email/api/emails/embed-subscribe/NaturCeredigion"
+            method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="popupwindow" novalidate  onsubmit="window.open('https://buttondown.email/NaturCeredigion', 'popupwindow')">
             <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="Enter your email address">
+            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="email" placeholder="Enter your email address">
             <button class="subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">Subscribe <i class="fa-solid fa-arrow-right"></i></button>
           </form>
         </div>
@@ -423,6 +452,8 @@
     <div class="subscribe__bg lazy" data-bg="https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618622/hare-grassland-background.jpg"></div>
   
 </div>
+
+
 
 
 
