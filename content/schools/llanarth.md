@@ -11,6 +11,8 @@ map: https://www.openstreetmap.org/way/105136066
 ---
 {{< load-photoswipe >}}
 
+### [Read posts tagged #llanarth](/tags/llanarth/)
+
 [Ysgol Llanarth](https://estyn.gov.wales/education-providers/ysgol-llanarth/) is a relatively small primary school of about 70 students, in the small village of [Llanarth](https://en.wikipedia.org/wiki/Llanarth,_Ceredigion), just south of [Aberaeron](https://en.wikipedia.org/wiki/Aberaeron) on the A487. It‘s only a couple of miles to the [Cardigan Bay](https://en.wikipedia.org/wiki/Cardigan_Bay) coastline, with a good network of [public footpaths](https://ceredigion.gov.uk/resident/coast-countryside/public-rights-of-way/the-definitive-map-public-right-of-way-registers/rights-of-way-map/) and wooded valleys. 
 
 The school has a large grassland grounds, with a mature hedge and a range of different species, and the area is predominantly agricultural.

@@ -11,6 +11,8 @@ map: https://www.openstreetmap.org/way/446375974
 ---
 {{< load-photoswipe >}}
 
+### [Read posts tagged #llanilar](/tags/llanilar/)
+
 [Ysgol Llanilar](https://www.llanilar.ceredigion.sch.uk) is a medium-sized primary school of about 110 students, and is 3 miles south-east of [Aberystwyth](https://en.wikipedia.org/wiki/Aberystwyth), located in the village of [Llanilar](https://en.wikipedia.org/wiki/Llanilar). It is a couple of hundred metres to the north from the restored village pond, the [Lôn Cambria](https://en.wikipedia.org/wiki/L%C3%B4n_Cambria) cycle track and the glorious [River Ystwyth](https://en.wikipedia.org/wiki/River_Ystwyth).
 
 The school received a [Small Grant](https://naturceredigion.cymru/en/funding/small-grant-scheme/) from [Ceredigion Nature Partnership](https://naturceredigion.cymru/) to plant a wildlife forest garden in the winter of 2025/26, between their existing vegetable garden and new polytunnel.
