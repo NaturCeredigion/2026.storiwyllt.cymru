@@ -3,13 +3,13 @@ title: Tŵr Gwyllt at Aberaeron
 description: Another project is Tŵr Gwyllt / Wild Tower happening in Aberaeron at the same time as Stori Wyllt
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-trees-twr-gwyllt-169.jpg
 image_caption: The beginnings of a gabion wildlife habitat art installation
-author: Jake Rayson
+author: Rebecca Wyn Kelly
 tags:
   - TwrGwyllt
   - Aberaeron
 draft: false
 date: 2026-03-20T18:10:28+00:00
-modified: 2026-03-31T22:03:52+01:00
+modified: 2026-04-02T13:04:00+01:00
 ---
 *Guest post by artist [Rebecca Wyn Kelly](https://www.instagram.com/rebeccawynkelly):*
 

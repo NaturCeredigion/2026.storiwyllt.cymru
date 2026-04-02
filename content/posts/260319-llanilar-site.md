@@ -8,9 +8,9 @@ tags:
   - Llanilar
 draft: false
 date: 2026-03-19T20:05:33+00:00
-modified: 2026-04-02T13:03:26+01:00
+modified: 2026-04-02T13:16:15+01:00
 ---
- A foundational element of the Stori Wyllt project has been to foster strong relationships between the schools, creatives and naturalists. This is why the initial Stori Wyllt Symposiwm was so important; an opportunity for practitioners to meet each other and ask questions.
+ A foundational element of the Stori Wyllt project has been to foster strong relationships between the schools, creatives and naturalists. This is why the initial [Stori Wyllt Symposiwm](file:///posts/260303-symposiwm/) was so important; an opportunity for practitioners to meet each other and ask questions.
 
 On a gloriously sunny Thursday afternoon, I met up with ecologist Sheena Duller, artist Marian Haf and headteacher at Ysgol Llanarth, Jannette Jones. 
 
