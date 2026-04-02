@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/creatives/</loc>
-    <lastmod>2026-04-02T22:37:16+01:00</lastmod>
+    <lastmod>2026-04-02T23:20:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-02T22:37:16+01:00</lastmod>
+    <lastmod>2026-04-02T23:20:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/naturalists/</loc>
+    <lastmod>2026-04-02T23:19:40+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/aberteifi/</loc>
     <lastmod>2026-04-01T18:04:28+01:00</lastmod>
@@ -98,7 +101,5 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/resources/</loc>
-  </url><url>
-    <loc>http://localhost:1313/naturalists/</loc>
   </url>
 </urlset>

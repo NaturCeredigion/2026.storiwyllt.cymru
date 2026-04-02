@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/creatives.md",
+                "file": "content/naturalists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "creatives"
+              "title": "naturalists"
             }
           }
         ]
@@ -184,10 +184,10 @@
   },
   "active": "46a24b90d3ecace2",
   "lastOpenFiles": [
+    "content/creatives.md",
+    "content/naturalists.md",
     "public/creatives/index.html",
     "public/creatives",
-    "content/naturalists.md",
-    "content/creatives.md",
     "content/about.md",
     "content/posts/260324-llanilar-workshop-1.md",
     "content/posts/260327-llanarth-workshop-1.md",
@@ -208,7 +208,6 @@
     "layouts/projects/single.html",
     "layouts/projects/list.html",
     "layouts/projects",
-    "layouts/schools/single.html",
     "content/organise.md",
     "assets/templates/post.md",
     "content/workflow.md",
