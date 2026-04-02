@@ -21,4 +21,4 @@ If only I had looked at [Ceredigion Council‘s Rights of Way](https://ceredigio
 
 ![Screenshot of a footpath map, showing footpath along track, and footpath across river](https://res.cloudinary.com/naturceredigion/image/upload/v1775132772/260402-council-prow-footpath-esgair-arth-mari-berllan-bitter.webp)<br>*The site of the house is by the dogleg in the footpath by the river*
 
-Red-faced, I got back into the care and we headed back to Aberaeron but en-route we did see a magical Hare on the track. Mari Berllan Peter was rumoured to shape-shift into a Hare on occasion.
+After a last ditch search of the perimeter, I traced round red-faced back to the car and off we headed to Aberaeron but en-route we did see a magical Hare on the track. Mari Berllan Peter was rumoured to shape-shift into a Hare on occasion.
