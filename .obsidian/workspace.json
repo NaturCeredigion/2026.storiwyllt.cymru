@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/creatives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "creatives"
             }
           }
         ]
@@ -184,6 +184,11 @@
   },
   "active": "46a24b90d3ecace2",
   "lastOpenFiles": [
+    "public/creatives/index.html",
+    "public/creatives",
+    "content/naturalists.md",
+    "content/creatives.md",
+    "content/about.md",
     "content/posts/260324-llanilar-workshop-1.md",
     "content/posts/260327-llanarth-workshop-1.md",
     "content/posts/260320-aberaeron-workshop-1.md",
@@ -204,16 +209,12 @@
     "layouts/projects/list.html",
     "layouts/projects",
     "layouts/schools/single.html",
-    "layouts/schools/list.html",
     "content/organise.md",
-    "content/about.md",
     "assets/templates/post.md",
     "content/workflow.md",
     "content/workshops.md",
     "content/resources.md",
-    "content/naturalists.md",
     "content/contact.md",
-    "content/artists.md",
     "content/posts/10-things-you-can-do-for-your-mental-health.md",
     "content/posts/why-humanity-must-save-nature-to-save-itself.md",
     "Untitled.md",

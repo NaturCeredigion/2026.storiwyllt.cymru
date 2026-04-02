@@ -8,7 +8,7 @@ tags:
   - about
 draft: false
 date: 2026-04-01T10:55:40+01:00
-modified: 2026-04-01T10:55:51+01:00
+modified: 2026-04-02T22:34:57+01:00
 ---
 {{< load-photoswipe >}}
 
@@ -28,7 +28,7 @@ Another student created a montage of flowers, which were pressed and then lamina
 
 Jake is studying a masters in [Sustainable Planning & Environmental Policy](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability-planning-and-environmental-policy-msc) at Cardiff University, and Stori Wyllt was further developed in a joint project with fellow students Shaheera Sami, Erin Phillips and Abdi Said. 
 
-There are four primary schools involved across Ceredigion (Ysgol Gynradd Aberteifi, Ysgol Llanarth, Ysgol Gynradd Aberaeron and Ysgol Llanilar), four [artists](/artists/) (Pip Lewis, Molly Gilbert, Rebecca Wyn Kelly and Marian Haf) and four [naturalists](/naturalists/) (Yusef Samari, Jo Dainty, Carys May and Sheena Duller), with a **Celebration Event** at [Stiwdio 3 café & gallery](https://www.openstreetmap.org/way/545863539) week beginning 29th June.
+There are four primary schools involved across Ceredigion (Ysgol Gynradd Aberteifi, Ysgol Llanarth, Ysgol Gynradd Aberaeron and Ysgol Llanilar), four [creatives](/creatives/) (Pip Lewis, Molly Gilbert, Rebecca Wyn Kelly and Marian Haf) and four [naturalists](/naturalists/) (Yusef Samari, Jo Dainty, Carys May and Sheena Duller), with a **Celebration Event** at [Stiwdio 3 café & gallery](https://www.openstreetmap.org/way/545863539) week beginning 29th June.
 ## Nodau / Aims
 1. Reconnection natural world
 2. Habitual & recurring

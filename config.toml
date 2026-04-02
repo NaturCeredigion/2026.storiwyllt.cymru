@@ -98,9 +98,9 @@ title = "Stori Wyllt 2026"
   weight = 3
 
   [[menu.footer]]
-  identifier = "artists"
-  name = "Artists"
-  url = "/artists/"
+  identifier = "creatives"
+  name = "Creatives"
+  url = "/creatives/"
   weight = 4
 
   [[menu.footer]]
