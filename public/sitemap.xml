@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/aberteifi/</loc>
+    <lastmod>2026-04-01T18:04:28+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-04-02T13:03:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-02T13:03:26+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/260401-aberteifi-recap/</loc>
     <lastmod>2026-04-01T18:04:28+01:00</lastmod>
   </url><url>
@@ -17,8 +26,20 @@
     <loc>http://localhost:1313/schools/llanilar/</loc>
     <lastmod>2026-04-01T11:39:57+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/schools/</loc>
+    <lastmod>2026-04-01T11:39:57+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/about/</loc>
+    <lastmod>2026-04-01T10:55:51+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-04-01T10:55:51+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/llanarth/</loc>
+    <lastmod>2026-03-31T22:03:34+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/workshop/</loc>
+    <lastmod>2026-04-01T13:18:36+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260327-llanarth-workshop-1/</loc>
     <lastmod>2026-03-31T22:03:34+01:00</lastmod>
@@ -32,8 +53,17 @@
     <loc>http://localhost:1313/workflow/</loc>
     <lastmod>2026-03-25T20:22:17+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/llanilar/</loc>
+    <lastmod>2026-04-02T13:03:26+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/260324-llanilar-workshop-1/</loc>
     <lastmod>2026-03-31T22:00:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/aberaeron/</loc>
+    <lastmod>2026-04-01T13:18:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/esgairarth/</loc>
+    <lastmod>2026-03-31T21:59:45+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260320-esgair-arth-site/</loc>
     <lastmod>2026-03-31T21:59:45+01:00</lastmod>
@@ -44,11 +74,17 @@
     <loc>http://localhost:1313/posts/260320-aberaeron-twr-gwyllt/</loc>
     <lastmod>2026-03-31T22:03:52+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/twrgwyllt/</loc>
+    <lastmod>2026-03-31T22:03:52+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/260319-aberaeron-site/</loc>
     <lastmod>2026-04-01T13:18:36+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260319-llanilar-site/</loc>
-    <lastmod>2026-03-31T21:58:50+01:00</lastmod>
+    <lastmod>2026-04-02T13:03:26+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/admin/</loc>
+    <lastmod>2026-03-31T21:58:29+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260303-symposiwm/</loc>
     <lastmod>2026-03-31T21:58:29+01:00</lastmod>
@@ -56,36 +92,12 @@
     <loc>http://localhost:1313/workshops/</loc>
     <lastmod>2023-01-05T08:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/aberaeron/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/aberteifi/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/admin/</loc>
-  </url><url>
     <loc>http://localhost:1313/artists/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/esgairarth/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/llanarth/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/llanilar/</loc>
-  </url><url>
     <loc>http://localhost:1313/naturalists/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/twrgwyllt/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/workshop/</loc>
-  </url><url>
-    <loc>http://localhost:1313/schools/</loc>
   </url>
 </urlset>
