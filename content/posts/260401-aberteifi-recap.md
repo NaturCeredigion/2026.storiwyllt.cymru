@@ -6,7 +6,7 @@ image_caption: "Left to right: Harry Smalley from Cardished, Ysgol Gynradd Abert
 tags:
   - Aberteifi
 draft: false
-modified: 2026-04-01T17:41:56+01:00
+modified: 2026-04-01T18:04:28+01:00
 date: 2026-04-01T17:30:15+01:00
 ---
 The Grassland ID workshops, organised by [Ceredigion Nature Partnership](https://naturceredigion.cymru) in 2025 were a great success, and showed a fantastic working partnership between the [Ysgol Gynradd Aberteifi](https://ygaberteifi.co.uk/), [Friends of Netpool Park](https://www.facebook.com/groups/842965730705207/), [West Wales Biodiversity Information Centre](https://www.wwbic.org.uk/) and the Partnership. 

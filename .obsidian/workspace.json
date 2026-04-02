@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0e5279e104f729db",
+        "id": "dfa0bb6e25b4aa34",
         "type": "tabs",
         "children": [
           {
-            "id": "84c858a0d8386113",
+            "id": "0e359ad57f70389c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/260401-aberteifi-recap.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "260401-aberteifi-recap"
+              "title": "New tab"
             }
           }
         ]
@@ -182,7 +178,7 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "84c858a0d8386113",
+  "active": "0e359ad57f70389c",
   "lastOpenFiles": [
     "content/posts/260401-aberteifi-recap.md",
     "public/tags/aberteifi/index.xml",
