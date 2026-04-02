@@ -9,7 +9,7 @@ tags:
   - Aberaeron
 draft: false
 date: 2026-03-20T20:18:16+00:00
-modified: 2026-04-02T13:32:51+01:00
+modified: 2026-04-02T13:59:59+01:00
 ---
 After the first workshop for Ysgol Gynradd Aberaeron in the morning, I returned back up to a potential site just north of Aberaeron and inland from Aberarth, on the grounds of a farm called Esgair Arth. It is the old house of a famous local witch called Mari Berllan Peter, about whom our artist [Rebecca Wyn Kelly](https://www.rebeccawynkelly.com/) has done so much work already.
 

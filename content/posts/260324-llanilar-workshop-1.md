@@ -9,9 +9,9 @@ tags:
   - workshop
 draft: false
 date: 2026-03-24T20:19:33+00:00
-modified: 2026-03-31T22:00:15+01:00
+modified: 2026-04-02T14:19:20+01:00
 ---
-
+***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants, to help with future workshops.*
 ## Oriel Gallery
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774816007/250324-llanilar-workshop1-lichen.jpg" caption="Looking at lichen (a symbiotic life form of fungi and algae/bacteria) went down very well in the classroom" >}}
