@@ -9,7 +9,7 @@ tags:
   - workshop
 draft: false
 date: 2026-03-20T20:17:47+00:00
-modified: 2026-04-02T15:04:26+01:00
+modified: 2026-04-02T15:32:44+01:00
 ---
 ***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants.*
 
@@ -31,7 +31,7 @@ Alas, there weren’t really any fungi. And the invertebrates weren’t out in a
 
 The walk was about 20 minutes, so we quickly ran out of time and had to head back for lunch. The feedback from the students via teachers Carys and Anwen was really positive.
 
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-4.2576876282691964%2C52.23594917871226%2C-4.254147112369538%2C52.237399583835696&amp;layer=mapnik" style="border: 1px solid black"></iframe><p><small><a href="https://www.openstreetmap.org/?#map=19/52.236674/-4.255917&amp;layers=N">View Larger Map</a></small></p>
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-4.2576876282691964%2C52.23594917871226%2C-4.254147112369538%2C52.237399583835696&amp;layer=mapnik" style="border: 1px solid black"></iframe><p><small><a href="https://www.openstreetmap.org/?#map=19/52.236674/-4.255917&amp;layers=N">View larger map of Jewson garden site</a></small></p>
 ## Oriel Gallery
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544828/250319-aberaeron-reccie-jewson-garden.jpg" caption="Jewsons’ garden from the road" >}}
