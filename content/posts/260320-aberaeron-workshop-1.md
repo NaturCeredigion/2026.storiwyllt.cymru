@@ -1,5 +1,5 @@
 ---
-title: Workshop No.1 with Ysgol Gynradd Aberaeron
+title: Ysgol Gynradd Aberaeron Workshop 1
 description: After a brief introduction in the classroom, we set off via the river footpath to the site of the Tŵr Gwyllt, to meet artist Rebecca Wyn Kelly and find wildlife
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544858/250320-aberaeron-workshop1-carys-hedgehog-poo.jpg
 image_caption: Ecologist Carys May from WWBIC showing the students some hedgehog poo, and pointing out the diet from the animal remains
@@ -9,9 +9,9 @@ tags:
   - workshop
 draft: false
 date: 2026-03-20T20:17:47+00:00
-modified: 2026-04-02T14:19:29+01:00
+modified: 2026-04-02T15:04:26+01:00
 ---
-***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants, to help with future workshops.*
+***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants.*
 
 Ecologist Carys started in the classroom with an exercise around food webs and different living things (plants, animals, insects, fungi etc), and was drawing suggestions from the class and discussing the relationships between them.
 

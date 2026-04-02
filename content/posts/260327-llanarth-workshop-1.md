@@ -7,11 +7,10 @@ tags:
   - Llanarth
   - workshop
 draft: false
-modified: 2026-04-02T14:19:37+01:00
+modified: 2026-04-02T15:03:49+01:00
 date: 2026-03-31T15:50:24+01:00
 ---
-***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants, to help with future workshops.*
-
+***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants.*
 
 ## Oriel Gallery
 {{< gallery >}}
