@@ -98,22 +98,10 @@ title = "Stori Wyllt 2026"
   weight = 3
 
   [[menu.footer]]
-  identifier = "creatives"
-  name = "Creatives"
-  url = "/creatives/"
-  weight = 4
-
-  [[menu.footer]]
-  identifier = "naturalists"
-  name = "Naturalists"
-  url = "/naturalists/"
-  weight = 5
-
-  [[menu.footer]]
   identifier = "organise"
   name = "Organise"
   url = "/organise/"
-  weight = 6
+  weight = 4
 
 
   #-------------------------------

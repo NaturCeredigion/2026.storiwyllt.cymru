@@ -17,6 +17,11 @@ map: https://www.openstreetmap.org/way/446375974
 
 The school received a [Small Grant](https://naturceredigion.cymru/en/funding/small-grant-scheme/) from [Ceredigion Nature Partnership](https://naturceredigion.cymru/) to plant a wildlife forest garden in the winter of 2025/26, between their existing vegetable garden and new polytunnel.
 
+## People
+- **Jannette Jones** -- Headteacher
+- **Marian Haf** -- Marian is a printmaker who lives on the side of a hill in north Ceredigion.
+- **Sheena Duller** -- Sheena is an ecologist and independent consultant.
+
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-4.024372994899751%2C52.357161010010934%2C-4.020832479000092%2C52.35865167888188&amp;layer=mapnik" style="border: 1px solid black"></iframe><p><small><a href="https://www.openstreetmap.org/?#map=19/52.357906/-4.022603&amp;layers=N">View Larger Map</a></small></p>
 
 ## Oriel Gallery

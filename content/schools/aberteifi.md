@@ -19,6 +19,11 @@ There is an abundance of wildlife habitat in the area, with the [SSSI](https://e
 
 In the summer of 2025, the school took part in Ceredigion Nature Partnership’s Grassland ID workshops, working with [West Wales Biodiversity Information Centre](https://www.wwbic.org.uk/).
 
+## People
+- **Mari Roberts** -- teacher Key Stage 2
+- **Pip Lewis** -- Pip is an artist who lives near Aberteifi/Cardigan, and is a director of [spacetocreate](https://www.spacetocreate.org.uk/), a community interest company supporting people and communities through participation in the visual arts. She has beem involved in the  [Llais yr Afon project](https://www.spacetocreate.org.uk/projects/llais-yr-afon/).
+- **Yusef Samari** -- Yusef is an ecologist with [West Wales Biodiversity Information Centre](https://www.wwbic.org.uk/).
+
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-4.657503068447114%2C52.08346528075599%2C-4.653962552547456%2C52.08492066355926&amp;layer=mapnik" style="border: 1px solid black"></iframe><p><small><a href="https://www.openstreetmap.org/?#map=19/52.084192/-4.655732&amp;layers=N">View Larger Map</a></small></p>
 
 ## Oriel Gallery
