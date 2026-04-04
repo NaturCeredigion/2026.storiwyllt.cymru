@@ -49,6 +49,9 @@
     {{ end }}
   </script>
 
+  <!-- Click web analytics -->
+  <script async data-id="101504004" src="//static.getclicky.com/js"></script>
+
   <!-- CSS -->
   {{ with resources.Get "sass/main.scss" | toCSS | minify }}
   <style>{{ .Content | safeCSS }}</style>
