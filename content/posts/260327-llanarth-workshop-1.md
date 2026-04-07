@@ -53,3 +53,8 @@ We had to reluctantly rush back so that the students wouldn‘t miss lunch, and 
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774967827/260327-llanarth-workshop1-bymolly-clay-creations-montage.jpg" caption="A montage of all the clay creations" >}}
 {{< /gallery >}}
 
+## Reflections
+### Jake 
+- Was a *fantastic* session, very high energy and lots of mud!
+- A couple of the students didn't want to get their hands dirty with the clay, so maybe an alternative activity?
+- Maybe organise class into couple of 'stations' to help focus energy? Was a lot of chatting (via Jo)

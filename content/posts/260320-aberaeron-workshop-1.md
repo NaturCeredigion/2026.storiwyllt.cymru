@@ -48,7 +48,7 @@ The walk was about 20 minutes, so we quickly ran out of time and had to head bac
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544858/250320-aberaeron-workshop1-carys_carys.jpg" caption="Ecologist Carys May and teacher Carys Griffiths-Jones, back at the classroom!" >}}
 {{< /gallery >}}
 
-## Feedback
+## Reflections
 ### Jake
 - I messed up the starting times, so was a bit late! Need to make sure I'm there for debriefing at beginning.
 - I *will* do proper feedback for subsequent workshops.

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stori Wyllt 2026</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Stori Wyllt 2026</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 28 Mar 2026 21:04:21 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sat, 28 Mar 2026 19:09:18 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Simpler comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.</description>
+    </item>
+    <item>
+      <title>Trefnu / Organise</title>
+      <link>http://localhost:1313/organise/</link>
+      <pubDate>Thu, 26 Mar 2026 18:07:38 +0000</pubDate>
+      <guid>http://localhost:1313/organise/</guid>
+      <description>Workshop dates Ysgol 1 2 3 4 5 AT Thu 16 Apr AM Thu 30 Apr AM Thu 07 May AM Thu 21 May AM Thu 04 Jun&#xA;Site AB Fri 20 Mar AM Fri 17 Apr AM&#xA;Site Fri 08 May PM Fri 15 May AM Thu 11 Jun AM LTH Fri 27 Mar AM&#xA;Site Thu 16 Apr AM Fri 08 May AM&#xA;Site&#xA;Fri 22 May AM</description>
+    </item>
+    <item>
+      <title>Image workflow</title>
+      <link>http://localhost:1313/workflow/</link>
+      <pubDate>Wed, 25 Mar 2026 20:22:17 +0000</pubDate>
+      <guid>http://localhost:1313/workflow/</guid>
+      <description> Take photos, make notes Choose, edit, crop &amp;amp; upload to Signal group Download files to PC Rename with timestamp &amp;amp; description eg 250320-aberaeron-workshop1-toad.jpg Upload to Cloudinary Stori Wyllt 2026 folder Copy URL: Paste into image frontmatter property Or paste inline into body of document: ![AltText](URL) Which looks like this: ![Toad home pile of stones and wood and moss](https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-root-moss-stone-twr-gwyllt-169.jpg) Straight image Figure image Gallery Gallery with figure &amp;amp; figcaption Rocks and moss and stuff Both sides Toad (Bufo bufo) Holes into the habitat Resplendent dual accommodation </description>
+    </item>
+    <item>
+      <title>Ysgol Llanilar Workshop 1</title>
+      <link>http://localhost:1313/posts/260324-llanilar-workshop-1/</link>
+      <pubDate>Tue, 24 Mar 2026 20:19:33 +0000</pubDate>
+      <guid>http://localhost:1313/posts/260324-llanilar-workshop-1/</guid>
+      <description>Oriel gallery </description>
+    </item>
+    <item>
+      <title>Mishaps &amp; magic at Esgair Arth</title>
+      <link>http://localhost:1313/posts/260320-esgair-arth-site/</link>
+      <pubDate>Fri, 20 Mar 2026 20:18:16 +0000</pubDate>
+      <guid>http://localhost:1313/posts/260320-esgair-arth-site/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workshop No.1 at Ysgol Gynradd Aberaeron</title>
+      <link>http://localhost:1313/posts/260320-aberaeron-workshop-1/</link>
+      <pubDate>Fri, 20 Mar 2026 20:17:47 +0000</pubDate>
+      <guid>http://localhost:1313/posts/260320-aberaeron-workshop-1/</guid>
+      <description>Oriel Gallery Seven-spot Ladybird caught in the net</description>
+    </item>
+    <item>
+      <title>Tŵr Gwyllt at Aberaeron</title>
+      <link>http://localhost:1313/posts/260320-aberaeron-twr-gwyllt/</link>
+      <pubDate>Fri, 20 Mar 2026 18:10:28 +0000</pubDate>
+      <guid>http://localhost:1313/posts/260320-aberaeron-twr-gwyllt/</guid>
+      <description>Guest post by artist Rebecca Wyn Kelly:&#xA;While Jake was visiting the Jewsons yard with Ysgol Aberaeron, we came across this toad tucked beneath a log, a quiet little resident already making use of the space.&#xA;I’m really hoping he might take shelter in one of the Lletau Llyffant I’ve created; these are small shelters made with the toads in mind.&#xA;A little about Llyffantod&#xA;In old Welsh folk belief, toads were linked to wise women and hidden knowledge, and were said to carry carreg y llyffant in their heads, a magical stone with protective powers.</description>
+    </item>
+    <item>
+      <title>Aberaeron site reccie</title>
+      <link>http://localhost:1313/posts/260319-aberaeron-site/</link>
+      <pubDate>Thu, 19 Mar 2026 20:17:25 +0000</pubDate>
+      <guid>http://localhost:1313/posts/260319-aberaeron-site/</guid>
+      <description>Last year, we ran the Grassland ID workshops at Penmorfa with Ysgol Gynradd Aberaeron.&#xA;Students from Ysgol Gynradd Aberaeron on Grassland ID workshop 2025&#xA;This year, we’re hoping for another magical spot, with a witch’s house, but this has yet to be confirmed. I had a chance meeting with my colleague, Tree Officer Norman Birch, and he explained that there is a public foot path in Aberaeron that runs on the south bank of the river Aeron, past the allotments an up to Jewsons.</description>
+    </item>
+    <item>
+      <title>Ysgol Llanilar site visit</title>
+      <link>http://localhost:1313/posts/260319-llanilar-site/</link>
+      <pubDate>Thu, 19 Mar 2026 20:05:33 +0000</pubDate>
+      <guid>http://localhost:1313/posts/260319-llanilar-site/</guid>
+      <description>I&#xA;Looking westward along the river Ystwyth</description>
+    </item>
+    <item>
+      <title>Stori Wyllt Symposiwm</title>
+      <link>http://localhost:1313/posts/260303-symposiwm/</link>
+      <pubDate>Tue, 03 Mar 2026 17:14:59 +0000</pubDate>
+      <guid>http://localhost:1313/posts/260303-symposiwm/</guid>
+      <description>Croeso i&amp;rsquo;r Stori Wyllt symposiwm!&#xA;Welcome to the Stori Wyllt symposium! The Stori Wyllt Symposiwm was an ideal opportunity for the teachers, naturalists and creatives from the four schools to meet each other in-person and share ideas at a central location in Ceredigion (Moody Meadows at Bargoed Farm ar bwys Llwyncelyn).&#xA;The Stori Wyllt schools are, from the south to the north, Ysgol Gynradd Aberteifi, Ysgol Llanarth, Ysgol Gynradd Aberaeron and Ysgol Llanilar.</description>
+    </item>
+    <item>
+      <title>Llanilar</title>
+      <link>http://localhost:1313/schools/llanilar/</link>
+      <pubDate>Mon, 09 Jan 2023 08:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/schools/llanilar/</guid>
+      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.</description>
+    </item>
+    <item>
+      <title>Aberteifi</title>
+      <link>http://localhost:1313/schools/aberteifi/</link>
+      <pubDate>Fri, 06 Jan 2023 08:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/schools/aberteifi/</guid>
+      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.</description>
+    </item>
+    <item>
+      <title>Aberaeron</title>
+      <link>http://localhost:1313/schools/aberaeron/</link>
+      <pubDate>Thu, 05 Jan 2023 08:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/schools/aberaeron/</guid>
+      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.</description>
+    </item>
+    <item>
+      <title>Workshops</title>
+      <link>http://localhost:1313/workshops/</link>
+      <pubDate>Thu, 05 Jan 2023 08:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/workshops/</guid>
+      <description>Sessions Introduction to Plants and Insects - naturalist Objective: Learn basics of plant and animal identification Food webs, habitat, observation - naturalist &amp;amp; creative Objective 1: Gain understanding of food web and ecological roles of plants and insects Objective 2: Build on skills of observation and description for plants (visual and written) Insect id skills and recording - naturalist &amp;amp; creative Objective 1: Further ID skills linking recording and habitat Objective 2: Skills of observation and description for insects (visual and written) Creatives Session 1.</description>
+    </item>
+    <item>
+      <title>Llanarth</title>
+      <link>http://localhost:1313/schools/llanarth/</link>
+      <pubDate>Tue, 03 Jan 2023 08:01:35 +0300</pubDate>
+      <guid>http://localhost:1313/schools/llanarth/</guid>
+      <description>Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc curabitur tortor.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti.</description>
+    </item>
+    <item>
+      <title>Artists</title>
+      <link>http://localhost:1313/artists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/artists/</guid>
+      <description> Marian Haf Molly Gilbert Pip Lewis Rebecca Kelly Marian Haf Molly Gilbert Pip Lewis Llais yr Afon project&#xA;Rebecca Wyn Kelly </description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>http://localhost:1313/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resources/</guid>
+      <description> Llyfr Natur Field Studies Council leaflets Plantlife Cymru Botanic Garden Wales education resources </description>
+    </item>
+    <item>
+      <title>Naturiaethwyr / Naturalists</title>
+      <link>http://localhost:1313/naturalists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/naturalists/</guid>
+      <description> Carys May Jo Dainty Sheena Duller Yusef Samari Carys May Jo Dainty Sheena Duller Yusef Samari </description>
+    </item>
+  </channel>
+</rss>

@@ -45,7 +45,7 @@ Near the end of the walk around the pond was a site used for bonfires, and there
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544973/250324-llanilar-workshop1-cleavers-sticking" caption="Someone has been tagged with Cleavers! 🤭" >}}
 {{< /gallery >}}
 
-## Feedback
+## Reflections
 ### Jake
 - Lichen (on sticks and on rocks) was brilliant, a very nice focus
 - Plants are much more predictable for the first workshops in March!
