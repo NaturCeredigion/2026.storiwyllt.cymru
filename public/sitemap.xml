@@ -6,7 +6,7 @@
     <lastmod>2026-04-01T18:04:28+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-02T22:34:57+01:00</lastmod>
+    <lastmod>2026-04-04T21:26:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-04-02T22:34:57+01:00</lastmod>
@@ -24,10 +24,10 @@
     <lastmod>2026-04-01T11:39:57+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/schools/llanilar/</loc>
-    <lastmod>2026-04-01T11:39:57+01:00</lastmod>
+    <lastmod>2026-04-04T21:26:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/schools/</loc>
-    <lastmod>2026-04-01T11:39:57+01:00</lastmod>
+    <lastmod>2026-04-04T21:26:06+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/about/</loc>
     <lastmod>2026-04-02T22:34:57+01:00</lastmod>
@@ -46,6 +46,9 @@
   </url><url>
     <loc>http://localhost:1313/organise/</loc>
     <lastmod>2026-03-31T15:37:39+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2026-03-28T19:09:18+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-03-26T18:32:09+00:00</lastmod>
@@ -92,8 +95,12 @@
     <loc>http://localhost:1313/workshops/</loc>
     <lastmod>2023-01-05T08:01:35+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/artists/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/resources/</loc>
+  </url><url>
+    <loc>http://localhost:1313/naturalists/</loc>
   </url>
 </urlset>

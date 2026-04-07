@@ -40,6 +40,9 @@
   </script>
 
   
+  <script async data-id="101504004" src="//static.getclicky.com/js"></script>
+
+  
   
   <style>/*!------------------------------------------------------------------
 [MAIN STYLESHEET]
@@ -169,11 +172,6 @@
 <ul class="social__list list-reset">
   
   <li class="social__item">
-    <a class="social__link" href="https://en.wikipedia.org/wiki/Mastodon_%28social_network%29" target="_blank" rel="noopener"
-      aria-label="Mastodon link"><i class="fa-brands fa-mastodon"></i></a>
-  </li>
-  
-  <li class="social__item">
     <a class="social__link" href="https://github.com/naturceredigion/2026.storiwyllt.cymru" target="_blank" rel="noopener"
       aria-label="GitHub link"><i class="fa-brands fa-github"></i></a>
   </li>
@@ -225,7 +223,7 @@
 </div>
           
         </div>
-        <form class="form" action="https://formspree.io/f/your@email.com" method="POST">
+        <form class="form" action="#" method="POST">
           <div class="form__group">
             <label class="form__label screen-reader-text" for="form-name">Name</label>
             <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
@@ -262,14 +260,14 @@
         <div class="subscribe__inner">
           <div class="subscribe__content">
             
-            <h3 class="subscribe__title">For Ceredigion nature news, sign up to Newyddion Natur Ceredigion News</h3>
+            <h3 class="subscribe__title">Sign up for Ceredigion Nature Partnership news</h3>
             
           </div>
           <form class="subscribe-form validate"
-            action="#"
-            method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="_blank" novalidate>
+            action="https://buttondown.email/api/emails/embed-subscribe/NaturCeredigion"
+            method="POST" id="membedded-subscribe-form" name="membedded-subscribe-form" target="popupwindow" novalidate  onsubmit="window.open('https://buttondown.email/NaturCeredigion', 'popupwindow')">
             <label class="screen-reader-text" for="mce-EMAIL">Email address</label>
-            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="EMAIL" placeholder="Enter your email address">
+            <input class="subscribe-email required email" id="mce-EMAIL" type="text" name="email" placeholder="Enter your email address">
             <button class="subscribe-button" id="membedded-subscribe" type="submit" name="subscribe">Subscribe <i class="fa-solid fa-arrow-right"></i></button>
           </form>
         </div>
@@ -280,6 +278,8 @@
     <div class="subscribe__bg lazy" data-bg="https://res.cloudinary.com/naturceredigion/image/upload/f_auto/v1720618622/hare-grassland-background.jpg"></div>
   
 </div>
+
+
 
 
 
@@ -298,25 +298,20 @@
     <div class="logo-footer">
       <a class="logo-footer__link" href="http://localhost:1313/">
         
-        <img class="logo-footer__image" src="http://localhost:1313/https://res.cloudinary.com/naturceredigion/image/upload/w_200/v1772530714/stori-wyllt-logo.png" alt="Stori Wyllt 2026">
-        <img class="logo-footer__image__dark" src="http://localhost:1313/https://res.cloudinary.com/naturceredigion/image/upload/w_200/v1772530714/stori-wyllt-logo.png" alt="Stori Wyllt 2026">
+        <img class="logo-footer__image" src="https://res.cloudinary.com/naturceredigion/image/upload/w_200/v1772530714/stori-wyllt-logo.png" alt="Stori Wyllt 2026">
+        <img class="logo-footer__image__dark" src="https://res.cloudinary.com/naturceredigion/image/upload/w_200/v1772530714/stori-wyllt-logo.png" alt="Stori Wyllt 2026">
         
       </a>
     </div>
 
     
-    <p class="widget-footer__desc">I’m Aaron, a creative Illustrator &amp; Art Director based in San Francisco. I seek to push the limits of creativity to create high-engaging and memorable interactive experiences.</p>
+    <p class="widget-footer__desc">Stori Wyllt aims to bring nature to life. Wildlife ID, habitat creation &amp; storytelling workshops to create a Wild Story.</p>
     
 
     
     <div class="social-footer">
       
 <ul class="social__list list-reset">
-  
-  <li class="social__item">
-    <a class="social__link" href="https://en.wikipedia.org/wiki/Mastodon_%28social_network%29" target="_blank" rel="noopener"
-      aria-label="Mastodon link"><i class="fa-brands fa-mastodon"></i></a>
-  </li>
   
   <li class="social__item">
     <a class="social__link" href="https://github.com/naturceredigion/2026.storiwyllt.cymru" target="_blank" rel="noopener"
@@ -334,6 +329,22 @@
   <div class="widget-footer widget-recent-posts">
     <h3 class="widget-title">Recent Posts</h3>
     
+    
+    
+    <div class="recent-posts">
+
+      
+      <a href="/posts/260401-aberteifi-recap/" class="recent-posts__image">
+        <img class="lazy" data-src="https://res.cloudinary.com/naturceredigion/image/upload/v1762808462/251105-everyone-wwha-llys-owen-ysgol-gynradd-aberteifi.jpg" alt="Ysgol Gynradd Aberteifi and wildlife partnership work in Cardigan">
+      </a>
+      
+
+      <div class="recent-posts__content">
+        <time class="recent-posts__date" datetime=" 2026-04-01T17:30:15&#43;01:00">1 April, 2026
+        </time>
+        <h4 class="recent-posts__title"><a href="/posts/260401-aberteifi-recap/">Ysgol Gynradd Aberteifi and wildlife partnership work in Cardigan</a></h4>
+      </div>
+    </div>
     
     
     <div class="recent-posts">
@@ -364,22 +375,6 @@
         <time class="recent-posts__date" datetime=" 2026-03-24T20:19:33Z">24 March, 2026
         </time>
         <h4 class="recent-posts__title"><a href="/posts/260324-llanilar-workshop-1/">Ysgol Llanilar Workshop 1</a></h4>
-      </div>
-    </div>
-    
-    
-    <div class="recent-posts">
-
-      
-      <a href="/posts/260320-esgair-arth-site/" class="recent-posts__image">
-        <img class="lazy" data-src="https://res.cloudinary.com/naturceredigion/image/upload/v1774544928/250320-esgair-arth-field.jpg" alt="Mishaps &amp; magic at Esgair Arth">
-      </a>
-      
-
-      <div class="recent-posts__content">
-        <time class="recent-posts__date" datetime=" 2026-03-20T20:18:16Z">20 March, 2026
-        </time>
-        <h4 class="recent-posts__title"><a href="/posts/260320-esgair-arth-site/">Mishaps &amp; magic at Esgair Arth</a></h4>
       </div>
     </div>
     
@@ -416,20 +411,6 @@
       
       
       <li class="footer__nav-item">
-        <a href="/artists/" class="footer__nav-link">Artists</a>
-      </li>
-      
-      
-      
-      
-      <li class="footer__nav-item">
-        <a href="/naturalists/" class="footer__nav-link">Naturalists</a>
-      </li>
-      
-      
-      
-      
-      <li class="footer__nav-item">
         <a href="/organise/" class="footer__nav-link">Organise</a>
       </li>
       
@@ -440,7 +421,7 @@
         </div>
 
         <div class="footer__info">
-          <div class="copyright">2026 &copy; <a href="/">Stori Wyllt 2026</a>. All Right Reserved. Published with <a href="https://gohugo.io/">Hugo</a>.</div>
+          <div class="copyright" style="font-size: x-small;">2026 &copy; <a href="https://naturceredigion.cymru">Ceredigion Nature Partnership</a>. Published under a&nbsp;Creative Commons&nbsp;<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/">Attribution-NonCommercial-NoDerivatives&nbsp;4.0 International</a>&nbsp;license (CC BY-NC-ND 4.0) unless otherwise stated.</div>
           <div class="footer__info__right">
             
             <div class="toggle-theme">
