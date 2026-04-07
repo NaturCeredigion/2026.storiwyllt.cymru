@@ -55,3 +55,4 @@ The walk was about 20 minutes, so we quickly ran out of time and had to head bac
 - Sheena had prepared box of common native plants. This is a fantastic reference, and a potential side project (labelling the plants using the [Llyfr Natur](https://uk.bookshop.org/p/books/llyfr-natur-iolo-paul-sterry/fdafd3b3393082bf?ean=9781845271312&next=t&) book), as well as backup for a rainy day classroom activity.
 - March workshop best suited to plants, and spring flowering plants as well. Dearth of fungi. Not a huge range of invertebrates (mostly spiders!)
 - Really good idea to label the hand lens cases to keep track of them -- I called them `AB 1` etc.
+- Best to keep wildlife ID quiz and LERC Wales App setup separate 

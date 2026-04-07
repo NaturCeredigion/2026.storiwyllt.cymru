@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/260319-aberaeron-site.md",
+                "file": "content/posts/260320-aberaeron-workshop-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260319-aberaeron-site"
+              "title": "260320-aberaeron-workshop-1"
             }
           }
         ]
@@ -182,8 +182,10 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "2bf7c2e0c5d168c1",
+  "active": "0a993b4911b166f6",
   "lastOpenFiles": [
+    "content/posts/260319-aberaeron-site.md",
+    "content/posts/260319-aberaeron-site.sync-conflict-20260406-225934-QLP3IME.md",
     "public/index.xml",
     "public/posts/index.xml",
     "public/tags/index.xml",
@@ -194,11 +196,8 @@
     "public/tags/twrgwyllt/index.html",
     "public/tags/twrgwyllt",
     "public/workshops/index.html",
-    "public/workshops",
     "public/images/stori-wyllt-logo.svg",
     "public/images/logo.png",
-    "content/posts/260319-aberaeron-site.md",
-    "content/posts/260319-aberaeron-site.sync-conflict-20260406-225934-QLP3IME.md",
     "content/posts/260303-symposiwm.md",
     "content/posts/260303-symposiwm.sync-conflict-20260406-225942-QLP3IME.md",
     "content/schools/llanilar.md",
