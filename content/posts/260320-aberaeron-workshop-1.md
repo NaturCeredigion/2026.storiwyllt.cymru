@@ -9,7 +9,7 @@ tags:
   - workshop
 draft: false
 date: 2026-03-20T20:17:47+00:00
-modified: 2026-04-02T15:32:44+01:00
+modified: 2026-04-07T21:54:46+01:00
 ---
 ***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants.*
 

@@ -1,6 +1,6 @@
 ---
 title: Trefnu / Organise
-modified: 2026-03-31T15:37:39+01:00
+modified: 2026-04-08T17:21:58+01:00
 ---
 ## Workshop dates
 
@@ -9,7 +9,7 @@ modified: 2026-03-31T15:37:39+01:00
 | AT    |      `Thu 16 Apr AM`      |      `Thu 30 Apr AM`      |        `Thu 07 May AM`        |      `Thu 21 May AM`      |  `Thu 04 Jun`<br>*Site*   |
 | AB    |      `Fri 20 Mar AM`      | `Fri 17 Apr AM`<br>*Site* |        `Fri 08 May PM`        |      `Fri 15 May AM`      |      `Thu 11 Jun AM`      |
 | LTH   | `Fri 27 Mar AM`<br>*Site* |      `Thu 16 Apr AM`      | `Fri 08 May AM`<br>*Site*<br> | `Fri 22 May AM`<br>*Site* | `Fri 12 Jun AM`<br>*Site* |
-| LAR   |      `Tue 24 Mar AM`      |      `Thu 16 Apr AM`      |        `Tue 28 Apr AM`        |      `Thu 21 May PM`      |      `Tue 02 Jun AM`      |
+| LAR   |      `Tue 24 Mar AM`      |      `Tue 14 Apr AM`      |        `Tue 28 Apr AM`        |      `Thu 21 May PM`      |      `Tue 02 Jun AM`      |
 ### Celebration event
 - **Mon 29 Jun** - early eve
 - [Stiwdio 3](https://www.openstreetmap.org/way/545863539), Aberteifi

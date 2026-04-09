@@ -22,7 +22,7 @@ The school took part in the Grassland ID workshops in 2025, organised by Ceredig
 ## People
 - **Carys Griffiths-Jones** -- head of Year 5 and co-lead of The Expressive Arts
 - **Carys May** -- Carys is an ecologist with [West Wales Biodiversity Information Centre](https://www.wwbic.org.uk/).
-- **Rebecca Wyn Kelly** -- Rebecca is an artist from the Aberaeron area.
+- **Rebecca Wyn Kelly** is a Welsh artist. Her practice explores the relationship between material, place and memory. Working across sculpture, installation and gathering, she uses found and natural materials to trace what is held within the land. Rooted in Welsh folklore and ecology, her practice centres on reviving the reciprocity between people and place. Alongside her studio work, she creates small, site-responsive gatherings shaped by sound and story, inviting collective remembering into local awareness.
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-4.266785681247712%2C52.240581110591286%2C-4.263245165348054%2C52.242075708847516&amp;layer=mapnik" style="border: 1px solid black"></iframe><p><small><a href="https://www.openstreetmap.org/?#map=19/52.241328/-4.265015&amp;layers=N">View Larger Map</a></small></p>
 
