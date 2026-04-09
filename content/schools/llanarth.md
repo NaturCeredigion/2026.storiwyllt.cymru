@@ -1,12 +1,14 @@
 ---
 title: Ysgol Llanarth
 subtitle: “Mae pawb yn ennill gyda dysgu”
-summary: The students have a high attainment in wildlife ID, and teacher Cally Jones has been intrepid in secure in outdoor learning experiences. 
+summary: The students have a high attainment in wildlife ID, and teacher Cally Jones has been intrepid in secure in outdoor learning experiences.
 date: 2026-04-01T11:39:57+01:00
+modified: 2026-04-09T16:43:11+01:00
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774967838/260327-llanarth-workshop1-clay-table.jpg
-caption: Students gathered around the clay table at the first Stori Wyllt workshop at Molly Gilbert’s forest garden. 
+caption: Students gathered around the clay table at the first Stori Wyllt workshop at Molly Gilbert’s forest garden.
 website: https://estyn.gov.wales/education-providers/ysgol-llanarth/
 students: 66
+groupsize: 23
 map: https://www.openstreetmap.org/way/105136066
 ---
 {{< load-photoswipe >}}

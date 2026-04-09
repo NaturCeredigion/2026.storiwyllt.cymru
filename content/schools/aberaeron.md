@@ -1,12 +1,14 @@
 ---
 title: Ysgol Gynradd Aberaeron
 subtitle: “Gweithio’n Galed, Chwarae‘n Galed”
-summary: Carys Griffiths-Jones is a key inspiration for Stori Wyllt, is head of Year 5 and co-leads The Expressive Arts at the school. 
+summary: Carys Griffiths-Jones is a key inspiration for Stori Wyllt, the head of Year 5 and co-lead of The Expressive Arts.
 date: 2026-04-01T11:39:57+01:00
+modified: 2026-04-09T16:43:00+01:00
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544859/250320-aberaeron-workshop1-carys-students.jpg
 caption: Teacher Carys Griffiths-Jones discussing wildlife with students
 website: https://www.ysgolgynraddaberaeron.cymru
 students: 218
+groupsize: 15 (+15)
 map: https://www.openstreetmap.org/way/159052695
 ---
 {{< load-photoswipe >}}
@@ -16,6 +18,8 @@ map: https://www.openstreetmap.org/way/159052695
 [Ysgol Gynradd Aberaeron](https://www.ysgolgynraddaberaeron.cymru/) is a Welsh medium primary school with about 220 students, situated right next to the [Cardigan Bay](https://en.wikipedia.org/wiki/Cardigan_Bay) coastline in the town of [Aberaeron](https://en.wikipedia.org/wiki/Aberaeron). 
 
 Aberaeron is a small coastal town on the river Aeron, with a population of about 1,500, and an administrative centre for Ceredigion County Council. As can be seen from the satellite photo, there is a wide range of habitat, from the storm beaches accessible by the [Ceredigion Coast Path](https://en.wikipedia.org/wiki/Ceredigion_Coast_Path), through to the grassland at Penmorfa, the woodland in Panteg across the A487, and the [River Aeron](https://en.wikipedia.org/wiki/River_Aeron), which flows past the [Aberaeron Allotments](https://www.aberaeronallotmentassociation.org.uk/).
+
+There are 15 students directly taking part in the workshops, and then the activities are mirrored for the other 15 students in the class.
 
 The school took part in the Grassland ID workshops in 2025, organised by Ceredigion Nature Partnership, which was laid the foundations for the Stori Wyllt project.
 

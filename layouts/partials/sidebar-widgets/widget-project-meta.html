@@ -11,8 +11,14 @@
   {{ end }}
   {{ if .Params.students }}
   <div class="project-meta__item">
-    <h3 class="project-meta__name">Number of students</h3>
+    <h3 class="project-meta__name">Students in workshop</h3>
     <div class="project-meta__text">{{ .Params.students }}</div>
+  </div>
+  {{ end }}
+  {{ if .Params.groupsize }}
+  <div class="project-meta__item">
+    <h3 class="project-meta__name">Students in workshop</h3>
+    <div class="project-meta__text">{{ .Params.groupsize }}</div>
   </div>
   {{ end }}
   {{ if .Params.map }}

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "258c79d20fce4cef",
+        "id": "95557ae982278b13",
         "type": "tabs",
         "children": [
           {
-            "id": "0822f8b4ef0772ff",
+            "id": "2b88d7ef9b30a3f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/schools/aberaeron.md",
+                "file": "content/schools/llanilar.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "aberaeron"
+              "title": "llanilar"
             }
           }
         ]
@@ -182,12 +182,19 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "0822f8b4ef0772ff",
+  "active": "2b88d7ef9b30a3f1",
   "lastOpenFiles": [
     "content/schools/llanarth.md",
+    "content/schools/aberteifi.md",
+    "content/schools/aberaeron.md",
     "content/schools/llanilar.md",
-    "content/posts/260408-soil.md",
+    "content/workflow.md",
+    "content/resources.md",
     "content/organise.md",
+    "content/artists.md",
+    "content/naturalists.md",
+    "content/posts/260408-soil.md",
+    "content/schools/_index.md",
     "content/posts/260320-aberaeron-workshop-1.md",
     "content/posts/260319-aberaeron-site.md",
     "content/posts/260319-aberaeron-site.sync-conflict-20260406-225934-QLP3IME.md",
@@ -206,7 +213,6 @@
     "content/posts/260303-symposiwm.md",
     "content/posts/260303-symposiwm.sync-conflict-20260406-225942-QLP3IME.md",
     "content/creatives.md",
-    "content/naturalists.md",
     "content/about.md",
     "content/posts/260324-llanilar-workshop-1.md",
     "content/posts/260327-llanarth-workshop-1.md",
@@ -215,12 +221,6 @@
     "assets/snippets/snippets.md",
     "content/posts/260319-llanilar-site.md",
     "content/posts/260320-aberaeron-twr-gwyllt.md",
-    "content/posts/_index.md",
-    "assets/templates/post.md",
-    "content/workflow.md",
-    "content/workshops.md",
-    "content/resources.md",
-    "content/contact.md",
-    "content/posts/10-things-you-can-do-for-your-mental-health.md"
+    "content/posts/_index.md"
   ]
 }

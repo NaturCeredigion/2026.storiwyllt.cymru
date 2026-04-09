@@ -1,20 +1,50 @@
 ---
 title: Trefnu / Organise
-modified: 2026-04-08T17:21:58+01:00
+modified: 2026-04-09T16:33:54+01:00
 ---
-## Workshop dates
+## People
 
-| Ysgol |             1             |             2             |               3               |             4             |             5             |
-| :---- | :-----------------------: | :-----------------------: | :---------------------------: | :-----------------------: | :-----------------------: |
-| AT    |      `Thu 16 Apr AM`      |      `Thu 30 Apr AM`      |        `Thu 07 May AM`        |      `Thu 21 May AM`      |  `Thu 04 Jun`<br>*Site*   |
-| AB    |      `Fri 20 Mar AM`      | `Fri 17 Apr AM`<br>*Site* |        `Fri 08 May PM`        |      `Fri 15 May AM`      |      `Thu 11 Jun AM`      |
-| LTH   | `Fri 27 Mar AM`<br>*Site* |      `Thu 16 Apr AM`      | `Fri 08 May AM`<br>*Site*<br> | `Fri 22 May AM`<br>*Site* | `Fri 12 Jun AM`<br>*Site* |
-| LAR   |      `Tue 24 Mar AM`      |      `Tue 14 Apr AM`      |        `Tue 28 Apr AM`        |      `Thu 21 May PM`      |      `Tue 02 Jun AM`      |
+| School      | Naturalist     | Creative        | Teacher               |
+| :---------- | :------------ | :------------ | :-------------------- |
+| *Aberteifi* | Yusef Samari  | Pip Lewis     | Mari Roberts          |
+| *Aberaeron* | Carys May     | Rebecca Wyn Kelly | Carys Griffiths-Jones |
+| *Llanarth*  | Jo Dainty     | Molly Gilbert | Cally Mason           |
+| *Llanilar*  | Sheena Duller | Marian Haf    | Jan Jones             |
+
+<span></span>
+
+- Emrys Plant - *Creative Custodian*
+- Sheena Duller - *Ecology Advisor*
+- Jake Rayson - *Facilitator*
+
+<iframe
+  id="events-calendar"
+  title="Stori Wyllt Events Calendar"
+  style="width:100%; height:100vh"
+  src="https://outlook.office365.com/owa/calendar/f5be4d0281bd4d42afa3c036b6eaa3e9@ceredigion.gov.uk/dc7741f0adf84a4cb68151b2bc3125e99743538023773566039/calendar.html"
+  >
+</iframe>
+
 ### Celebration event
-- **Mon 29 Jun** - early eve
+- **Mon 29 Jun** - 6pm-8pm
 - [Stiwdio 3](https://www.openstreetmap.org/way/545863539), Aberteifi
 - Work on display until **Mon 6 Jul**
 - School visits **Wed 8, Thu 9, Fri 10 Jul**
+### Alphabetical people
+- Emrys Plant - Creative Custodian
+- Cally Mason - Teacher, Llanarth
+- Carys Griffiths-Jones - Teacher, Aberaeron
+- Carys May - Ecologist, Aberaeron
+- Jake Rayson - Facilitator
+- Jannette Jones - Teacher, Llanilar
+- Jo Dainty - Forest school practitioner, Llanarth 
+- Marian Haf - Artist, Llanilar
+- Mari Roberts - Teacher, Aberteifi
+- Molly Gilbert - Artist, Llanarth
+- Pip Lewis - Artist, Aberteifi
+- Rebecca Wyn Kelly - Artist, Aberaeron
+- Sheena Duller - Ecologist, Llanilar & Ecology Advisor
+- Yusef Samari - Ecologist, Aberteifi 
 ## Summary
 *Combining wildlife ID with habitat creation and storytelling, culminating in bilingual wild stories celebration in Aberteifi in late June.*
 - 4 schools
@@ -37,34 +67,4 @@ modified: 2026-04-08T17:21:58+01:00
 |  4  | `Mon 11 & 18 May`     | School   | Creative             | Art. Habitat.          |
 |  5  | `Mon 01 & 08 Jun`     | School   | Creative             | Art. Quiz.             |
 *Facilitator present for every session*
-
-## People
-
-| School      | Naturalist     | Creative        | Teacher               |
-| :---------- | :------------ | :------------ | :-------------------- |
-| *Aberteifi* | Yusef Samari  | Pip Lewis     | Mari Roberts          |
-| *Aberaeron* | Carys May     | Rebecca Wyn Kelly | Carys Griffiths-Jones |
-| *Llanarth*  | Jo Dainty     | Molly Gilbert | Cally Mason           |
-| *Llanilar*  | Sheena Duller | Marian Haf    | Jan Jones             |
-
----
-
-- Emrys Plant - *Creative Custodian*
-- Sheena Duller - *Ecology Advisor*
-- Jake Rayson - *Facilitator*
-### Alphabetical people
-- Emrys Plant - Creative Custodian
-- Cally Mason - Teacher, Llanarth
-- Carys Griffiths-Jones - Teacher, Aberaeron
-- Carys May - Ecologist, Aberaeron
-- Jake Rayson - Facilitator
-- Jannette Jones - Teacher, Llanilar
-- Jo Dainty - Forest school practitioner, Llanarth 
-- Marian Haf - Artist, Llanilar
-- Mari Roberts - Teacher, Aberteifi
-- Molly Gilbert - Artist, Llanarth
-- Pip Lewis - Artist, Aberteifi
-- Rebecca Wyn Kelly - Artist, Aberaeron
-- Sheena Duller - Ecologist, Llanilar & Ecology Advisor
-- Yusef Samari - Ecologist, Aberteifi 
 
