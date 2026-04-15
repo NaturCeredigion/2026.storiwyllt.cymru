@@ -31,14 +31,14 @@ Jake is studying a masters in [Sustainable Planning & Environmental Policy](http
 There are four primary schools involved across Ceredigion (Ysgol Gynradd Aberteifi, Ysgol Llanarth, Ysgol Gynradd Aberaeron and Ysgol Llanilar), four [creatives](/creatives/) (Pip Lewis, Molly Gilbert, Rebecca Wyn Kelly and Marian Haf) and four [naturalists](/naturalists/) (Yusef Samari, Jo Dainty, Carys May and Sheena Duller), with a **Celebration Event** at [Stiwdio 3 café & gallery](https://www.openstreetmap.org/way/545863539) week beginning 29th June.
 ## Nodau / Aims
 1. Reconnection natural world
-2. Habitual & recurring
+2. Habitual & recurring - long term
 3. Outdoor learning
-4. Training for independence
-5. Reconnect disciplines
+4. Training for independence - students & staff
+5. Reconnect disciplines - art, biology, language, geography, history
 ## Amcanion / Objectives
 ![](https://res.cloudinary.com/hopegarden/image/upload/w_220/v1726511007/240913-elephant-hawkmoth-caterpillar-plantain.jpg)
-1. Celebration Aberteifi, schools, festival 🎉
+1. Celebration at Aberteifi, travelling exhibition at schools, display at Ceredigion Wildlife Festival 🎉
 2. Publication - digital & physical 📖
 3. Showcase - schools & Partnership 🖌
-4. Intro Wildlife ID, [LERC Wales app](https://www.lercwales.org.uk/app.php) 🪲
-5. Intro mapping, [OsmAnd app](https://osmand.net/) 🗺
+4. Introduce Wildlife ID with the [LERC Wales app](https://www.lercwales.org.uk/app.php) 🪲
+5. Introduce community mapping with OpenStreetMap and the app [OsmAnd app](https://osmand.net/) 🗺

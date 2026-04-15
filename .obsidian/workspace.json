@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/schools/llanilar.md",
+                "file": "content/about.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "llanilar"
+              "title": "about"
             }
           }
         ]
@@ -184,16 +184,16 @@
   },
   "active": "2b88d7ef9b30a3f1",
   "lastOpenFiles": [
+    "content/posts/260408-soil.md",
+    "content/schools/llanilar.md",
     "content/schools/llanarth.md",
     "content/schools/aberteifi.md",
     "content/schools/aberaeron.md",
-    "content/schools/llanilar.md",
     "content/workflow.md",
     "content/resources.md",
     "content/organise.md",
     "content/artists.md",
     "content/naturalists.md",
-    "content/posts/260408-soil.md",
     "content/schools/_index.md",
     "content/posts/260320-aberaeron-workshop-1.md",
     "content/posts/260319-aberaeron-site.md",
