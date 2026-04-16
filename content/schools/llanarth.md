@@ -26,7 +26,7 @@ The garden is a 20-minute walk via a public bridleway and a quiet country back r
 ## People
 - **Cally Jones** -- teacher
 - **Molly Gilbert** -- After a life in inner city Bristol working in healthcare, 4 years ago Molly found herself in West Wales looking after Portugese horses and managing a small field for growing food and as safe space for nature. A passion for all things wild was inspired in her by her mother and it has been her greatest interest, joy and sustenance. She has kept  journals for most of her adult  life -- adding sketches, watercolour paintings, musings, poems -- and many of these entries reflect her passion for the world around her.
-- **Jo Dainty** -- Jo is a forest school practitioner.
+- **Jo Dainty** -- Jo Dainty is passionate about facilitating outdoor play for children and young people via the forest school ethos and has been playing with children in woodlands, ditches and fields for over 18 years. Based in Tregaron, she delivers training for adults and bespoke outreach sessions for children, settings and families in Ceredigion and Powys. Thankfully the most requested activities are usually the same as her own favourites- playing in streams, cooking on a campfire and building dens in the woods! Reliving her childhood? No way! Outdoor Play is SERIOUS BUSINESS!
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-4.312629997730256%2C52.191509005219544%2C-4.309089481830598%2C52.193005255626815&amp;layer=mapnik" style="border: 1px solid black"></iframe><p><small><a href="https://www.openstreetmap.org/?#map=19/52.192257/-4.310860&amp;layers=N">View Larger Map</a></small></p>
 

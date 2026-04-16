@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/about.md",
+                "file": "content/schools/llanarth.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "about"
+              "title": "llanarth"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "2b88d7ef9b30a3f1",
   "lastOpenFiles": [
+    "content/about.md",
     "content/posts/260408-soil.md",
     "content/schools/llanilar.md",
     "content/schools/llanarth.md",
@@ -213,7 +214,6 @@
     "content/posts/260303-symposiwm.md",
     "content/posts/260303-symposiwm.sync-conflict-20260406-225942-QLP3IME.md",
     "content/creatives.md",
-    "content/about.md",
     "content/posts/260324-llanilar-workshop-1.md",
     "content/posts/260327-llanarth-workshop-1.md",
     "content/posts/260320-esgair-arth-site.md",
