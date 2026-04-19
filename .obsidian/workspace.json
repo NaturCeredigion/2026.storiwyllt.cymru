@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/schools/llanarth.md",
+                "file": "content/posts/260417-aberteifi-workshop-1.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "llanarth"
+              "title": "260417-aberteifi-workshop-1"
             }
           }
         ]
@@ -184,10 +184,29 @@
   },
   "active": "2b88d7ef9b30a3f1",
   "lastOpenFiles": [
+    "content/posts/260417-aberaeron-workshop-2.md",
+    "content/posts/260417-aberteifi-workshop-1.md",
+    "assets/snippets/snippets.md",
+    "content/posts/260419-.md",
+    "public/posts/260417-aberteifi-workshop-1/index.html",
+    "public/posts/260417-aberteifi-workshop-1",
+    "content/posts/Untitled.md",
+    "public/page/3/index.html",
+    "public/page/3",
+    "public/posts/untitled/index.html",
+    "public/posts/untitled",
+    "public/posts/260417-aberaeron-workshop-2/index.html",
+    "public/posts/260417-aberaeron-workshop-2",
+    "content/posts/260416-llanarth-workshop-2.md",
+    "content/posts/260414-llanilar-workshop-2.md",
+    "public/posts/260416-llanarth-workshop-2/index.html",
+    "public/posts/260416-llanarth-workshop-2",
+    "content/posts/260327-llanarth-workshop-1.md",
+    "content/posts/260401-aberteifi-recap.md",
+    "content/schools/llanarth.md",
     "content/about.md",
     "content/posts/260408-soil.md",
     "content/schools/llanilar.md",
-    "content/schools/llanarth.md",
     "content/schools/aberteifi.md",
     "content/schools/aberaeron.md",
     "content/workflow.md",
@@ -199,28 +218,9 @@
     "content/posts/260320-aberaeron-workshop-1.md",
     "content/posts/260319-aberaeron-site.md",
     "content/posts/260319-aberaeron-site.sync-conflict-20260406-225934-QLP3IME.md",
-    "public/index.xml",
-    "public/posts/index.xml",
-    "public/tags/index.xml",
-    "public/schools/index.xml",
-    "public/categories/index.xml",
-    "public/workflow/index.html",
-    "public/workflow",
-    "public/tags/twrgwyllt/index.html",
-    "public/tags/twrgwyllt",
-    "public/workshops/index.html",
     "public/images/stori-wyllt-logo.svg",
     "public/images/logo.png",
     "content/posts/260303-symposiwm.md",
-    "content/posts/260303-symposiwm.sync-conflict-20260406-225942-QLP3IME.md",
-    "content/creatives.md",
-    "content/posts/260324-llanilar-workshop-1.md",
-    "content/posts/260327-llanarth-workshop-1.md",
-    "content/posts/260320-esgair-arth-site.md",
-    "content/posts/260401-aberteifi-recap.md",
-    "assets/snippets/snippets.md",
-    "content/posts/260319-llanilar-site.md",
-    "content/posts/260320-aberaeron-twr-gwyllt.md",
-    "content/posts/_index.md"
+    "content/posts/260303-symposiwm.sync-conflict-20260406-225942-QLP3IME.md"
   ]
 }

@@ -2,17 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/aberteifi/</loc>
+    <lastmod>2026-04-19T13:15:25+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-09T16:43:11+01:00</lastmod>
+    <lastmod>2026-04-19T13:54:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-04-19T13:54:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/workshop/</loc>
+    <lastmod>2026-04-19T13:54:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/260417-aberteifi-workshop-1/</loc>
+    <lastmod>2026-04-19T13:15:25+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/aberaeron/</loc>
+    <lastmod>2026-04-19T13:54:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/260417-aberaeron-workshop-2/</loc>
+    <lastmod>2026-04-19T13:54:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/llanarth/</loc>
+    <lastmod>2026-04-19T12:58:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/260416-llanarth-workshop-2/</loc>
+    <lastmod>2026-04-19T12:58:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/llanilar/</loc>
+    <lastmod>2026-04-19T12:44:25+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/260414-llanilar-workshop-2/</loc>
+    <lastmod>2026-04-19T12:44:25+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/organise/</loc>
     <lastmod>2026-04-09T16:33:54+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/aberteifi/</loc>
-    <lastmod>2026-04-01T18:04:28+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-04-07T21:54:46+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260401-aberteifi-recap/</loc>
     <lastmod>2026-04-01T18:04:28+01:00</lastmod>
@@ -38,12 +62,6 @@
     <loc>http://localhost:1313/about/</loc>
     <lastmod>2026-04-02T22:34:57+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/llanarth/</loc>
-    <lastmod>2026-04-02T16:22:44+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/workshop/</loc>
-    <lastmod>2026-04-07T21:54:46+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/260327-llanarth-workshop-1/</loc>
     <lastmod>2026-04-02T16:22:44+01:00</lastmod>
   </url><url>
@@ -56,14 +74,8 @@
     <loc>http://localhost:1313/workflow/</loc>
     <lastmod>2026-03-25T20:22:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/llanilar/</loc>
-    <lastmod>2026-04-02T15:46:17+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/260324-llanilar-workshop-1/</loc>
     <lastmod>2026-04-02T15:46:17+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/aberaeron/</loc>
-    <lastmod>2026-04-07T21:54:46+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/esgairarth/</loc>
     <lastmod>2026-04-02T13:59:59+01:00</lastmod>

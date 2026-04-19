@@ -22,7 +22,6 @@ The school has a large grassland grounds, with a mature hedge and a range of dif
 Molly Gilbert, the local artist partnered with the school, has a 2 acre forest garden, surrounded by mature trees, which is being used for the majority of the workshops. There is a stream at the bottom of the property, with a rich seam of blue clay!
 
 The garden is a 20-minute walk via a public bridleway and a quiet country back road.
-
 ## People
 - **Cally Jones** -- teacher
 - **Molly Gilbert** -- After a life in inner city Bristol working in healthcare, 4 years ago Molly found herself in West Wales looking after Portugese horses and managing a small field for growing food and as safe space for nature. A passion for all things wild was inspired in her by her mother and it has been her greatest interest, joy and sustenance. She has kept  journals for most of her adult  life -- adding sketches, watercolour paintings, musings, poems -- and many of these entries reflect her passion for the world around her.
