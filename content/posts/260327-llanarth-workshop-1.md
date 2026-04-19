@@ -7,7 +7,7 @@ tags:
   - Llanarth
   - workshop
 draft: false
-modified: 2026-04-02T16:22:44+01:00
+modified: 2026-04-19T14:02:17+01:00
 date: 2026-03-31T15:50:24+01:00
 ---
 ***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants.*
@@ -58,3 +58,4 @@ We had to reluctantly rush back so that the students wouldn‘t miss lunch, and 
 - Was a *fantastic* session, very high energy and lots of mud!
 - A couple of the students didn't want to get their hands dirty with the clay, so maybe an alternative activity?
 - Maybe organise class into couple of 'stations' to help focus energy? Was a lot of chatting (via Jo)
+- I love the idea of soil as the foundation of the food web, very elemental, along with the sun and water. Philosophical questions about whether the soil is alive
