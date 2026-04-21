@@ -6,8 +6,8 @@ image_caption:
 tags:
   - Aberaeron
   - workshop
-draft: false
-modified: 2026-04-19T13:54:12+01:00
+draft: true
+modified: 2026-04-21T08:16:57+01:00
 date: 2026-04-17T12:58:06+01:00
 ---
 - Walk to Allt yr Graig

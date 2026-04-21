@@ -6,10 +6,12 @@ image_caption:
 tags:
   - Llanilar
   - workshop
-draft: false
-modified: 2026-04-19T12:44:25+01:00
+draft: true
+modified: 2026-04-21T08:16:52+01:00
 date: 2026-04-14T12:03:52+01:00
 ---
+Split 2 groups
+
 ## Oriel Gallery
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776588399/260414-llanilar-workshop2-sheena-students-tree-of-life.jpg" caption="" >}}
@@ -35,3 +37,4 @@ date: 2026-04-14T12:03:52+01:00
 
 ## Reflections
 ### Jake
+- One example of each eg lichen, fungi, flower, grass, 

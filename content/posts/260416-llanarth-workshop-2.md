@@ -6,8 +6,8 @@ image_caption:
 tags:
   - Llanarth
   - workshop
-draft: false
-modified: 2026-04-19T12:58:06+01:00
+draft: true
+modified: 2026-04-21T08:16:54+01:00
 date: 2026-04-16T12:32:49+01:00
 ---
 1. Willow charcoal

@@ -6,8 +6,8 @@ image_caption:
 tags:
   - Aberteifi
   - workshop
-draft: false
-modified: 2026-04-19T14:01:06+01:00
+draft: true
+modified: 2026-04-19T14:10:59+01:00
 date: 2026-04-17T13:09:19+01:00
 ---
 - Leaves drawing
@@ -16,6 +16,7 @@ date: 2026-04-17T13:09:19+01:00
 ## Oriel Gallery
 {{< gallery >}}
 <!-- Leaves -->
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776604214/260417-aberteifi-workshop1-oak-leaves-unfurling.jpg" caption="" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776590795/260417-aberteifi-workshop1-pencil-leaf-outline.jpg" caption="" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776590791/260417-aberteifi-workshop1-clipboard-pencil-drawings.jpg" caption="" >}}
 
@@ -49,3 +50,7 @@ date: 2026-04-17T13:09:19+01:00
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776590787/260417-aberteifi-workshop1-clay-smooth-ball.jpg" caption="" >}}
 
 {{< /gallery >}}
+
+## Reflections
+### Jake
+- Oak not quite in leaf at this time of year!

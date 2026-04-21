@@ -334,5 +334,14 @@
       ],
       "key": "P"
     }
+  ],
+  "obsidian-editor-shortcuts:selectAllOccurrences": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
   ]
 }
