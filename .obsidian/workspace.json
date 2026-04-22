@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/organise-aberteifi.md",
+                "file": "content/organise-aberteifi.md",
                 "mode": "source",
                 "source": false
               },
@@ -184,8 +184,9 @@
   },
   "active": "8461fc56064fc9dd",
   "lastOpenFiles": [
+    "content/posts/260324-llanilar-workshop-1.md",
+    "content/organise-aberteifi.md",
     "content/posts/260417-aberteifi-workshop-1.md",
-    "content/posts/organise-aberteifi.md",
     "content/posts/260417-aberaeron-workshop-2.md",
     "content/posts/260416-llanarth-workshop-2.md",
     "content/posts/260414-llanilar-workshop-2.md",
@@ -219,7 +220,6 @@
     "content/schools/_index.md",
     "content/posts/260320-aberaeron-workshop-1.md",
     "content/posts/260319-aberaeron-site.md",
-    "content/posts/260319-aberaeron-site.sync-conflict-20260406-225934-QLP3IME.md",
     "public/images/stori-wyllt-logo.svg",
     "public/images/logo.png"
   ]

@@ -5,7 +5,7 @@ image: https://res.cloudinary.com/naturceredigion/image/upload/v1776590793/26041
 image_caption: Pencil drawing of Lesser Celandine and crayon rubbing of Ivy
 tags:
 draft: false
-modified: 2026-03-26T17:18:14+00:00
+modified: 2026-04-22T17:00:28+01:00
 date: 2026-04-22T08:15:12+01:00
 ---
 The sessions will provide opportunities to:
