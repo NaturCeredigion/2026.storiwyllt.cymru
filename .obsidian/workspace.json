@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/organise-aberteifi.md",
+                "file": "content/organise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "organise-aberteifi"
+              "title": "organise"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "8461fc56064fc9dd",
   "lastOpenFiles": [
-    "content/posts/260324-llanilar-workshop-1.md",
     "content/organise-aberteifi.md",
+    "content/posts/260324-llanilar-workshop-1.md",
     "content/posts/260417-aberteifi-workshop-1.md",
     "content/posts/260417-aberaeron-workshop-2.md",
     "content/posts/260416-llanarth-workshop-2.md",
