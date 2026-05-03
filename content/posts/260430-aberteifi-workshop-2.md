@@ -7,17 +7,8 @@ tags:
   - Aberteifi
   - workshop
 draft: true
-modified: 2026-05-03T16:56:50+01:00
+modified: 2026-05-03T21:48:59+01:00
 date: 2026-04-30T16:29:17+01:00
-gallery_image:
-  - https://imageurl1
-  - https://imageurl2
-gallery_AltText:
-  - AltText1
-  - AltText2
-gallery_caption:
-  - Caption 1
-  - Caption 2
 ---
 
 ## Oriel Gallery
