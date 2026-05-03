@@ -3,6 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "draft": "checkbox"
+    "draft": "checkbox",
+    "array": "multitext",
+    "gallery_altText": "multitext"
   }
 }

@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/260428-llanilar-workshop-3.md",
+                "file": "content/posts/260430-aberteifi-workshop-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260428-llanilar-workshop-3"
+              "title": "260430-aberteifi-workshop-2"
+            }
+          },
+          {
+            "id": "4f6a5c525de213da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/schools/llanarth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "llanarth"
             }
           }
         ]
@@ -184,15 +198,20 @@
   },
   "active": "8461fc56064fc9dd",
   "lastOpenFiles": [
-    "content/organise.md",
-    "content/organise-aberteifi.md",
-    "content/posts/260324-llanilar-workshop-1.md",
+    "content/posts/260428-llanilar-workshop-3.md",
     "content/posts/260417-aberteifi-workshop-1.md",
     "content/posts/260417-aberaeron-workshop-2.md",
     "content/posts/260416-llanarth-workshop-2.md",
     "content/posts/260414-llanilar-workshop-2.md",
-    "content/about.md",
+    "content/schools/llanarth.md",
+    "content/posts/260430-aberteifi-workshop-2.md",
     "content/posts/_index.md",
+    "public/posts/260430-aberteifi-workshop-2/index.html",
+    "public/posts/260430-aberteifi-workshop-2",
+    "content/organise.md",
+    "content/organise-aberteifi.md",
+    "content/posts/260324-llanilar-workshop-1.md",
+    "content/about.md",
     "content/posts/260327-llanarth-workshop-1.md",
     "content/posts/260408-soil.md",
     "assets/snippets/snippets.md",
@@ -206,10 +225,7 @@
     "public/posts/untitled",
     "public/posts/260417-aberaeron-workshop-2/index.html",
     "public/posts/260417-aberaeron-workshop-2",
-    "public/posts/260416-llanarth-workshop-2/index.html",
-    "public/posts/260416-llanarth-workshop-2",
     "content/posts/260401-aberteifi-recap.md",
-    "content/schools/llanarth.md",
     "content/schools/llanilar.md",
     "content/schools/aberteifi.md",
     "content/schools/aberaeron.md",
@@ -217,9 +233,6 @@
     "content/resources.md",
     "content/artists.md",
     "content/naturalists.md",
-    "content/schools/_index.md",
-    "content/posts/260320-aberaeron-workshop-1.md",
-    "content/posts/260319-aberaeron-site.md",
     "public/images/stori-wyllt-logo.svg",
     "public/images/logo.png"
   ]

@@ -7,7 +7,7 @@ tags:
   - Aberaeron
   - workshop
 draft: true
-modified: 2026-04-21T08:16:57+01:00
+modified: 2026-05-03T19:28:46+01:00
 date: 2026-04-17T12:58:06+01:00
 ---
 - Walk to Allt yr Graig

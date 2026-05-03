@@ -1,16 +1,16 @@
 ---
 title: Ysgol Llanilar Workshop 3
-description: 
-image: https://res.cloudinary.com/naturceredigion/image/upload/v1777497341/260428-llanilar-workshop3-caddis-fly-case.jpg
-image_caption: Caddis fly case
+description:
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1777497343/260428-llanilar-workshop3-cyanotype-marian-students-board.jpg
+image_caption:
 tags:
   - Llanilar
   - workshop
 draft: true
-modified: 2026-04-29T08:16:52+01:00
+modified: 2026-05-03T19:28:50+01:00
 date: 2026-04-28T10:00:52+01:00
 ---
-
+s
 
 ## Oriel Gallery
 
@@ -53,3 +53,5 @@ date: 2026-04-28T10:00:52+01:00
 ### Jake
 - Art paper for feedback!
 - Split group size works well
+- **Landscape orientation for photos!!**
+- 16:9 proportion is best for website & social media

@@ -4,10 +4,24 @@
     <title>Tags on Stori Wyllt 2026</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Stori Wyllt 2026</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 29 Apr 2026 08:16:52 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 12:55:47 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aberteifi</title>
+      <link>http://localhost:1313/tags/aberteifi/</link>
+      <pubDate>Thu, 30 Apr 2026 16:29:17 +0100</pubDate>
+      <guid>http://localhost:1313/tags/aberteifi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>http://localhost:1313/tags/workshop/</link>
+      <pubDate>Thu, 30 Apr 2026 16:29:17 +0100</pubDate>
+      <guid>http://localhost:1313/tags/workshop/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Llanilar</title>
       <link>http://localhost:1313/tags/llanilar/</link>
@@ -16,17 +30,17 @@
       <description></description>
     </item>
     <item>
-      <title>Workshop</title>
-      <link>http://localhost:1313/tags/workshop/</link>
-      <pubDate>Tue, 28 Apr 2026 10:00:52 +0100</pubDate>
-      <guid>http://localhost:1313/tags/workshop/</guid>
+      <title>Aberaeron</title>
+      <link>http://localhost:1313/tags/aberaeron/</link>
+      <pubDate>Fri, 17 Apr 2026 12:58:06 +0100</pubDate>
+      <guid>http://localhost:1313/tags/aberaeron/</guid>
       <description></description>
     </item>
     <item>
-      <title>Aberteifi</title>
-      <link>http://localhost:1313/tags/aberteifi/</link>
-      <pubDate>Wed, 01 Apr 2026 17:30:15 +0100</pubDate>
-      <guid>http://localhost:1313/tags/aberteifi/</guid>
+      <title>Llanarth</title>
+      <link>http://localhost:1313/tags/llanarth/</link>
+      <pubDate>Thu, 16 Apr 2026 12:32:49 +0100</pubDate>
+      <guid>http://localhost:1313/tags/llanarth/</guid>
       <description></description>
     </item>
     <item>
@@ -34,20 +48,6 @@
       <link>http://localhost:1313/tags/about/</link>
       <pubDate>Wed, 01 Apr 2026 10:55:40 +0100</pubDate>
       <guid>http://localhost:1313/tags/about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Llanarth</title>
-      <link>http://localhost:1313/tags/llanarth/</link>
-      <pubDate>Tue, 31 Mar 2026 15:50:24 +0100</pubDate>
-      <guid>http://localhost:1313/tags/llanarth/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aberaeron</title>
-      <link>http://localhost:1313/tags/aberaeron/</link>
-      <pubDate>Fri, 20 Mar 2026 20:18:16 +0000</pubDate>
-      <guid>http://localhost:1313/tags/aberaeron/</guid>
       <description></description>
     </item>
     <item>
