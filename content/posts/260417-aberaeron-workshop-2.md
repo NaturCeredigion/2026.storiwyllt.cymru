@@ -1,13 +1,13 @@
 ---
 title: Ysgol Gynradd Aberaeron Workshop 2
-description: In lieu of Tŷ Mari, we took a walk to the magical Allt y Graig
+description: In lieu of a trip to Esgair Arth and Tŷ Mari, we took a walk to the magical Allt y Graig woodland in Aberaeron
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1776590011/260417-aberaeron-workshop2-rebecca-story-telling.jpg
 image_caption: Artist Rebecca Wyn Kelly in full story telling flow
 tags:
   - Aberaeron
   - workshop
-draft: true
-modified: 2026-05-03T21:50:42+01:00
+draft: false
+modified: 2026-05-04T09:04:48+01:00
 date: 2026-04-17T12:58:06+01:00
 ---
 - Walk to Allt yr Graig

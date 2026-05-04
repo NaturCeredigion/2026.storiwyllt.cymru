@@ -6,7 +6,7 @@ image_caption:
 tags:
   - Aberteifi
   - workshop
-draft: true
+draft: false
 modified: 2026-05-03T21:48:59+01:00
 date: 2026-04-30T16:29:17+01:00
 ---
