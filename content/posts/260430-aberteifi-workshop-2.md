@@ -7,7 +7,7 @@ tags:
   - Aberteifi
   - workshop
 draft: false
-modified: 2026-05-03T21:48:59+01:00
+modified: 2026-05-04T17:39:48+01:00
 date: 2026-04-30T16:29:17+01:00
 ---
 
@@ -39,4 +39,4 @@ date: 2026-04-30T16:29:17+01:00
 {{< /gallery >}}
 ## Reflections
 ### Jake
-- Oak not quite in leaf at this time of year!
+- Workshops take 3 hours to sort photos, upload, put into gallery, write outline report. Plus 3 hours per workshop. 
