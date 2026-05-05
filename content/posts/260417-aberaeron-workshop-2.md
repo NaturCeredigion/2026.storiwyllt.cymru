@@ -6,8 +6,8 @@ image_caption: Artist Rebecca Wyn Kelly in full story telling flow
 tags:
   - Aberaeron
   - workshop
-draft: false
-modified: 2026-05-04T09:04:48+01:00
+draft: true
+modified: 2026-05-05T14:14:54+01:00
 date: 2026-04-17T12:58:06+01:00
 ---
 - Walk to Allt yr Graig

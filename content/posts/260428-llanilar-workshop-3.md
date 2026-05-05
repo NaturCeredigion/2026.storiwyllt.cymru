@@ -6,8 +6,8 @@ image_caption: Artist Marian Haf with students putting together the exposure boa
 tags:
   - Llanilar
   - workshop
-draft: false
-modified: 2026-05-04T18:30:12+01:00
+draft: true
+modified: 2026-05-05T14:14:49+01:00
 date: 2026-04-28T10:00:52+01:00
 ---
 > A cyanotype is a monochrome print made by placing objects on a pre-prepared light-sensitive surface

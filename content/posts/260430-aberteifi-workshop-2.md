@@ -7,9 +7,20 @@ tags:
   - Aberteifi
   - workshop
 draft: false
-modified: 2026-05-04T21:48:12+01:00
+modified: 2026-05-05T14:14:44+01:00
 date: 2026-04-30T16:29:17+01:00
 ---
+The class was split into two groups (Group A & Group B!) and Pip worked with Group A, with the students initially studying Oak leaves and drawing them with pencils. She also worked with white drawings of Oak leaves on black paper, and charcoal (?) on white paper, and also using crayons to create rubbings of the leaves. There was a lot of attention and focus on the students on the form of the leaves.
+
+![Crayon layered rubbing of Oak leavs](https://res.cloudinary.com/naturceredigion/image/upload/v1777631842/260430-aberteifi-workshop3-bypip-rubbing-copse.jpg)<br>*Layered crayon rubbing of Oak leaves look tree- and copse-like to my mind*
+
+The layering of the crayon leaf rubbings have created some really interesting, tree-like shapes! And the variety of different detail being highlighted in the leaves has been amazing.
+
+The students also traced some gorgeous A3 colour print-outs of birds that have a relationship with the Oak.
+### Group B out in the wilds
+Jake took Group B with a Miss Shannon out to the Oak seating area on the school grounds, and talked about how incredible it is to think that we are surrounded by this great, living organism, which supports so many different types of life.
+
+The students drew leaf shapes first of all, and then there was a flower hunt, to look at symmetry. Photos are to follow!
 
 ## Oriel Gallery
 {{< gallery >}}
@@ -41,4 +52,5 @@ date: 2026-04-30T16:29:17+01:00
 {{< /gallery >}}
 ## Reflections
 ### Jake
-- Workshops take 3 hours to sort photos, upload, put into gallery, write outline report. Plus 3 hours per workshop. 
+- Smaller groups of a dozen are much easier to manage. Splitting a class of two dozen in half has worked well for Aberteifi and Llanilar.
+- Workshops take 3+ hours to sort photos, upload, put into gallery, write outline report. Plus 3+ hours per workshop is a full day.
