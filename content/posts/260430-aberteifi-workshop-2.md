@@ -10,7 +10,7 @@ draft: false
 modified: 2026-05-05T14:16:15+01:00
 date: 2026-04-30T16:29:17+01:00
 ---
-The class was split into two groups (Group A & Group B!) and Pip worked with Group A, with the students initially studying Oak leaves and drawing them with pencils. She also worked with white drawings of Oak leaves on black paper, and charcoal (?) on white paper, and also using crayons to create rubbings of the leaves. There was a lot of attention and focus on the students on the form of the leaves.
+ The class was split into two groups (Group A & Group B!) and Pip worked with Group A, with the students initially studying Oak leaves and drawing them with pencils. She also worked with white drawings of Oak leaves on black paper, and charcoal (?) on white paper, and also using crayons to create rubbings of the leaves. There was a lot of attention and focus on the students on the form of the leaves.
 
 ![Crayon layered rubbing of Oak leavs](https://res.cloudinary.com/naturceredigion/image/upload/v1777631842/260430-aberteifi-workshop3-bypip-rubbing-copse.jpg)<br>*Layered crayon rubbing of Oak leaves look tree- and copse-like to my mind*
 

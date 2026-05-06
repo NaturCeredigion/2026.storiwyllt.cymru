@@ -6,13 +6,27 @@ image_caption:
 tags:
   - Aberteifi
   - workshop
-draft: true
-modified: 2026-05-06T12:22:28+01:00
+draft: false
+modified: 2026-05-06T12:47:02+01:00
 date: 2026-04-17T13:09:19+01:00
 ---
-- Leaves drawing
-- Crayon rubbing 
-- Clay
+Underlining the variation in the different schools, settings and people across Stori Wyllt, we didn’t have an ecologist for Ysgol Gynradd Aberteifi for the first two workshops, as Yusef Samari has a *very* full calendar with the [Your Wild Patch / Eich Darn Gwyllt](https://www.wwbic.org.uk/projects/your-wild-patch-eich-darn-gwyllt/) project.
+
+This meant I was leading the first session, very ably aided by teacher Mari Roberts (who has a Zoology degree!) I gave a very brief introduction to ecoystems, and talked a bit about the wildlife benefits of the Oak, and the amazing array and number of species it supports. And then out to the seating area under a pair of Oak trees, beyond the playground and playing field, newly garlanded with a shining green fence. 
+
+I *was* going to get the students to draw fresh Oak leaves, but I was bit early, the leaves were only just coming out of bud.
+
+![Oak leaves unfurling](https://res.cloudinary.com/naturceredigion/image/upload/v1776604214/260417-aberteifi-workshop1-oak-leaves-unfurling.jpg)<br>*Oak leaves, not quite ready to draw around!*
+
+So, we found last year’s leaves and drew round them, and did a bit of crayon rubbing of bark and leaves as well. 
+
+![](https://res.cloudinary.com/naturceredigion/image/upload/v1776590792/260417-aberteifi-workshop1-crayon-leaf-rubbings-orange.jpg)<br>*Wax crayon rubbing of a variety of leaves*
+
+I *was* going to look at spring wild flowers but it was damp, and there was lots of recently excavated clay from the foundations of the new fence. So, following on from the muddy success of the first workshop at Llanarth, we decided to roll with the clay.
+
+![Hand holding fresh clay heart, embossed with a yellow Lesser Celandine flower](https://res.cloudinary.com/naturceredigion/image/upload/v1776590801/260417-aberteifi-workshop1-student-clay-heart-flower-impress.jpg)<br>*The variety and imagination of clay creations was inspiring*
+
+I am so glad we did, there was a real freedom in the diversity of creations, and the way the clay was treated and shaped with natural materials and implements. But there was a lot of clearing up in the classroom!
 ## Oriel Gallery
 {{< gallery >}}
 <!-- Leaves -->
@@ -54,3 +68,5 @@ date: 2026-04-17T13:09:19+01:00
 ## Reflections
 ### Jake
 - Oak not quite in leaf at this time of year!
+- Quick introduction to "dangerous" plants -- Hogweed, Lords & Ladies, Blackthorn, Bramble & Nettle. 
+- Really need to get a list of common Welsh wildlife names.
