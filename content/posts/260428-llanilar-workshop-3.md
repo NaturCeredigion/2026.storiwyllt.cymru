@@ -6,13 +6,23 @@ image_caption: Artist Marian Haf with students putting together the exposure boa
 tags:
   - Llanilar
   - workshop
-draft: true
+draft: false
 modified: 2026-05-06T12:46:48+01:00
 date: 2026-04-28T10:00:52+01:00
 ---
-> A cyanotype is a monochrome print made by placing objects on a pre-prepared light-sensitive surface
+> A cyanotype is a monochrome print made by placing objects on a pre-prepared light-sensitive surface†
 
-[gathered magazine](https://www.gathered.how/arts-crafts/guide-to-cyanotype-printing)
+What I have absolutely loved about the Stori Wyllt workshops so far is the range of activities and the different types of engagement (clay making, charcoal baking, bubble blowing, story telling, crayon rubbing & more). 
+
+At Ysgol Llanilar, I am entranced by making cyanotypes, the Prussian Blue tinted proto-photographic method of objects on light-sensitive paper, and artist [Marian Haf](/schools/llanilar) has already helped the students create some truly gorgeous pieces.
+
+![](https://res.cloudinary.com/naturceredigion/image/upload/v1777497341/260428-llanilar-workshop3-cyanotype-4-rotate.jpg)<br>*Some initial student cyanotypes, with much more play to come*
+
+And I think what has worked well is splitting the groups up. I had some vague notion that maybe the naturalist and the creative would work more directly together but this is actually really difficult in the limited amount of time (two hours), plus a smaller group is far more manageable if there is concentrating work to be done.
+
+What has also worked is a combination of classroom and outdoor work; Sheena started off with some potted plants and samples indoors, and then tried our hands at pond dipping, a walk around the pond and a trip to the river. And the students can then bring the outdoor back inside for closer, drier investigation.
+
+† quote from [gathered magazine](https://www.gathered.how/arts-crafts/guide-to-cyanotype-printing)
 ## Oriel Gallery
 
 {{< gallery >}}
