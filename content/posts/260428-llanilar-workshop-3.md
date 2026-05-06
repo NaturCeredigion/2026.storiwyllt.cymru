@@ -7,7 +7,7 @@ tags:
   - Llanilar
   - workshop
 draft: true
-modified: 2026-05-05T14:14:49+01:00
+modified: 2026-05-05T14:16:17+01:00
 date: 2026-04-28T10:00:52+01:00
 ---
 > A cyanotype is a monochrome print made by placing objects on a pre-prepared light-sensitive surface

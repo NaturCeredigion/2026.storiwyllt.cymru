@@ -7,7 +7,7 @@ tags:
   - Llanarth
   - workshop
 draft: false
-modified: 2026-05-03T19:28:40+01:00
+modified: 2026-05-06T11:38:45+01:00
 date: 2026-04-16T12:32:49+01:00
 ---
 [Jo Dainty](http://localhost:1313/schools/llanarth/#people) is a forest school practitioner and she crammed an incredible amount into the two hours on the Ysgol Llanarth school field, in a very entertaining and high-octane workshop.
@@ -36,6 +36,7 @@ Jo checked the willow charcoal, and it was *almost* finished, it needs at least 
 
 ## Oriel Gallery 
 {{< gallery >}}
+  <!-- willow -->
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589228/260416-llanarth-workshop2-jo-student-cylch.jpg" caption="The workshop started with a seated circle around the fire bowl. The grass was damp and Jo brought a couple of dozen carpet sample mats. Inspired." >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589235/260416-llanarth-workshop2-student-willow-bark-strips.jpg" caption="Student stripping bark from willow sticks to make charcoal." >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589234/260416-llanarth-workshop2-student-solitary-willow-stripping-bark.jpg" caption="Student sat on carpet map stripping a big pile of willow sticks." >}}
@@ -48,10 +49,12 @@ Jo checked the willow charcoal, and it was *almost* finished, it needs at least 
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589232/260416-llanarth-workshop2-student-makeshift-willow-seat.jpg" caption="Students made more than sticks -- this is a makeshift willow seat!" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589239/260416-llanarth-workshop2-willow-sandals.jpg" caption="And this student made willow sandals!!" >}}
 
+  <!-- Bubbles -->
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589238/260416-llanarth-workshop2-willow-bubbles-sky.jpg" caption="Whilst the willow charcoal was cooking on the fire, Jo organised three more activities: bubbles with hand-made willow hoops, making dyes and finally herbal teas." >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589236/260416-llanarth-workshop2-student-willow-bubbles-closeup.jpg" caption="Student with super big bubble." >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589233/260416-llanarth-workshop2-students-chasing-bubbles.jpg" caption="Chasing bubbles." >}}
-  
+
+  <!-- Flowers & pictures -->
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589229/260416-llanarth-workshop2-mortar-pestle-plantain.jpg" caption="Ribwort Plantain (Plantago lanceolata) leaves next to the mortar and pestle." >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589231/260416-llanarth-workshop2-student-lesser-celandine-bouquet.jpg" caption="A bouquet of Lesser Celandine (Ficaria verna, formerly Ranunculus ficaria)" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589229/260416-llanarth-workshop2-lesser-celandine-llyfr-natur.jpg" caption="Lesser Celandine, or Llygad Ebrill yn Gymraeg, in Llyfr Natur by Paul Sterry & Iolo Williams" >}}
@@ -63,7 +66,8 @@ Jo checked the willow charcoal, and it was *almost* finished, it needs at least 
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589224/260416-llanarth-workshop2-dandelion-daisy-cuckoo-flower-dye-paintings.jpg" caption="Three pictures of flowers Dandelion, Daisy and Lady’s Smock (Cuckoo Flower), with the flowers." >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589233/260416-llanarth-workshop2-student-paint-daisy.jpg" caption="Student painting around a Daisy flower" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589223/260416-llanarth-workshop2-cuckoo-flower-dye-painting.jpg" caption="Close-up of Cuckoo Flower flower and paint." >}}
-  
+
+  <!-- Tea -->
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589604/260416-llanarth-workshop2-bycally-students-making-tea.jpg" caption="Students making Dandelion tea." >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589227/260416-llanarth-workshop2-jo-pouring-tea.jpg" caption="Jo pouring out the herbal teas for the students to taste." >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589232/260416-llanarth-workshop2-student-nettle-tea.jpg" caption="Students making Nettle tea." >}}

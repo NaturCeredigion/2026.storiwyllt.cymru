@@ -6,14 +6,27 @@ image_caption: Artist Rebecca Wyn Kelly in full story telling flow
 tags:
   - Aberaeron
   - workshop
-draft: true
-modified: 2026-05-05T14:14:54+01:00
+draft: false
+modified: 2026-05-06T12:21:06+01:00
 date: 2026-04-17T12:58:06+01:00
 ---
-- Walk to Allt yr Graig
-- Listening
-- Story telling
-- River
+We were still waiting for the go-ahead to the house of the witch Mari Berllan Peter in Esgair Arth woodland, so Plan B was put into operation, a trip to Allt y Graig woods, just the other side of Jewsons where the Twr Gwyllt (Wild Tower) is situated, with storyteller and artist Rebecca Wyn Kelly and ecologist Carys May.
+
+The walk up Bro Allt yr Graig is steeply wooded banks, a single track road and swathes of plant life. At the beginning of the track in the woods we found a book. Under a saucepan. The book is called “A Scary Adventure” and it’s discovery was a strange and happenstance.
+
+![A book called A Scary Adventure, under a saucepan, in the hedge](https://res.cloudinary.com/naturceredigion/image/upload/v1776590012/260417-aberaeron-workshop2-scary-adventure-book-under-saucepan.jpg)<br>*Portents indeed of magical storytelling*
+
+We walked along a single track woodland path, distracted by the wild flowers, we arrived at a seating area in a quarry around a fire site. Rebecca invited the students to use their senses and be still and be aware of what was living around them.
+
+![Students looking up in the quarry](https://res.cloudinary.com/naturceredigion/image/upload/v1776590017/260417-aberaeron-workshop2-students-looking-up.jpg)<br>*Paying attention*
+
+Sitting in a circle, Rebecca then asked the students which wild stories they knew of -- Wind in the Willows was one of the replies. Ah, but what about *Welsh* wild stories? She then proceeded to tell her version of the story of Blodeuwedd, created from the flowers of Broom, Meadowsweet and Oak. And then she told the story of Ceridwen and her cauldron of [awen](https://en.wikipedia.org/wiki/Awen), and as luck would have it, there was a Gwion present to act the stirring of the cauldron.
+
+![Rebecca storytelling at Allt yr Graig, reading from a book, sitting next to three students](https://res.cloudinary.com/naturceredigion/image/upload/v1776590011/260417-aberaeron-workshop2-rebecca-story-telling.jpg)<br>*Rebecca Wyn Kelly in full story telling flow*
+
+We walked across the bridge and by the river Aeron on the way back, with posies of flowers. One of the students showed us his Mum’s footprints in some concrete by a garage; now that is local knowledge. 
+
+![Small group behind a fence of the tree lined river Aeron](https://res.cloudinary.com/naturceredigion/image/upload/v1776590018/260417-aberaeron-workshop2-students-path-down-river-aeron.jpg)<br>*Students on the bank of the river Aeron on the way back to school*
 
 <iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=-4.257073402404786%2C52.23423589846577%2C-4.24999237060547%2C52.23724189769282&amp;layer=mapnik" style="border: 1px solid black"></iframe><br><small><a href="https://www.openstreetmap.org/?#map=18/52.235739/-4.253533&amp;layers=N">View Larger Map</a></small>
 ## Oriel Gallery
@@ -47,3 +60,5 @@ date: 2026-04-17T12:58:06+01:00
 {{< /gallery >}}
 ## Reflections
 ### Jake
+- Possibly bring waterproof mats for students, as the logs were very wet?!
+- Maybe split the group into two, so Carys could have more student contact and explore the woodland ecology in more depth?
