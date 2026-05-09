@@ -1,6 +1,6 @@
 #-------------------------------
 # General Site Settings
-baseURL = "https://2026.storiwyllt.cymru"
+baseURL = "https://storiwyllt.cymru"
 languageCode = "en-gb"
 title = "Stori Wyllt 2026"
 # googleAnalytics = "" # Add your identifier. For example UA-99631805-1.
