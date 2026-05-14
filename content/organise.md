@@ -1,6 +1,6 @@
 ---
 title: Trefnu / Organise
-modified: 2026-04-09T16:33:54+01:00
+modified: 2026-05-14T16:48:34+01:00
 ---
 ## People
 
@@ -12,6 +12,7 @@ modified: 2026-04-09T16:33:54+01:00
 | *Llanilar*                          | Sheena Duller | Marian Haf        | Jan Jones             |
 
 <span></span>
+*Aberteifi organise page: [storiwyllt.cymru/organise-aberteifi](https://storiwyllt.cymru/organise-aberteifi/)*
 
 - Emrys Plant - *Creative Custodian*
 - Sheena Duller - *Ecology Advisor*
