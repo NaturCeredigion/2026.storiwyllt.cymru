@@ -5,9 +5,8 @@ image: https://res.cloudinary.com/naturceredigion/image/upload/v1778764074/26050
 image_caption: Green Nettle Weevil, photo by Carys May
 tags:
   - Aberaeron
-  - workshop
 draft: false
-modified: 2026-05-14T14:35:11+01:00
+modified: 2026-05-19T14:57:06+01:00
 date: 2026-05-08T16:10:54+01:00
 ---
 Ecologist Carys May from WWBIC did an amazing job finding, explaining, photographing and cataloguing a whole load of different species on Ysgol Gynradd Aberaeron‘s trip to Tŷ Mari at Esgair Arth. 

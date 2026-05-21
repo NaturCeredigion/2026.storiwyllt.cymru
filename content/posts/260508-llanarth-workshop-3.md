@@ -5,7 +5,7 @@ image:
 image_caption:
 tags:
 draft: true
-modified: 2026-05-14T16:47:25+01:00
+modified: 2026-05-19T12:21:52+01:00
 date: 2026-05-08T16:33:30+01:00
 author: Jo Dainty
 ---
@@ -34,3 +34,4 @@ We lit the fire, toasted marshmallows and molly taught us a chant! 
 A lovely morning!
 ## Oriel Gallery
 ## Reflections
+- Choose 30 max images for gallery! 
