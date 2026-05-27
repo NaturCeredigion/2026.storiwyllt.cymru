@@ -7,7 +7,7 @@ tags:
   - Llanilar
   - workshop
 draft: false
-modified: 2026-03-26T17:18:14+00:00
+modified: 2026-05-27T09:09:54+01:00
 date: 2026-05-20T14:18:54+01:00
 ---
 Harry Smalley from [Cardished](https://cardished.cymru/) ran a fantastic habitat workshop with Year 5 students from Llanilar. He brought two finished Barbastrelle bat boxes, four nest box apartments for House Sparrows and kits for Robin and Starling sizes nest boxes that the students assembled, using a form, a clamp, hammers and nails.
