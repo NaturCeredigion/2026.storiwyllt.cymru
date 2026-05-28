@@ -8,7 +8,7 @@ tags:
   - workshop
 draft: true
 author: Pip Lewis
-modified: 2026-05-27T20:05:41+01:00
+modified: 2026-05-28T10:05:15+01:00
 date: 2026-05-07T16:30:47+01:00
 ---
 *Guest post by project artist Pip Lewis*
