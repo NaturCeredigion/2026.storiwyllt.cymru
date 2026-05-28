@@ -10,7 +10,7 @@ draft: false
 modified: 2026-05-27T10:09:32+01:00
 date: 2026-05-20T19:09:54+01:00
 ---
-We ran a workshop with Harry Smalley from Cardished at Ysgol Llanilar, constructing kit nest boxes. We then 
+We ran a workshop with Harry Smalley from Cardished at Ysgol Llanilar, constructing kit nest boxes. We then walked around the school grounds and village pond, looking for potential sites.
 ## Habitat overview
 ![Screenshot of OpenStreetMap of Llanilar](https://res.cloudinary.com/growdigital/image/upload/v1779220230/260519-ysgol-llanilar-osm.jpg)
 *Mosaic of habitat -- pond, river, streams, woodland, marsh, grassland, hedges, gardens, houses, buildings…*
