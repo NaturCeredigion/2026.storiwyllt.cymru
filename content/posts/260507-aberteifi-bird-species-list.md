@@ -12,7 +12,7 @@ date: 2026-05-07T09:54:20+01:00
 ---
 This is the list of bird species that have relationship with the Oak / Derwen, that the artist Pip Lewis is working on with the Group A students.
 
-| Species                       | English name             | Welsh name           |
+| Species                       | English&nbsp;name        | Welsh&nbsp;name      |
 | ----------------------------- | ------------------------ | -------------------- |
 | Phoenicurus phoenicurus       | Redstart                 | Tingoch              |
 | Ficedula hypoleuca            | Pied Flycatcher          | Gwybedog Brith       |
