@@ -7,7 +7,7 @@ tags:
   - workshop
   - Llanilar
 draft: false
-modified: 2026-05-27T10:09:32+01:00
+modified: 2026-05-28T15:48:14+01:00
 date: 2026-05-20T19:09:54+01:00
 ---
 We ran a workshop with Harry Smalley from Cardished at Ysgol Llanilar, constructing kit nest boxes. We then walked around the school grounds and village pond, looking for potential sites.
