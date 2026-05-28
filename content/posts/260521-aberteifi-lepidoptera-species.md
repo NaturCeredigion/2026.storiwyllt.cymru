@@ -10,7 +10,7 @@ draft: false
 modified: 2026-05-28T20:53:25+01:00
 date: 2026-05-21T20:51:12+01:00
 ---
-For the [second set of workshops](https://storiwyllt.cymru/posts/260521-aberteifi-workshop-4/), Artist Pip Lewis prepared a whole set of colour print outs of moths and butterflies that are associated with the Oak tree. Here is the list of their names in Latin, English and Welsh, plus links to Wikipedia pages.
+For the [second set of workshops](https://storiwyllt.cymru/posts/260521-aberteifi-workshop-4/), artist Pip Lewis prepared a whole set of colour print outs of moths and butterflies that are associated with the Oak tree. Here is the list of their names in Latin, English and Welsh, plus links to Wikipedia pages.
 ### Butterfly and Moth species  
 | Moth species                                                                         | English&nbsp;name      | Welsh&nbsp;name          |
 | :----------------------------------------------------------------------------------- | :--------------------- | :----------------------- |
