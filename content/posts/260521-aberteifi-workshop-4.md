@@ -7,7 +7,7 @@ tags:
   - Aberteifi
   - workshop
 draft: false
-modified: 2026-05-28T16:33:47+01:00
+modified: 2026-05-28T20:53:49+01:00
 date: 2026-05-21T20:04:13+01:00
 ---
 *Guest post by artist Pip Lewis*
@@ -49,7 +49,7 @@ Prior to the workshop Pip selected and printed A3 photos of the following Butter
 | [*Crocallis elinguaria*](https://en.wikipedia.org/wiki/Scalloped_oak)                | Scalloped Oak          | Carpiog Y Derw           |
 | [*Plagodis dolabraria*](https://en.wikipedia.org/wiki/Plagodis_dolabraria)           | Scorched Wing          | Adain Ddeifiog           |
 
-| **Butterfly species**                                                        | **English&nbsp;name** | **Welsh&nbsp;name** |
+| Butterfly species                                                        | English&nbsp;name | Welsh&nbsp;name |
 | :--------------------------------------------------------------------------- | :-------------------- | :------------------ |
 | [*Apatura iris*](https://en.wikipedia.org/wiki/Apatura_iris)                 | Purple Emperor        | Mantell Borffor     |
 | [*Pararge aegeria*](https://en.wikipedia.org/wiki/Speckled_wood_(butterfly)) | Speckled Wood         | Gweirlöyn Brych     |
