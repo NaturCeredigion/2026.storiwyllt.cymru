@@ -1,5 +1,5 @@
 ---
-title: Ysgol Gynradd Aberteifi Workshop 2
+title: Ysgol Gynradd Aberteifi Workshop 3
 description:
 image:
 image_caption:
@@ -8,11 +8,11 @@ tags:
   - workshop
 draft: true
 author: Pip Lewis
-modified: 2026-05-14T16:12:20+01:00
+modified: 2026-05-27T20:05:41+01:00
 date: 2026-05-07T16:30:47+01:00
 ---
 *Guest post by project artist Pip Lewis*
-## Adar y Dderw  -- birds of the Oak
+## Adar y Dderw -- birds of the Oak
 Pip continued working with Group A, creating layered artworks made with acetate . The process involves overlaying drawing and collage, and adding text, and will be exhibited in the Stori Wyllt Gathering in Stiwdio 3 in Aberteifi on Monday 29th June.
 {{< gallery >}}
   {{< figure src="" caption="" >}}

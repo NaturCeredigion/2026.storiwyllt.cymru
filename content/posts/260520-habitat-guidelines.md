@@ -1,15 +1,16 @@
 ---
 title: Habitat guidelines
-description: These are the guidelines I used for the habitat workshop at Ysgol Llanilar
+description: These are the guidelines we used for the habitat workshop at Ysgol Llanilar, adapted from Bat Conservation Trust and British Trust for Ornithology
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1779344703/260520-llanilar-habitat-workshop-potential-site-gate.jpg
 image_caption: Potential site for nest boxes, with Oak, Ash, Holly, Field Maple and Hazel, with access to trees along path.
 tags:
   - workshop
   - Llanilar
 draft: false
-modified: 2026-05-27T09:11:18+01:00
+modified: 2026-05-27T10:09:32+01:00
 date: 2026-05-20T19:09:54+01:00
 ---
+We ran a workshop with Harry Smalley from Cardished at Ysgol Llanilar, constructing kit nest boxes. We then 
 ## Habitat overview
 ![Screenshot of OpenStreetMap of Llanilar](https://res.cloudinary.com/growdigital/image/upload/v1779220230/260519-ysgol-llanilar-osm.jpg)
 *Mosaic of habitat -- pond, river, streams, woodland, marsh, grassland, hedges, gardens, houses, buildings…*
