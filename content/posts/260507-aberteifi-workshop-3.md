@@ -1,8 +1,8 @@
 ---
 title: Ysgol Gynradd Aberteifi Workshop 3
 description: Artist Pip Lewis continued work with Group A creating collages of birds of the Oak, whilst ecologist Yusef Samari worked with Group B looking at the Oak as habitat
-image: https://res.cloudinary.com/naturceredigion/image/upload/v1779222507/260507-aberteifi-workshop3-acetate-collage.webp
-image_caption: Collage of collages, of birds of the Oak
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1780047380/260507-aberteifi-workshop3-students-making-blue-tit-collage-169.jpg
+image_caption: Student in full collage flow
 tags:
   - Aberteifi
   - workshop
@@ -30,6 +30,9 @@ The students were introduced to collage art, and spent the last hour choosing co
 ![Collage of owl, with brown sugar paper](https://res.cloudinary.com/naturceredigion/image/upload/v1780045412/260507-aberteifi-workshop3-collage-little-owl-43.jpg)<br>*Collage in progress of Little Owl*
 
 Mrs Roberts will focus on completing the collages, and adding the Welsh names into the design prior to the images being framed.
+
+![Photo collage of 11 pencil tracings of birds](https://res.cloudinary.com/naturceredigion/image/upload/v1779222507/260507-aberteifi-workshop3-acetate-collage.webp)
+*Collage of collages, of birds of the Oak*
 ### Species list
 | Species                                                                        | English&nbsp;name        | Welsh&nbsp;name      |
 | ------------------------------------------------------------------------------ | ------------------------ | -------------------- |
@@ -99,7 +102,6 @@ And, of course, an abundance of dead wood, with ubiquitous woodlice!
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778770516/260507-aberteifi-workshop3-drone-students.jpg" caption="Drone photo of staff & students lined up along green metal fence under Oak tree" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778770520/260507-aberteifi-workshop3-pip-mari.jpg" caption="Artist sat at desk with collage of bird, talking with teacher leaning against table" >}}
 {{< /gallery >}}
-
-
 ## Reflections
 - It‘s a lot of work to write up the notes and sort out the photos and galleries, be good to have a faster, more streamlined process on the website side of things.
+- Very useful to have the artist write their process and progress, but it is a lot of extra work. Will have a think about how best to document process, possibly share the work?
