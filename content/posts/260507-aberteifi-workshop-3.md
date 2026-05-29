@@ -1,8 +1,8 @@
 ---
 title: Ysgol Gynradd Aberteifi Workshop 3
 description: Artist Pip Lewis continued work with Group A creating collages of birds of the Oak, whilst ecologist Yusef Samari worked with Group B looking at the Oak as habitat
-image: https://res.cloudinary.com/naturceredigion/image/upload/v1780047380/260507-aberteifi-workshop3-students-making-blue-tit-collage-169.jpg
-image_caption: Student in full collage flow
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1778770515/260507-aberteifi-workshop3-drone-oak.jpg
+image_caption: The mighty Oaks on the school grounds
 tags:
   - Aberteifi
   - workshop
@@ -73,8 +73,8 @@ Mrs Roberts will focus on completing the collages, and adding the Welsh names i
 {{< /gallery >}}
 ## The Oak / Y Dderwen
 
-![Drone photo of large Oaks with line of students and staff along fence]( https://res.cloudinary.com/naturceredigion/image/upload/v1778770515/260507-aberteifi-workshop3-drone-oak.jpg)
- *The mighty Oaks at Ysgol Gynradd Aberteifi*
+![Drone photo of line of students and staff along fence by the Oaks](https://res.cloudinary.com/naturceredigion/image/upload/v1778770516/260507-aberteifi-workshop3-drone-students.jpg)
+ *Group B students by the Oak*
 
 Ecologist Yusef Samari came to the school, and we focussed our attention on the Oak trees. Straight away, Yusef found different types of Oak gall. From the [Wikipedia article on Oak galls](https://en.wikipedia.org/wiki/Oak_apple):
 
