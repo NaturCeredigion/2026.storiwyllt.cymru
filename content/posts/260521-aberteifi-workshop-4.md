@@ -1,13 +1,13 @@
 ---
 title: Ysgol Gynradd Aberteifi Workshop 4
 description: Artist Pip Lewis was working with Group B on new moth & butterfly pattern project, whilst Jake Rayson took Group A outside for woodlice bonanza
-image: https://res.cloudinary.com/naturceredigion/image/upload/v1779994156/260521-aberteifi-workshop4-02-exercise2-trace-mix.jpg
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1780038967/260521-aberteifi-workshop4-04-exercise2-trace-blue-169.jpg
 image_caption: Tracing the outlines of moths and butterflies
 tags:
   - Aberteifi
   - workshop
 draft: false
-modified: 2026-05-28T20:53:49+01:00
+modified: 2026-05-29T08:16:35+01:00
 date: 2026-05-21T20:04:13+01:00
 ---
 *Guest post by artist Pip Lewis*
