@@ -15,7 +15,7 @@ We also made lists of the plant names for the material used in each design. Hope
 
 Arranging plant material on cyanotype paper for inside pages of the book. 
 
-Getting the boards ready to take outside and expose prints in the sun
+Getting the boards ready to take outside and expose prints in the sun.
 
 The inside page strips have been exposed to the sun UV and boards brought back inside. Removing plant material from the cyanotype paper and washing the paper in water to fix the printing.
 
@@ -23,7 +23,7 @@ Cyanotype paper and washing the paper in water to fix the printing.
 
 Telling a teacher about what we are doing! On to the front and back pages of the book- arranging plant material for the designs
 
-The book cover pages exposing to the UV in the sunshine
+The book cover pages exposing to the UV in the sunshine.
 
 Waiting for the sun to work it’s magic
 

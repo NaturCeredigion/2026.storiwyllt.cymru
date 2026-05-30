@@ -5,16 +5,27 @@ image: https://res.cloudinary.com/naturceredigion/image/upload/v1778765495/26050
 image_caption: Looking up from the heart of Tŷ Mari
 tags:
 draft: false
-modified: 2026-05-30T15:46:13+01:00
+modified: 2026-05-30T19:53:21+01:00
 date: 2026-05-08T16:34:07+01:00
 ---
+We finally managed to go to the house of Mari Berllan Biter on the Esgair Arth estate. 
 
+The minibus arrived filled with students and staff, and we gathered around the entrance to the field, with the song of the Willow Warbler, identified by ecologist Carys May.
+
+We set off across the tussocky pasture, diagonally left toward the corner, where the footpath descends down through the wood. Along the way, we saw voles plenty of spiders, mole hills and evidence of voles.
+
+The path was very steep, and everyone was suitably cautious, and the excitement grew as we stepped carefully over fallen trees and descended into the valley. There were Oak saplings everywhere, amongst the Bilberries and the Cow Grass, following last year's mast year. 
+
+We all lined up outside Tŷ Mari, an old and derelecit cottage, with trees growing through and across, and just the two end walls standing. The artist Rebecca Wyn Kelly had prepared a special story about Mari and her witching ways, and the students (and adults!) were captivated within the rubbling walls, beneath the fresh green canopy. Rebecca pointed out where all the stories took place: the Hare coming down the chimney, the doorway where the local village girl stood near-frozen.
+
+Then we explored over the bridge and down by the river Arth, before returning home to rest awhile amongst the long grass, to take a snack and a breather.
 ## Oriel Gallery
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778764075/260508-aberaeron-workshop3-swallow-wire.jpg" caption="Swallow landing on the wire. Photo Carys May." >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778765494/260508-aberaeron-workshop3-begin-pep-talk-carys-becca.jpg" caption="Four adults standing on dusty track next to field, talking to students" >}}
 <!-- Walking down -->
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778765492/260508-aberaeron-workshop3-baby-spiders.jpg" caption="Nest of baby spiders in long grass" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778764075/260508-aberaeron-workshop3-molehill.jpg" caption="Mole hill in the long grass" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778765442/260508-aberaeron-workshop3-tent-spider.jpg" caption="Smooth, pale brown spider in long grass" >}}
 {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778764073/260508-aberaeron-workshop3-fly.jpg" caption="Psychodidae Moth Fly on a leaf. Photo Carys May." >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778765438/260508-aberaeron-workshop3-students-carys-above-wood.jpg" caption="Ecologist and story teller looking at Oak tree, with line of students behind in the field" >}}
@@ -24,7 +35,6 @@ date: 2026-05-08T16:34:07+01:00
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778765439/260508-aberaeron-workshop3-students-carys-becca-wood.jpg" caption="Students in hi-vis jacket walking down steep path, with capped ecologist at the rear" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778765440/260508-aberaeron-workshop3-students-line-by-ty-mari.jpg" caption="Line of students in hi-vis jackets walking down a steep woodland path, surrounded by green" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778765497/260508-aberaeron-workshop3-cow-wheat-oak-saplings.jpg" caption="Tubular yellow flowered plants and baby Oaks" >}}
-
 
 <!-- The house -->
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1778765443/260508-aberaeron-workshop3-ty-mari.jpg" caption="Ruins of a cottage, only two end walls standing, trees and ferns abound" >}}
@@ -51,4 +61,3 @@ date: 2026-05-08T16:34:07+01:00
 
 ## Reflections
 - 2 hours is not enough, we need *immersion* in nature
-- 

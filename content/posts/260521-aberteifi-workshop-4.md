@@ -1,13 +1,13 @@
 ---
-title: Ysgol Gynradd Aberteifi Workshop 4
+title: Ysgol Gynradd Aberteifi Workshop 4 — Moths & Butterflies of the Oak
 description: Artist Pip Lewis was working with Group B on new moth & butterfly pattern project, whilst Jake Rayson took Group A outside for woodlice bonanza
-image: https://res.cloudinary.com/naturceredigion/image/upload/v1780038967/260521-aberteifi-workshop4-04-exercise2-trace-blue-169.jpg
-image_caption: Tracing the outlines of moths and butterflies
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1780167550/110721_Black-Arches_Kurt-Kulac.jpg
+image_caption: Black Arches / Siobyn Bwaog (Lymantria monacha) moth, denizen of the Oak
 tags:
   - Aberteifi
   - workshop
 draft: false
-modified: 2026-05-29T08:16:35+01:00
+modified: 2026-05-30T20:00:49+01:00
 date: 2026-05-21T20:04:13+01:00
 ---
 *Guest post by artist Pip Lewis*
