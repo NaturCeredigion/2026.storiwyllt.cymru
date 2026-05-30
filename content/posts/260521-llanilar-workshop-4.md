@@ -1,14 +1,16 @@
 ---
-title: Ysgol Llanilar Workshop 4
-description:
-image:
-image_caption:
+title: Ysgol Llanilar Workshop 4 — Cyanotype collage strips
+description: Artist Marian Haf led the workshop, with some focussed and fun cyanotype combinations of negative acetate prints and wild plants, whilst volunteer Louise Tranter took photos and wrote notes 🙏
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1780169149/260521-llanilar-workshop4-13-marian-cyanotype-strips-169.jpg
+image_caption: The cyanotype collage strips!
 tags:
-draft: true
-modified: 2026-05-30T20:17:58+01:00
+  - Llanilar
+  - workshop
+draft: false
+modified: 2026-05-30T20:26:31+01:00
 date: 2026-05-21T20:43:28+01:00
 ---
-*Guest post by Louise Tranter*
+*Guest post by Louise Tranter* 
 Sorting through the collected plant material and deciding on a design.
 
 We also made lists of the plant names for the material used in each design. Hopefully the children will be able to name their printed images, and tell other people about them to!

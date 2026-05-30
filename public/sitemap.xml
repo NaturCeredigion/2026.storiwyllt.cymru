@@ -12,21 +12,24 @@
     <lastmod>2026-05-29T10:13:14+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-30T20:05:31+01:00</lastmod>
+    <lastmod>2026-05-30T20:26:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-05-30T20:05:31+01:00</lastmod>
+    <lastmod>2026-05-30T20:26:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/llanilar/</loc>
+    <lastmod>2026-05-30T20:26:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/workshop/</loc>
-    <lastmod>2026-05-30T20:05:31+01:00</lastmod>
+    <lastmod>2026-05-30T20:26:31+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/260521-llanilar-workshop-4/</loc>
+    <lastmod>2026-05-30T20:26:31+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260521-aberteifi-workshop-4/</loc>
     <lastmod>2026-05-30T20:00:49+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260520-habitat-guidelines/</loc>
-    <lastmod>2026-05-30T19:55:26+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/llanilar/</loc>
     <lastmod>2026-05-30T19:55:26+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260520-llanilar-workshop-habitat/</loc>
@@ -44,8 +47,11 @@
     <loc>http://localhost:1313/posts/260508-aberaeron-workshop-3/</loc>
     <lastmod>2026-05-30T19:53:21+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/llanarth/</loc>
+    <lastmod>2026-05-30T20:22:43+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/260508-llanarth-workshop-3/</loc>
-    <lastmod>2026-05-30T19:42:41+01:00</lastmod>
+    <lastmod>2026-05-30T20:22:43+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260428-llanilar-plant-species-list/</loc>
     <lastmod>2026-05-28T15:39:04+01:00</lastmod>
@@ -82,9 +88,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/260417-aberaeron-workshop-2/</loc>
     <lastmod>2026-05-06T12:21:06+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/llanarth/</loc>
-    <lastmod>2026-05-06T11:38:45+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260416-llanarth-workshop-2/</loc>
     <lastmod>2026-05-06T11:38:45+01:00</lastmod>
