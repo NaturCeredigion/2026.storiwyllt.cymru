@@ -1,9 +1,11 @@
 ---
 title: Ysgol Llanarth Workshop 3 — Flower prints & painting
-description:
-image: https://res.cloudinary.com/naturceredigion/image/upload/v1778756309/260508-llanarth-workshop3-flower-press-print-collection.jpg
-image_caption:
+description: Much excitement with flower drawing,painting, hunting & print making
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1778755950/260508-llanarth-workshop3-paintings-paraphenalia.webp
+image_caption: Painting wild flowers
 tags:
+  - Llanarth
+  - workshop
 draft: false
 modified: 2026-05-30T19:42:41+01:00
 date: 2026-05-08T16:33:30+01:00
