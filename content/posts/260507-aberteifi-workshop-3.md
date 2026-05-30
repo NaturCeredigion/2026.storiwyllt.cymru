@@ -1,5 +1,5 @@
 ---
-title: Ysgol Gynradd Aberteifi Workshop 3
+title: Ysgol Gynradd Aberteifi Workshop 3 — Birds of the Oak
 description: Artist Pip Lewis continued work with Group A creating collages of birds of the Oak, whilst ecologist Yusef Samari worked with Group B looking at the Oak as habitat
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1778770515/260507-aberteifi-workshop3-drone-oak.jpg
 image_caption: The mighty Oaks on the school grounds
@@ -8,7 +8,7 @@ tags:
   - workshop
 draft: false
 author: Pip Lewis
-modified: 2026-05-29T10:09:43+01:00
+modified: 2026-05-30T15:46:58+01:00
 date: 2026-05-07T16:30:47+01:00
 ---
 *Guest post by project artist Pip Lewis*
