@@ -12,6 +12,7 @@ date: 2026-05-22T08:26:44+01:00
 author: Jake Rayson
 ---
 *Sketch by Jake Rayson*
+
 The weather was magnificent but I was feeling under the weather. Fortunately, the students kept me alert with a thousand questions on the walk to Cae Ysgubor, AKA Molly’s Field. I was bringing up the rear and was continually distracted by plants and wildlife. 
 
 By the time we reached the quiet country lane, a bountiful harvest of Sticky Willy / Llau'r Offeiriad ([*Galium aparine*](https://en.wikipedia.org/wiki/Galium_aparine)) was to be made, which we graciously donated to Molly’s horses. They *love* the stuff.
@@ -43,14 +44,14 @@ We closed with the circle, and Molly taught us the chant again, which was very f
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466845/260522-llanarth-workshop4-molly-painting.jpg" caption="Molly with her landscape painting, which will be the foundation for the clay artefacts" >}}
   
 <!-- making clay -->
-  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466845/260522-llanarth-workshop4-clay-spider.jpg" caption="Clay spider" >}}
-  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466845/260522-llanarth-workshop4-clay-leaf-print.jpg" caption="Clay leaf print" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-stduent-clay-face.jpg" caption="Clay mug" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466847/260522-llanarth-workshop4-student-making-clay-spider.jpg" caption="Spider making" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-harry-potter-spider.jpg" caption="Harry Potter spider!" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466847/260522-llanarth-workshop4-student-clay-spider.jpg" caption="Photobombed" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779914403/260522-llanarth-workshop4-student-clay-butterfly.jpg" caption="Clay butterfly" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779914397/260522-llanarth-workshop4-clay-mouth.jpg" caption="Clay sculpture" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466845/260522-llanarth-workshop4-clay-leaf-print.jpg" caption="Clay leaf print" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466845/260522-llanarth-workshop4-clay-spider.jpg" caption="Clay spider" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779914407/260522-llanarth-workshop4-students-clay-collection.jpg" caption="Students and the clay board" >}}
 
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466845/260522-llanarth-workshop4-clay-prints-board.jpg" caption="The clay board of student clay tiles" >}}
@@ -61,17 +62,17 @@ We closed with the circle, and Molly taught us the chant again, which was very f
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779914402/260522-llanarth-workshop4-student-bug-sleeve.jpg" caption="Bug on a sleeve" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779914405/260522-llanarth-workshop4-student-ladybird-bugpot.jpg" caption="Ladybird in a pot" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779914400/260522-llanarth-workshop4-student-beneath-trees.jpg" caption="Under the shade of the trees" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-rustic-sailor-beetle.jpg" caption="Rustic Sailor Beetle (Cantharis rustica) about to take off" >}}
 
 <!-- painting -->
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-robins-nest.jpg" caption="Robin Goch nest and eggs" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466844/260522-llanarth-workshop4-nest-painting.jpg" caption="Painting Robin Goch nest" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466848/260522-llanarth-workshop4-student-painting-nest.jpg" caption="Painting Robin Goch nest and eggs" >}}
-  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-rustic-sailor-beetle.jpg" caption="Rustic Sailor Beetle (Cantharis rustica) about to take off" >}}
-  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-painting-sunset.jpg" caption="Sunset" >}}
-  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-painting-flecks.jpg" caption="Beautiful painting of flowers and the valley" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466847/260522-llanarth-workshop4-student-number-bird.jpg" caption="Mathematical bird" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466848/260522-llanarth-workshop4-student-painting-sunset.jpg" caption="Painting a sunset" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466848/260522-llanarth-workshop4-student-with-sunset-painting.jpg" caption="Sunset ta-da " >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-painting-sunset.jpg" caption="Sunset" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-painting-flecks.jpg" caption="Beautiful painting of flowers and the valley" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779914408/260522-llanarth-workshop4-student-sticky-willy-water.jpg" caption="Making Sticky Willy water" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466844/260522-llanarth-workshop4-circle-end.jpg" caption="Closing the Circle" >}}
 {{< /gallery >}}
