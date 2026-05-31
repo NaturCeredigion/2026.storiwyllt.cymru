@@ -44,6 +44,7 @@ We closed with the circle, and Molly taught us the chant again, which was very f
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466845/260522-llanarth-workshop4-molly-painting.jpg" caption="Molly with her landscape painting, which will be the foundation for the clay artefacts" >}}
   
 <!-- making clay -->
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466847/260522-llanarth-workshop4-student-fern-clayroll.jpg" caption="Rolling out a leaf imprint for the clay artefact. Photo by Arthur 🙏" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-stduent-clay-face.jpg" caption="Clay mug" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466847/260522-llanarth-workshop4-student-making-clay-spider.jpg" caption="Spider making" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779466846/260522-llanarth-workshop4-harry-potter-spider.jpg" caption="Harry Potter spider!" >}}
