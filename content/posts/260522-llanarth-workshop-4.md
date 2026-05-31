@@ -79,7 +79,7 @@ We closed with the circle, and Molly taught us the chant again, which was very f
 {{< /gallery >}}
 
 
-<video controls>
+<video controls style="width:480px;">
   <source src="https://res.cloudinary.com/naturceredigion/video/upload/v1779466847/260522-llanarth-workshop4-student-flick-painting.mp4" type="video/mp4" />
   <p>
     Your browser doesn't support HTML video. Here is a
