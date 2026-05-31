@@ -51,6 +51,7 @@ The inside page strips have been exposed to the sun UV and boards brought back i
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912883/260521-llanilar-workshop4-10-washing-strips.jpg" caption="Washing the chemicals off" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912885/260521-llanilar-workshop4-11-washing-strips.jpg" caption="Washing the prints" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912886/260521-llanilar-workshop4-12-jan-holding-board.jpg" caption="The big reveal" >}}
 {{< /gallery >}}
 
 ![Artost uncovering cyanotypes](https://res.cloudinary.com/naturceredigion/image/upload/v1779912887/260521-llanilar-workshop4-13-marian-cyanotype-strips.jpg)  
@@ -59,10 +60,9 @@ The inside page strips have been exposed to the sun UV and boards brought back i
 On to the front and back pages of the book- arranging plant material for the designs
 
 {{< gallery >}}
-  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912886/260521-llanilar-workshop4-12-jan-holding-board.jpg" caption="The big reveal" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912898/260521-llanilar-workshop4-students-on-table.jpg" caption="Students working on table" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912892/260521-llanilar-workshop4-21-board-sun.jpg" caption="Exposing the cyanotype board in the sun" >}}
-{{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912888/260521-llanilar-workshop4-17-remove-vegetation.jpg" caption="Removing vegetation" >}}
+{{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912888/260521-llanilar-workshop4-17-remove-vegetation.jpg" caption="Arranging vegetation" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912889/260521-llanilar-workshop4-18-students-arrange.jpg" caption="Choosing backgrounds and vegetation" >}}
 {{< /gallery >}}
 
