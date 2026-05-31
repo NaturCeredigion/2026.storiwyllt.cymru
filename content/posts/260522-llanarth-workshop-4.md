@@ -92,3 +92,4 @@ We closed with the circle, and Molly taught us the chant again, which was very f
 ## Reflections
 - Starting and finishing the session with everyone in a seated circle is a very levelling, calming and positive practise.
 - As there are a lot of people, Molly asked for one word answer to the question “How do you feel?”
+-  Ask if one of the students would like to be the storyteller, to document the day? That could be their special job. 
