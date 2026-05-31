@@ -4,8 +4,10 @@ description:
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1778765495/260508-aberaeron-workshop3-canopy-up.jpg
 image_caption: Looking up from the heart of Tŷ Mari
 tags:
+  - Aberaeron
+  - workshop
 draft: false
-modified: 2026-05-30T19:53:21+01:00
+modified: 2026-05-31T10:34:00+01:00
 date: 2026-05-08T16:34:07+01:00
 ---
 We finally managed to go to the house of Mari Berllan Biter on the Esgair Arth estate. 
