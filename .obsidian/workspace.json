@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/schools/llanilar.md",
+                "file": "content/posts/260521-llanilar-workshop-4.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "llanilar"
+              "title": "260521-llanilar-workshop-4"
             }
           }
         ]
@@ -184,6 +184,7 @@
   },
   "active": "bd62b15b97005a4c",
   "lastOpenFiles": [
+    "content/schools/llanilar.md",
     "content/posts/260522-llanarth-workshop-4.md",
     "content/posts/260521-llanilar-workshop-4.md",
     "content/posts/260508-aberaeron-workshop-3.md",

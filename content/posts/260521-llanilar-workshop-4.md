@@ -10,7 +10,6 @@ draft: false
 modified: 2026-05-31T12:18:46+01:00
 date: 2026-05-21T20:43:28+01:00
 ---
-
 Marian showed the students examples of the cyanotype collage strips that they’ll be creating, and then handed out the students‘ negative acetate prints in envelopes. These will form the textured background on the cyanotype. And then we went outside to gather plant material.
 
 {{< gallery >}}
@@ -51,7 +50,7 @@ The inside page strips have been exposed to the sun UV and boards brought back i
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912883/260521-llanilar-workshop4-10-washing-strips.jpg" caption="Washing the chemicals off" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912885/260521-llanilar-workshop4-11-washing-strips.jpg" caption="Washing the prints" >}}
-  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912886/260521-llanilar-workshop4-12-jan-holding-board.jpg" caption="The big reveal" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779912886/260521-llanilar-workshop4-12-jan-holding-board.jpg" caption="Admiring the drying prints" >}}
 {{< /gallery >}}
 
 ![Artost uncovering cyanotypes](https://res.cloudinary.com/naturceredigion/image/upload/v1779912887/260521-llanilar-workshop4-13-marian-cyanotype-strips.jpg)  
