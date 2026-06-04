@@ -2,7 +2,7 @@
 title: Ysgol Llanarth Workshop 4 — Painting & clay artefact creation
 description:
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1779466847/260522-llanarth-workshop4-student-fern-clayroll.jpg
-image_caption: Rolling out a leaf imprint for the clay artefact. Photo by Arthur 🙏
+image_caption: Polypody fern leaf imprint for the clay artefact. Photo by Arthur 🙏
 tags:
   - Llanarth
   - workshop

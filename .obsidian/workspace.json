@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/260521-llanilar-workshop-4.md",
+                "file": "content/posts/260522-llanarth-workshop-4.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "260521-llanilar-workshop-4"
+              "title": "260522-llanarth-workshop-4"
             }
           }
         ]
@@ -184,17 +184,18 @@
   },
   "active": "bd62b15b97005a4c",
   "lastOpenFiles": [
-    "content/schools/llanilar.md",
+    "content/posts/260521-aberteifi-workshop-4.md",
+    "content/posts/260521-aberteifi-lepidoptera-species.md",
+    "content/posts/260602-llanilar-workshop-5.md",
     "content/posts/260522-llanarth-workshop-4.md",
     "content/posts/260521-llanilar-workshop-4.md",
+    "content/schools/llanilar.md",
     "content/posts/260508-aberaeron-workshop-3.md",
     "content/posts/260508-esgair-arth-species-list.md",
     "content/posts/260508-llanarth-workshop-3.md",
     "content/posts/260515-aberaeron-workshop-4.md",
     "content/posts/260520-habitat-guidelines.md",
     "content/posts/260520-llanilar-workshop-habitat.md",
-    "content/posts/260521-aberteifi-lepidoptera-species.md",
-    "content/posts/260521-aberteifi-workshop-4.md",
     "public/posts/260522-llanarth-workshop-4/index.html",
     "public/posts/260522-llanarth-workshop-4",
     "content/workshops.md",
@@ -219,7 +220,6 @@
     "content/posts/260428-llanilar-plant-species-list.md",
     "content/posts/260417-aberteifi-workshop-1.md",
     "content/organise-aberteifi.md",
-    "content/posts/260401-aberteifi-recap.md",
     "public/images/stori-wyllt-logo.svg",
     "public/images/logo.png"
   ]
