@@ -6,7 +6,9 @@
   "dateFormat": "YYYY-MM-DDTHH:mm:ssZ",
   "allowNonEmptyNewFile": true,
   "delayAddingTimestamps": 0,
-  "excludedFolders": [],
+  "excludedFolders": [
+    "assets"
+  ],
   "customCommand": "",
   "debug": false
 }
