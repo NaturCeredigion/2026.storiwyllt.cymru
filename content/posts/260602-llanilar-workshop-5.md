@@ -7,7 +7,7 @@ tags:
   - Llanilar
   - workshop
 draft: false
-modified: 2026-06-04T13:49:07+01:00
+modified: 2026-06-07T21:18:53+01:00
 date: 2026-06-02T16:41:33+01:00
 ---
 *Post by Jake Rayson*
@@ -41,7 +41,7 @@ I really hope we can keep the momentum going and extend the project to secondary
 
 ## Oriel Gallery
 {{< gallery >}}
-  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1780860819/260602-llanilar-workshop5-01b-explain-binding-covers.jpg" caption="Artist Marian Haf explaining plan for the session" >}}
+  {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1780860819/260602-llanilar-workshop5-01b-explain-binding-covers.jpg" caption="Artist Marian Haf  explaining the process of how she bound the front and back covers for the books" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1780860819/260602-llanilar-workshop5-01a-marian-plan.jpg" caption="All the students' cyanotypes in a line" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1780860819/260602-llanilar-workshop5-02-strip.jpg" caption="A cyanotype strip" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1780860819/260602-llanilar-workshop5-02-box-stuff.jpg" caption="The box of materials to make the covers and the ribbons" >}}
