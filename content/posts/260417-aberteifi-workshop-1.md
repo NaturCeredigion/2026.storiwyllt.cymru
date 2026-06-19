@@ -1,13 +1,13 @@
 ---
-title: Ysgol Gynradd Aberteifi Workshop 1
-description:
+title: Ysgol Gynradd Aberteifi Workshop 1 — ID around the Oak
+description: Wildlife ID with Jake Rayson around the Oak trees, including a lot of spring flowers and a whole bundle of clay found on-site from the new fence.
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1776590804/260417-aberteifi-workshop1-student-flower-bowls.jpg
-image_caption:
+image_caption: Student holding clay pot wild flower creations
 tags:
   - Aberteifi
   - workshop
 draft: false
-modified: 2026-05-06T12:47:02+01:00
+modified: 2026-06-19T15:23:06+01:00
 date: 2026-04-17T13:09:19+01:00
 ---
 Underlining the variation in the different schools, settings and people across Stori Wyllt, we didn’t have an ecologist for Ysgol Gynradd Aberteifi for the first two workshops, as Yusef Samari has a *very* full calendar with the [Your Wild Patch / Eich Darn Gwyllt](https://www.wwbic.org.uk/projects/your-wild-patch-eich-darn-gwyllt/) project.

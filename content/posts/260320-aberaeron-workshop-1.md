@@ -1,5 +1,5 @@
 ---
-title: Ysgol Gynradd Aberaeron Workshop 1
+title: Ysgol Gynradd Aberaeron Workshop 1 — Jewson wildlife garden
 description: After a brief introduction in the classroom, we set off via the river footpath to the site of the Tŵr Gwyllt, to meet artist Rebecca Wyn Kelly and find wildlife
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544858/250320-aberaeron-workshop1-carys-hedgehog-poo.jpg
 image_caption: Ecologist Carys May from WWBIC showing the students some hedgehog poo, and pointing out the diet from the animal remains

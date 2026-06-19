@@ -1,13 +1,13 @@
 ---
-title: Ysgol Llanilar Workshop 3
-description:
+title: Ysgol Llanilar Workshop 3 — Introducing cyanotype prints
+description: Creating cyanotype prints with artist Marian Haf
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1777497343/260428-llanilar-workshop3-cyanotype-marian-students-board.jpg
 image_caption: Artist Marian Haf with students putting together the exposure board for the cyanotypes.
 tags:
   - Llanilar
   - workshop
 draft: false
-modified: 2026-05-06T13:16:59+01:00
+modified: 2026-06-19T15:18:53+01:00
 date: 2026-04-28T10:00:52+01:00
 ---
 > A cyanotype is a monochrome print made by placing objects on a pre-prepared light-sensitive surface†

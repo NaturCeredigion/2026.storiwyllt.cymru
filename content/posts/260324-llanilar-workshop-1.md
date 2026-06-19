@@ -1,5 +1,5 @@
 ---
-title: Ysgol Llanilar Workshop 1
+title: Ysgol Llanilar Workshop 1 — Lichen & buds
 description: On a cloudy Tuesday afternoon, we started with some glorious lichen and spring buds in the classroom, then had a tour of the village pond
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544986/250324-llanilar-workshop1-sheena-sedge-grass.jpg
 image_caption: Ecologist Sheena Duller showing the difference between rushes and grasses
@@ -9,7 +9,7 @@ tags:
   - workshop
 draft: false
 date: 2026-03-24T20:19:33+00:00
-modified: 2026-04-02T15:46:17+01:00
+modified: 2026-06-19T15:35:01+01:00
 ---
 ***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants.*
 

@@ -1,5 +1,5 @@
 ---
-title: Bird species and the Oak / Derwen
+title: List of bird species and the Oak / Derwen
 description: List of bird species that have an association with the Oak / Derwen, and which are the subject of the student collages
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1778770095/260507-aberteifi-workshop3-acetate-great-tit.jpg
 image_caption: Great Tit / Titw Mawr collage, work-in-progress
@@ -7,7 +7,7 @@ tags:
   - Aberteifi
   - species
 draft: false
-modified: 2026-05-29T10:13:14+01:00
+modified: 2026-06-19T15:14:00+01:00
 date: 2026-05-07T09:54:20+01:00
 ---
 This is the list of bird species that have relationship with the Oak / Derwen, that the artist Pip Lewis is working on with the Group A students.

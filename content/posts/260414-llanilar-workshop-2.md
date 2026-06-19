@@ -1,5 +1,5 @@
 ---
-title: Ysgol Llanilar Workshop 2
+title: Ysgol Llanilar Workshop 2 - Ecosystems & nature patterns
 description: Artist Marian Haf joins the workshop officially and Sheena looks at the importance and examples of habitat
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1776588400/260414-llanilar-workshop2-student-leaves-black-paper.jpg
 image_caption: Student with leaf outlines and shapes on black paper
@@ -7,7 +7,7 @@ tags:
   - Llanilar
   - workshop
 draft: false
-modified: 2026-05-03T16:12:51+01:00
+modified: 2026-06-19T15:32:59+01:00
 date: 2026-04-14T12:03:52+01:00
 ---
 For the second workshop at Ysgol Llanilar, the class of 23 was split into two groups of a dozen. One group went with Sheena the ecologist, and the other with Marian the artist. Sheena was also joined by mycologist and educationalist Louise Tranter 

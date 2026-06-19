@@ -1,13 +1,13 @@
 ---
-title: Ysgol Gynradd Aberteifi Workshop 2
-description:
+title: Ysgol Gynradd Aberteifi Workshop 2 — Shape of the Oak leaf
+description: Group A drew various forms of the Oak leaf in the class, whilst Group B explored outside the animals and plants that live around the Oak
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1777631826/260430-aberteifi-workshop3-bypip-student-drawing-head-down.jpg
 image_caption: Student with an attention to detail drawing the outline of an Oak leaf.
 tags:
   - Aberteifi
   - workshop
 draft: false
-modified: 2026-05-06T16:48:22+01:00
+modified: 2026-06-19T15:17:29+01:00
 date: 2026-04-30T16:29:17+01:00
 ---
 The class was split into two groups (Group A & Group B ) and Pip worked with Group A, with the students initially studying Oak leaves and making observational drawings drawing of them with pencils, identifying the midrib tip, shape and margins of the leaf. The students also  worked with white charcoal pencils drawings of Oak leaves on black paper, and black charcoal pencils on white paper, and graphite sticks to create rubbings of the leaves.
@@ -20,8 +20,7 @@ The students also traced some gorgeous A3 colour print-outs of birds that have a
 ### Group B out in the wilds
 Jake took Group B with a Miss Shannon out to the Oak seating area on the school grounds, and talked about how incredible it is to think that we are surrounded by this great, living organism, which supports so many different types of life.
 
-The students drew leaf shapes first of all, and then there was a flower hunt, to look at symmetry. Photos are to follow!
-
+The students drew leaf shapes first of all, and then there was a flower hunt, to look at symmetry.
 ## Oriel Gallery
 {{< gallery >}}
   <!-- students -->

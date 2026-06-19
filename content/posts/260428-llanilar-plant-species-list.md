@@ -7,8 +7,8 @@ tags:
   - Llanilar
   - species
 draft: false
-modified: 2026-05-28T15:39:04+01:00
-date: 2026-05-08T16:10:54+01:00
+modified: 2026-06-19T15:19:51+01:00
+date: 2026-04-28T16:10:54+01:00
 ---
 Ecologist Sheena Duller very kindly made a list of plant species that are on the school grounds. The translations are from [Y Bwiadur website](https://www.llennatur.cymru/y-bywiadur/).
 

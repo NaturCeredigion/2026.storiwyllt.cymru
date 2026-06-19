@@ -1,5 +1,5 @@
 ---
-title: Ysgol Llanarth Workshop 2
+title: Ysgol Llanarth Workshop 2 — Forest school fun
 description: With Molly away, Jo led the second workshop on the grounds of Ysgol Llanarth with an explosion of activities
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1776589236/260416-llanarth-workshop2-student-willow-bubbles-joy.jpg
 image_caption: Students with home-made willow hoops, Dandelions and bubble mix
@@ -7,7 +7,7 @@ tags:
   - Llanarth
   - workshop
 draft: false
-modified: 2026-05-06T11:38:45+01:00
+modified: 2026-06-19T15:32:23+01:00
 date: 2026-04-16T12:32:49+01:00
 ---
 [Jo Dainty](http://localhost:1313/schools/llanarth/#people) is a forest school practitioner and she crammed an incredible amount into the two hours on the Ysgol Llanarth school field, in a very entertaining and high-octane workshop.

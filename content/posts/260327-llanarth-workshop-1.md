@@ -1,5 +1,5 @@
 ---
-title: Ysgol Llanarth Workshop 1
+title: Ysgol Llanarth Workshop 1 — Worms & clay!
 description: Worms and clay to start the day! Fantastic workshop at Molly‘s field
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774967827/260327-llanarth-workshop1-bymolly-clay-girl-focus.jpg
 image_caption: Focussed on their clay creation
@@ -7,7 +7,7 @@ tags:
   - Llanarth
   - workshop
 draft: false
-modified: 2026-04-19T14:02:17+01:00
+modified: 2026-06-19T15:34:04+01:00
 date: 2026-03-31T15:50:24+01:00
 ---
 ***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants.*
@@ -27,7 +27,6 @@ Naturalist Jo Dainty took the lead with an exercise to find worms, by wriggling 
 After some more exploring of the garden, the focus shifted to digging up some blue clay from a rich seam by the side of the stream in the valley. Clay was hauled up, and transported by bucket to a big table where various creations were created. And then some brave souls daubed paint on their faces, and a slate table was covered in clay handprints.
 
 We had to reluctantly rush back so that the students wouldn‘t miss lunch, and Molly brought up the clay creations to the school by car, and stored them in a covered space.
-
 ## Oriel Gallery
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1774967840/260327-llanarth-workshop1-molly-stables-talk-courgettes-sketchbook.jpg" caption="Molly gave an inspirational talk about the food web, mycelium, fungi and her inspirational sketchbooks" >}}

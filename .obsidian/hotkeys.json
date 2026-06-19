@@ -343,5 +343,15 @@
       ],
       "key": "L"
     }
+  ],
+  "front-matter-timestamps:update-modified-time": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Meta"
+      ],
+      "key": "U"
+    }
   ]
 }
