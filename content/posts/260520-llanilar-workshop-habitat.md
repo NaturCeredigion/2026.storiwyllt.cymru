@@ -1,5 +1,5 @@
 ---
-title: Habitat workshop at Llanilar
+title: Ysgol Llanilar — Habitat workshop with Cardished
 description: Harry from Cardished led an extra workshop building nest boxes
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1779344702/260520-llanilar-habitat-workshop-hammering-bottom.jpg
 image_caption: Hammering the bottom panel of the Robin nest box
