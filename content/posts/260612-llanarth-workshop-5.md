@@ -1,9 +1,9 @@
 ---
 title: Ysgol Llanarth Workshop 5 — Gilding & poetry
 description: For the last workshop, Molly helped the students gilt their clay artefacts for the naturalistic diorama, whilst Jake recorded some of the students with their poems and haikus
-image: https://res.cloudinary.com/naturceredigion/image/upload/v1781976268/260613-llanarth-workshop5-03-group-169.jpg
-image_altText: Group of young students sat in a circle in a garden on the grass
-image_caption: Students sat in their circle in Molly’s garden, Cae Ysgubor
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1781977240/260613-llanarth-workshop5-06-green-paint-169.jpg
+image_altText: Clay imprint of leaf being painted green and gold on a table
+image_caption: Green and gold clay leaf imprint
 tags:
   - Llanarth
   - workshop
