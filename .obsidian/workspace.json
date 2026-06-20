@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/260520-llanilar-workshop-habitat.md",
+                "file": "content/posts/260612-llanarth-workshop-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260520-llanilar-workshop-habitat"
+              "title": "260612-llanarth-workshop-5"
             }
           }
         ]
@@ -184,8 +184,11 @@
   },
   "active": "c0e0a557bc7c8bcc",
   "lastOpenFiles": [
-    "content/posts/260508-llanarth-workshop-3.md",
+    "public/posts/260612-llanarth-workshop-5/index.html",
+    "public/posts/260612-llanarth-workshop-5",
     "content/posts/260520-llanilar-workshop-habitat.md",
+    "content/posts/260612-llanarth-workshop-5.md",
+    "content/posts/260508-llanarth-workshop-3.md",
     "content/posts/260519-aberteifi-leaf-collage.md",
     "public/posts/260519-aberteifi-leaf-collage/index.html",
     "public/posts/260519-aberteifi-leaf-collage",
@@ -196,7 +199,6 @@
     "public/page/6/index.html",
     "public/page/6",
     "public/posts/260519-/index.html",
-    "public/posts/260519-",
     "content/posts/260320-aberaeron-workshop-1.md",
     "content/posts/260320-esgair-arth-site.md",
     "content/posts/260324-llanilar-workshop-1.md",
@@ -218,8 +220,6 @@
     "assets/templates/post.md",
     "content/posts/260521-aberteifi-workshop-4.md",
     "content/posts/260521-aberteifi-lepidoptera-species.md",
-    "content/schools/llanilar.md",
-    "content/posts/260508-aberaeron-workshop-3.md",
     "public/images/stori-wyllt-logo.svg",
     "public/images/logo.png"
   ]
