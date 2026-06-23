@@ -1,13 +1,13 @@
 ---
 title: Cyanotype Accordion Book Project lesson plan
-description: Lesson plan created by artist Marian Haf for the final two workshops at Ysgol Llanilar
+description: Lesson plan created by artist Marian Haf for the final two workshops 4 & 5 at Ysgol Llanilar
 image:
 image_altText:
 image_caption:
 tags:
 draft: true
 date: 2026-06-23T12:59:59+01:00
-modified: 2026-06-23T13:03:23+01:00
+modified: 2026-06-23T13:17:13+01:00
 ---
 
 **Cynllun Gwers Cymraeg**

@@ -1,6 +1,6 @@
 ---
 title: Cyanotype Accordion Book Project lesson plan
-description: Lesson plan created by artist Marian Haf for the final two workshops at Ysgol Llanilar
+description: Lesson plan created by artist Marian Haf for the final two workshops 4 & 5 at Ysgol Llanilar
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1780860820/260602-llanilar-workshop5-09-strip-covers.jpg
 image_altText: Close-up of cyanotype accordion book
 image_caption: Nearing the end of creation
