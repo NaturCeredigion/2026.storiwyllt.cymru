@@ -1,5 +1,5 @@
 ---
-title: Ysgol Llanilar — Cyanotype accordion plan
+title: Ysgol Llanilar — Cyanotype accordion lesson plan
 description: Lesson plan created by artist Marian Haf for the final two workshops 4 & 5 at Ysgol Llanilar
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1780860820/260602-llanilar-workshop5-09-strip-covers.jpg
 image_altText: Close-up of cyanotype accordion book
@@ -11,22 +11,36 @@ draft: false
 date: 2026-06-02T12:59:59+01:00
 modified: 2026-06-23T13:19:25+01:00
 ---
-*Years 5–6 (Ages 9–11)*
+### Outline
+1. [Overview](#1-overview)
+2. [Session 1: Making cyanotypes](#2-session-1-making-cyanotypes)
+3. [Session 2: Making the accordion book](#3-session-2-making-the-accordion-book)
+4. [Reflection and Discussion](#4-reflection-and-discussion)
+5. [Expected outcome](#5-expected-outcome)
 ### Duration
+*Years 5–6 (Ages 9–11)*
 - Session 1: Cyanotype Printing (90–120 minutes)  
 - Session 2: Accordion Book Construction (60–90 minutes)
-## Overview
+## 1. Overview
 Pupils will explore the historic photographic process of cyanotype printing using natural materials collected from their local environment. They will then transform their cyanotype prints into a handmade seven-page accordion book.
 ### History of cyanotype
 The cyanotype process was invented in 1842 by Sir John Herschel. It is one of the earliest photographic printing techniques and produces distinctive white images on a deep blue background.
 
 One of the first people to use cyanotypes creatively was Anna Atkins, a British botanist and photographer. In 1843 she published a book of cyanotype images of seaweed specimens. Her work is often considered the first book illustrated with photographs. Atkins carefully arranged plants directly onto sensitised paper, creating detailed silhouettes that recorded the shapes of botanical specimens. Her work continues to inspire artists and scientists today.
 
-{{< youtube lFDIRijjhLY }}
+#### The Cyanotypes of Anna Atkins, Pioneering Botanist & Photographer
+{{< youtube lFDIRijjhLY >}}
 
-[https://nhm.primo.exlibrisgroup.com/view/BookReaderViewer/44NHM_INST/12190875980002081](https://nhm.primo.exlibrisgroup.com/view/BookReaderViewer/44NHM_INST/12190875980002081)
+&nbsp;
+#### [Photographs of British Algae : cyanotype impressions](https://nhm.primo.exlibrisgroup.com/view/BookReaderViewer/44NHM_INST/12190875980002081) 
+#### *Anna Atkins (1799-1871)*  
+[![Screenshot of online book with blue white cyanotypes of seaweed](https://res.cloudinary.com/naturceredigion/image/upload/v1782230185/260623-anna-atkins-photographs-of-British-Algae-cyanotype-impressions-book-screenshot.webp)](https://nhm.primo.exlibrisgroup.com/view/BookReaderViewer/44NHM_INST/12190875980002081)
 
-{{< youtube  A_7exGDVv8E >}}
+#### Visualising Britain's fast fashion waste problem with cyanotype photography
+{{< youtube A_7exGDVv8E >}}
+
+&nbsp;
+
 ### Learning objectives
 Pupils will:  
 - Understand the basic science of light-sensitive photographic processes.  
@@ -43,39 +57,42 @@ Pupils will:
 - History of Photography
 ### Materials
 - Cyanotype Chemicals  
-	- Solution A: Ferric Ammonium Citrate  
-	- Solution B: Potassium Ferricyanide
+  - Solution A: Ferric Ammonium Citrate  
+  - Solution B: Potassium Ferricyanide
 - Printing Materials  
-	- Watercolour paper (200gsm or heavier)  
-	- Foam brushes  
-	- Measuring jugs  
-	- Disposable gloves  
-	- Drying rack
+  - Watercolour paper (200gsm or heavier)  
+  - Foam brushes  
+  - Measuring jugs  
+  - Disposable gloves  
+  - Drying rack
 - Image-Making Materials  
-	- Ferns  
-	- Leaves  
-	- Flowers  
-	- Feathers  
-	- Seed heads  
-	- Grasses  
-	- Transparency negatives  
-	- Glass or acrylic sheets  
-	- Bulldog clips
+  - Ferns  
+  - Leaves  
+  - Flowers  
+  - Feathers  
+  - Seed heads  
+  - Grasses  
+  - Transparency negatives  
+  - Glass or acrylic sheets  
+  - Bulldog clips
 - Bookmaking Materials  
-	- Finished cyanotype print  
-	- Pencil  
-	- Ruler  
-	- Bone folder  
-	- Scissors  
-	- Card for covers  
-	- Glue
+  - Finished cyanotype print  
+  - Pencil  
+  - Ruler  
+  - Bone folder  
+  - Scissors  
+  - Card for covers  
+  - Glue
 ### Health and safety
 - Wear gloves when handling chemicals.  
 - Adult supervision is required during chemical preparation.  
 - Do not ingest chemicals.  
 - Wash hands thoroughly after use.  
 - Use scissors and cutting tools safely.
-## Session 1: Making cyanotypes
+
+[Top ↑](#outline)
+
+## 2. Session 1: Making cyanotypes
 ### Introduction (15 minutes)
 Show examples of cyanotypes and discuss:  
 - What is photography?  
@@ -126,11 +143,13 @@ The coated paper changes colour from yellow-green to bronze-grey as exposure occ
 2. Rinse under cool running water for 3–5 minutes.
 3. Observe the blue image emerging.
 4. Leave to dry completely.
-## Session 2: Making the accordion book
+
+[Top ↑](#outline)
+
+## 3. Session 2: Making the accordion book
 ### Preparing the Print
 1. Select the strongest cyanotype print.
 2. Trim to:   70cm × 10cm
-
 This creates:  
 - Seven panels  
 - Each measuring 10cm × 10cm
@@ -143,13 +162,19 @@ This creates:
 1. Cut two pieces of card:  11cm × 11cm
 2. Cover each piece of cover card with a cyanotype using PVA glue and weight to help the card dry flat
 3. Glue one cover to the front page and one cover to the back page along with a 60cm strip of ribbon to tie the book closed.
-## Reflection and Discussion
+
+[Top ↑](#outline)
+
+## 4. Reflection and Discussion
 ### Questions
 - Which plant created the most successful image?  
 - How did sunlight affect the print?  
 - What did you learn from Anna Atkins' work?  
 - How does your accordion book tell a visual story?
-## Expected outcome
+
+[Top ↑](#outline)
+
+## 5. Expected outcome
 Each pupil will produce:  
 - One or more cyanotype prints.  
 - A handmade seven-page accordion book measuring 10cm × 10cm.  

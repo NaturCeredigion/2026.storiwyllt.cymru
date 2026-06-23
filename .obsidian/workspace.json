@@ -29,7 +29,7 @@
               "state": {
                 "file": "content/posts/260602-llanilar-accordion-plan.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "260602-llanilar-accordion-plan"
@@ -199,6 +199,8 @@
   },
   "active": "ce2a6ba21927be5f",
   "lastOpenFiles": [
+    "public/posts/260602-llanilar-accordion-plan/index.html",
+    "public/posts/260602-llanilar-accordion-plan",
     "content/posts/260611-aberaeron-workshop-5.md",
     "content/posts/260602-llanilar-accordion-plan.md",
     "content/posts/260602-llanilar-accordion-plan-CY.md",
@@ -215,7 +217,6 @@
     "public/posts/260620-aberteifi-workshop-5",
     "content/posts/260612-llanarth-workshop-5.md",
     "public/tags/llanart/index.xml",
-    "public/tags/llanart/index.html",
     "content/posts/260520-llanilar-workshop-habitat.md",
     "content/posts/260508-llanarth-workshop-3.md",
     "content/posts/260519-aberteifi-leaf-collage.md",
@@ -234,7 +235,6 @@
     "content/posts/260507-aberteifi-bird-species-list.md",
     "content/posts/260602-llanilar-workshop-5.md",
     "content/posts/260522-llanarth-workshop-4.md",
-    "content/posts/260521-llanilar-workshop-4.md",
     "public/images/stori-wyllt-logo.svg",
     "public/images/logo.png"
   ]
