@@ -6,13 +6,13 @@
     <lastmod>2026-06-20T09:02:07+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-20T21:36:58+01:00</lastmod>
+    <lastmod>2026-06-21T13:51:52+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-06-20T21:36:58+01:00</lastmod>
+    <lastmod>2026-06-21T13:51:52+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/workshop/</loc>
-    <lastmod>2026-06-20T21:36:58+01:00</lastmod>
+    <lastmod>2026-06-21T13:51:52+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260612-llanarth-workshop-5/</loc>
     <lastmod>2026-06-20T09:02:07+01:00</lastmod>
@@ -22,6 +22,12 @@
   </url><url>
     <loc>http://localhost:1313/posts/260611-aberteifi-workshop-5/</loc>
     <lastmod>2026-06-20T21:36:58+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/aberaeron/</loc>
+    <lastmod>2026-06-21T13:51:52+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/260611-aberaeron-workshop-5/</loc>
+    <lastmod>2026-06-21T13:51:52+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/llanilar/</loc>
     <lastmod>2026-06-19T16:23:36+01:00</lastmod>
@@ -52,9 +58,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/260519-aberteifi-leaf-collage/</loc>
     <lastmod>2026-06-19T15:57:35+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/aberaeron/</loc>
-    <lastmod>2026-06-19T15:37:43+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260515-aberaeron-workshop-4/</loc>
     <lastmod>2026-05-30T20:05:31+01:00</lastmod>
