@@ -1,5 +1,5 @@
 ---
-title: Cyanotype Accordion Book Project lesson plan
+title: Ysgol Llanilar — Cyanotype accordion plan
 description: Lesson plan created by artist Marian Haf for the final two workshops 4 & 5 at Ysgol Llanilar
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1780860820/260602-llanilar-workshop5-09-strip-covers.jpg
 image_altText: Close-up of cyanotype accordion book
@@ -9,7 +9,7 @@ tags:
   - workshop
 draft: false
 date: 2026-06-02T12:59:59+01:00
-modified: 2026-06-23T13:15:12+01:00
+modified: 2026-06-23T13:19:25+01:00
 ---
 *Years 5–6 (Ages 9–11)*
 ### Duration
