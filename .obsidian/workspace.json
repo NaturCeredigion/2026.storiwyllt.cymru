@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/260616-aberteifi-activity-guide.md",
+                "file": "content/posts/260615-aberteifi-project-outline.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260616-aberteifi-activity-guide"
+              "title": "260615-aberteifi-project-outline"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/260616-llanilar-activity-guide.md",
+                "file": "content/posts/260616-aberteifi-activity-guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260616-llanilar-activity-guide"
+              "title": "260616-aberteifi-activity-guide"
             }
           },
           {
@@ -212,24 +212,24 @@
   },
   "active": "c0e0a557bc7c8bcc",
   "lastOpenFiles": [
-    "content/posts/260616-llanilar-activity-guide.md",
     "content/posts/260616-aberteifi-activity-guide.md",
-    "content/posts/260615-aberteifi-project-outline.md",
     "content/posts/260611-aberteifi-workshop-5.md",
+    "content/posts/260615-aberteifi-project-outline.md",
+    "public/tags/outline/index.xml",
+    "public/page/7/index.html",
+    "public/page/7",
+    "public/posts/260615-aberteifi-project-outline/index.html",
+    "public/posts/260615-aberteifi-project-outline",
+    "public/tags/outline/index.html",
+    "public/tags/outline",
+    "content/posts/260616-llanilar-activity-guide.md",
     "content/posts/260521-aberteifi-workshop-4.md",
     "public/tags/guide/index.xml",
     "public/tags/guide/index.html",
     "public/tags/guide",
-    "public/posts/260616-llanilar-activity-guide/index.html",
-    "public/posts/260616-llanilar-activity-guide",
-    "public/posts/260616-aberteifi-activity-guide/index.html",
-    "public/posts/260616-aberteifi-activity-guide",
     "content/posts/260521-aberteifi-lepidoptera-species.md",
-    "public/posts/260602-llanilar-activity-guide/index.html",
-    "public/posts/260602-llanilar-activity-guide",
     "content/posts/260602-llanilar-workshop-5.md",
     "content/cy/postiadau/260602-llanilar-accordion-plan-CY.md",
-    "content/cy/postiadau",
     "content/posts/260611-aberaeron-workshop-5.md",
     "content/posts/260515-aberaeron-workshop-4.md",
     "content/posts/260612-llanarth-workshop-5.md",
@@ -247,7 +247,6 @@
     "content/posts/260417-aberteifi-workshop-1.md",
     "content/posts/260428-llanilar-plant-species-list.md",
     "content/posts/260428-llanilar-workshop-3.md",
-    "content/posts/260430-aberteifi-workshop-2.md",
     "public/images/stori-wyllt-logo.svg",
     "public/images/logo.png"
   ]

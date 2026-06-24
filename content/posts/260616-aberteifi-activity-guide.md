@@ -10,7 +10,7 @@ tags:
   - guide
 draft: false
 date: 2026-06-16T10:37:50+01:00
-modified: 2026-06-24T16:11:53+01:00
+modified: 2026-06-24T16:13:42+01:00
 ---
 *Authored by artist Pip Lewis*
 ## Magical Wings - creating layered artworks with artist Pip&nbsp;Lewis
