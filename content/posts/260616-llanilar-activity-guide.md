@@ -10,8 +10,9 @@ tags:
   - guide
 draft: false
 date: 2026-06-16T12:59:59+01:00
-modified: 2026-06-24T15:46:46+01:00
+modified: 2026-06-24T16:11:02+01:00
 ---
+*Authored by artist Marian Haf*
 ### Outline
 1. [Overview](#1-overview)
 2. [Session 1: Making cyanotypes](#2-session-1-making-cyanotypes)
