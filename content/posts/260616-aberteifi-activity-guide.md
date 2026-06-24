@@ -32,7 +32,7 @@ In the first exercise the pupils made a pattern sheet , with seven of the most c
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779994156/260521-aberteifi-workshop4-02-exercise2-trace-mix.jpg" caption="Tracing the outlines of the Frosted Green / Tant Siriol, the Blotched Emerald / Emrallt Blotiog and the Scalloped Oak / Carpiog Y Derw moths" >}}
 {{< /gallery >}}
 
-[Top ↑](#outline)
+*[Top ↑](#outline)*
 
 ### 2. Photo lottery
 We did a photo lottery  - where each pupil randomly selected a number hidden in a bag  - which identified a specific A3 photo of a species of butterfly or moth whose habitat is the oak tree, which they would use as the basis of their artwork.
@@ -40,7 +40,7 @@ We did a photo lottery  - where each pupil randomly selected a number hidden in
 [![Table of butterfly and moth species that inhabit the Oak, scientific, English and Welsh names](https://res.cloudinary.com/naturceredigion/image/upload/bo_1px_solid_gray/v1782311944/260624-stori-wyllt-moth-species-list-screenshot.webp)](/posts/260521-aberteifi-lepidoptera-species/)
 *[List of butterfly & moth species that inhabit the Oak](/posts/260521-aberteifi-lepidoptera-species/)*
 
-[Top ↑](#outline)
+*[Top ↑](#outline)*
 
 ### 3. Tracing outline
 A sheet of tracing paper was attached with a clip over the photograph and everyone drew the outline of the butterfly or moth onto the tracing paper, and added all the details like the veins and pattern shapes, using a sharp pencil first and then going over theses lines with a permanent black marker.
@@ -48,7 +48,7 @@ A sheet of tracing paper was attached with a clip over the photograph and everyo
 ![Student leaning over picture of green moth, drawing pencil outline](https://res.cloudinary.com/naturceredigion/image/upload/v1782310365/260521-aberteifi-workshop4-05-exercise2-trace-student-green-169.jpg)
 *Student tracing the Blotched Emerald moth outline*
 
-[Top ↑](#outline)
+*[Top ↑](#outline)*
 
 ### 4. Adding patterns
 - To create the background each pupil was given an A3 piece of cartridge paper, pre-prepared with a pre prepared pencil grid of 48 squares.  
@@ -61,7 +61,7 @@ A sheet of tracing paper was attached with a clip over the photograph and everyo
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1779993739/260521-aberteifi-workshop4-10-exercise3-squares-students.jpg" caption="Colouring in pattern grid" >}}
 {{< /gallery >}}
 
-[Top ↑](#outline)
+*[Top ↑](#outline)*
 
 ### 5.  Adding detail
 The students completing the patterns and used colour markers on the tracing of the butterfly or moth species, to add the detail patterns and shape they have on their wings.
@@ -72,7 +72,7 @@ The students completing the patterns and used colour markers on the tracing of t
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1781985401/260611-aberteifi-workshop5-03-scalloped-oak.jpg" caption="The Scalloped Oak moth, from original photo to artwork in progress" >}}
 {{< /gallery >}}
 
-[Top ↑](#outline)
+*[Top ↑](#outline)*
 
 ### 6. Naming the species
 The name of the species of butterfly or moth were added at the end — in Welsh and English — to the final image, using a letter stencil and focusing on composition and layout of the overall design.

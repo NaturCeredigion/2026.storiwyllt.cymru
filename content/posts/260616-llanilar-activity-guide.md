@@ -10,7 +10,7 @@ tags:
   - guide
 draft: false
 date: 2026-06-16T12:59:59+01:00
-modified: 2026-06-24T14:55:03+01:00
+modified: 2026-06-24T15:46:46+01:00
 ---
 ### Outline
 1. [Overview](#1-overview)
@@ -91,7 +91,7 @@ Pupils will:
 - Wash hands thoroughly after use.  
 - Use scissors and cutting tools safely.
 
-[Top ↑](#outline)
+*[Top ↑](#outline)*
 
 ## 2. Session 1: Making cyanotypes
 ### Introduction (15 minutes)
@@ -145,7 +145,7 @@ The coated paper changes colour from yellow-green to bronze-grey as exposure occ
 3. Observe the blue image emerging.
 4. Leave to dry completely.
 
-[Top ↑](#outline)
+*[Top ↑](#outline)*
 
 ## 3. Session 2: Making the accordion book
 ### Preparing the Print
@@ -164,7 +164,7 @@ This creates:
 2. Cover each piece of cover card with a cyanotype using PVA glue and weight to help the card dry flat
 3. Glue one cover to the front page and one cover to the back page along with a 60cm strip of ribbon to tie the book closed.
 
-[Top ↑](#outline)
+*[Top ↑](#outline)*
 
 ## 4. Reflection and Discussion
 ### Questions
@@ -173,7 +173,7 @@ This creates:
 - What did you learn from Anna Atkins' work?  
 - How does your accordion book tell a visual story?
 
-[Top ↑](#outline)
+*[Top ↑](#outline)*
 
 ## 5. Expected outcome
 Each pupil will produce:  
