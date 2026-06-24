@@ -9,7 +9,7 @@ tags:
   - outline
 draft: false
 date: 2026-06-15T16:09:20+01:00
-modified: 2026-06-24T16:36:46+01:00
+modified: 2026-06-24T16:41:29+01:00
 ---
 *Authored by artist Pip Lewis*
 
@@ -67,3 +67,6 @@ Mari took inspiration from the ideas and techniques I had introduced, and re-int
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1781986583/260611-aberteifi-sketchbook-01.jpg" caption="Y Dderwen Hudol" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1781986584/260611-aberteifi-sketchbook-04.jpg" caption="Y Dderwen Hudol, with roots" >}}
 {{< /gallery >}}
+
+![Drone photo of 3 Oaks with a dozen teeny tiny children below](https://res.cloudinary.com/naturceredigion/image/upload/v1778770515/260507-aberteifi-workshop3-drone-oak.jpg)
+*The mighty Oaks on the school grounds*
