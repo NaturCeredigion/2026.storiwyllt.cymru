@@ -6,8 +6,36 @@
     <description>Recent content in Tags on Stori Wyllt 2026</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 21 Jun 2026 13:51:52 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 15:26:21 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/tags/guide/</link>
+      <pubDate>Tue, 16 Jun 2026 12:59:59 +0100</pubDate>
+      <guid>http://localhost:1313/tags/guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llanilar</title>
+      <link>http://localhost:1313/tags/llanilar/</link>
+      <pubDate>Tue, 16 Jun 2026 12:59:59 +0100</pubDate>
+      <guid>http://localhost:1313/tags/llanilar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>http://localhost:1313/tags/workshop/</link>
+      <pubDate>Tue, 16 Jun 2026 12:59:59 +0100</pubDate>
+      <guid>http://localhost:1313/tags/workshop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aberteifi</title>
+      <link>http://localhost:1313/tags/aberteifi/</link>
+      <pubDate>Tue, 16 Jun 2026 10:37:50 +0100</pubDate>
+      <guid>http://localhost:1313/tags/aberteifi/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Llanarth</title>
       <link>http://localhost:1313/tags/llanarth/</link>
@@ -16,31 +44,10 @@
       <description></description>
     </item>
     <item>
-      <title>Workshop</title>
-      <link>http://localhost:1313/tags/workshop/</link>
-      <pubDate>Fri, 12 Jun 2026 09:02:07 +0100</pubDate>
-      <guid>http://localhost:1313/tags/workshop/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Aberteifi</title>
-      <link>http://localhost:1313/tags/aberteifi/</link>
-      <pubDate>Thu, 11 Jun 2026 21:04:14 +0100</pubDate>
-      <guid>http://localhost:1313/tags/aberteifi/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Aberaeron</title>
       <link>http://localhost:1313/tags/aberaeron/</link>
       <pubDate>Thu, 11 Jun 2026 12:31:16 +0100</pubDate>
       <guid>http://localhost:1313/tags/aberaeron/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Llanilar</title>
-      <link>http://localhost:1313/tags/llanilar/</link>
-      <pubDate>Tue, 02 Jun 2026 16:41:33 +0100</pubDate>
-      <guid>http://localhost:1313/tags/llanilar/</guid>
       <description></description>
     </item>
     <item>
