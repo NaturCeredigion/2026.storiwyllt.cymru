@@ -10,7 +10,7 @@ tags:
   - guide
 draft: false
 date: 2026-06-16T10:37:50+01:00
-modified: 2026-06-24T15:36:36+01:00
+modified: 2026-06-24T15:45:03+01:00
 ---
 ## Magical Wings - creating layered artworks with artist Pip&nbsp;Lewis
 This guide describes the processes involved in creating layered artworks using acetate and paper, drawing and marker art techniques. 

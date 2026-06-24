@@ -1,6 +1,6 @@
 ---
 title: Ysgol Llanilar — Cyanotype accordion activity guide
-description: Lesson plan created by artist Marian Haf for the final two workshops 4 & 5 at Ysgol Llanilar
+description: Amazing lesson plan & activity guide created by artist Marian Haf for the final two workshops 4 & 5 at Ysgol Llanilar
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1780860820/260602-llanilar-workshop5-09-strip-covers.jpg
 image_altText: Close-up of cyanotype accordion book
 image_caption: Nearing the end of creation
