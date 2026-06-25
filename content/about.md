@@ -43,17 +43,17 @@ There are four primary schools involved across Ceredigion (Ysgol Gynradd Abertei
 4. Introduce Wildlife ID with the [LERC Wales app](https://www.lercwales.org.uk/app.php) 🪲
 5. Introduce community mapping with OpenStreetMap and the app [OsmAnd app](https://osmand.net/) 🗺
 ## Alphabetical people
-Cally Mason - *Teacher*
-Carys Griffiths-Jones - *Teacher*
+Cally Mason - *Teacher, Llanarth*
+Carys Griffiths-Jones - *Teacher, Aberaeron*
 Carys May - *Ecologist, Aberaeron*
 Emrys Plant - *Creative Custodian*
 Jake Rayson - *Facilitator*
-Jannette Jones - *Teacher*
+Jannette Jones - *Teacher, Llanilar*
 Jo Dainty - *Forest school practitioner, Llanarth* 
-Marian Haf - *Artist*
-Mari Roberts - *Teacher*
-Molly Gilbert - *Artist*
-Pip Lewis - *Artist*
-Rebecca Kelly - *Artist*
+Marian Haf - *Artist, Llanilar*
+Mari Roberts - *Teacher, Aberteifi*
+Molly Gilbert - *Artist, Llanarth*
+Pip Lewis - *Artist, Aberteifi*
+Rebecca Kelly - *Artist, Aberaeron*
 Sheena Duller - *Ecologist, Llanilar & Ecology Advisor*
 Yusef Samari - *Ecologist, Aberteifi* 
