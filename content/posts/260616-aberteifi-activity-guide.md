@@ -1,5 +1,5 @@
 ---
-title: Ysgol Aberteifi — Magical Wings activity guide
+title: Ysgol Gynradd Aberteifi — Magical Wings activity guide
 description: Artist Pip Lewis very generously shares her knowledge about how to create layered artworks with acetate, marker pen and collage
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1781985401/260611-aberteifi-workshop5-01-black-arches-169.jpg
 image_altText: Student at desk outlining pattern of moth wings
@@ -10,7 +10,7 @@ tags:
   - guide
 draft: false
 date: 2026-06-16T10:37:50+01:00
-modified: 2026-06-24T16:13:42+01:00
+modified: 2026-06-25T17:12:30+01:00
 ---
 *Authored by artist Pip Lewis*
 ## Magical Wings - creating layered artworks with artist Pip&nbsp;Lewis

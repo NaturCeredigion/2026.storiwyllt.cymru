@@ -1,5 +1,5 @@
 ---
-title: Ysgol Aberteifi — Project outline
+title: Ysgol Gynradd Aberteifi — Project outline
 description: A description for the Stori Wyllt project at Ysgol Gynradd Aberteifi by artist Pip Lewis
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1776604214/260417-aberteifi-workshop1-oak-leaves-unfurling.jpg
 image_altText: New Oak tree leaves unfurling
@@ -9,7 +9,7 @@ tags:
   - outline
 draft: false
 date: 2026-06-15T16:09:20+01:00
-modified: 2026-06-24T16:50:21+01:00
+modified: 2026-06-25T17:12:20+01:00
 ---
 *Authored by artist Pip Lewis*
 

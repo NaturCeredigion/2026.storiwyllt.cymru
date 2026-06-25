@@ -9,7 +9,7 @@ tags:
   - workshop
 draft: false
 date: 2026-06-11T12:31:16+01:00
-modified: 2026-06-25T16:50:46+01:00
+modified: 2026-06-25T17:09:07+01:00
 ---
 ## MP3 Oriel Gallery
 These are the audio recordings that students made for each  of their characters, in Cymraeg and in English.

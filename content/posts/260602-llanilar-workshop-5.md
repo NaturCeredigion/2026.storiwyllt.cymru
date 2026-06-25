@@ -2,12 +2,12 @@
 title: Ysgol Llanilar Workshop 5 — Cyanotope covers & ribbon
 description: For the final workshop, artist Marian Haf showed the students how to create covers and ribbons to complete the cyanotype strips.
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1780860819/260602-llanilar-workshop5-01a-marian-plan.jpg
-image_caption:
+image_caption: Artist Marian Haf showing the students the cardboard ends with which to create their cyanotype accordions
 tags:
   - Llanilar
   - workshop
 draft: false
-modified: 2026-06-07T21:24:13+01:00
+modified: 2026-06-25T17:12:07+01:00
 date: 2026-06-02T16:41:33+01:00
 ---
 *Post by Jake Rayson*

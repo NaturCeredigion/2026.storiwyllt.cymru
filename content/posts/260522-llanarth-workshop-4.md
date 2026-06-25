@@ -1,13 +1,13 @@
 ---
 title: Ysgol Llanarth Workshop 4 — Painting & clay artefact creation
-description:
+description: Creating clay artefacts for Molly’s painted valley backdrop
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1779466847/260522-llanarth-workshop4-student-fern-clayroll.jpg
 image_caption: Polypody fern leaf imprint for the clay artefact. Photo by Arthur 🙏
 tags:
   - Llanarth
   - workshop
 draft: false
-modified: 2026-05-31T11:51:46+01:00
+modified: 2026-06-25T17:11:14+01:00
 date: 2026-05-22T08:26:44+01:00
 author: Jake Rayson
 ---
