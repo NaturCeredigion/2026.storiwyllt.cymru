@@ -29,19 +29,6 @@ Another student created a montage of flowers, which were pressed and then lamina
 Jake is studying a masters in [Sustainable Planning & Environmental Policy](https://www.cardiff.ac.uk/study/postgraduate/taught/courses/course/sustainability-planning-and-environmental-policy-msc) at Cardiff University, and Stori Wyllt was further developed in a joint project with fellow students Shaheera Sami, Erin Phillips and Abdi Said. 
 
 There are four primary schools involved across Ceredigion (Ysgol Gynradd Aberteifi, Ysgol Llanarth, Ysgol Gynradd Aberaeron and Ysgol Llanilar), four [creatives](/creatives/) (Pip Lewis, Molly Gilbert, Rebecca Wyn Kelly and Marian Haf) and four [naturalists](/naturalists/) (Yusef Samari, Jo Dainty, Carys May and Sheena Duller), with a **Celebration Event** at [Stiwdio 3 café & gallery](https://www.openstreetmap.org/way/545863539) week beginning 29th June.
-## Nodau / Aims
-1. Reconnection natural world
-2. Habitual & recurring - long term
-3. Outdoor learning
-4. Training for independence - students & staff
-5. Reconnect disciplines - art, biology, language, geography, history
-## Amcanion / Objectives
-![](https://res.cloudinary.com/hopegarden/image/upload/w_220/v1726511007/240913-elephant-hawkmoth-caterpillar-plantain.jpg)
-1. Celebration at Aberteifi, travelling exhibition at schools, display at Ceredigion Wildlife Festival 🎉
-2. Publication - digital & physical 📖
-3. Showcase - schools & Partnership 🖌
-4. Introduce Wildlife ID with the [LERC Wales app](https://www.lercwales.org.uk/app.php) 🪲
-5. Introduce community mapping with OpenStreetMap and the app [OsmAnd app](https://osmand.net/) 🗺
 ## Alphabetical people
 - Cally Mason - *Teacher, Llanarth*
 - Carys Griffiths-Jones - *Teacher, Aberaeron*
@@ -57,3 +44,16 @@ There are four primary schools involved across Ceredigion (Ysgol Gynradd Abertei
 - Rebecca Kelly - *Artist, Aberaeron*
 - Sheena Duller - *Ecologist, Llanilar & Ecology Advisor*
 - Yusef Samari - *Ecologist, Aberteifi* 
+## Nodau / Aims
+1. Reconnection natural world
+2. Habitual & recurring - long term
+3. Outdoor learning
+4. Training for independence - students & staff
+5. Reconnect disciplines - art, biology, language, geography, history
+## Amcanion / Objectives
+![](https://res.cloudinary.com/hopegarden/image/upload/w_220/v1726511007/240913-elephant-hawkmoth-caterpillar-plantain.jpg)
+1. Celebration at Aberteifi, travelling exhibition at schools, display at Ceredigion Wildlife Festival 🎉
+2. Publication - digital & physical 📖
+3. Showcase - schools & Partnership 🖌
+4. Introduce Wildlife ID with the [LERC Wales app](https://www.lercwales.org.uk/app.php) 🪲
+5. Introduce community mapping with OpenStreetMap and the app [OsmAnd app](https://osmand.net/) 🗺
