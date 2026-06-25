@@ -14,7 +14,6 @@ modified: 2026-06-25T17:09:07+01:00
 ## MP3 Oriel Gallery
 These are the audio recordings that students made for each  of their characters, in Cymraeg and in English.
 
-
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/c_lpad,h_980,w_1307/v1782401566/260611-aberaeron-workshop5-Charlie-C-CY-QR.png" caption="Charlie CY" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/c_lpad,h_980,w_1307/v1782401568/260611-aberaeron-workshop5-Charlie-C-EN-QR.png" caption="Charlie EN" >}}
