@@ -12,6 +12,8 @@ modified: 2026-06-25T22:00:28+01:00
 ---
 {{< load-photoswipe >}}
 
+***For more information, email [Jake Rayson](mailto:storiwyllt.agreeable101@passinbox.com).***
+
 *Dod â natur yn fyw. ID bywyd gwyllt, creu cynefinoedd a gweithdai adrodd straeon i greu Stori Wyllt.*
 Bring nature to life. Wildlife ID, habitat creation & storytelling workshops to create a Wild Story.
 
