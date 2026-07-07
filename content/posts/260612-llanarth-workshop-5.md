@@ -9,7 +9,7 @@ tags:
   - workshop
 draft: false
 date: 2026-06-12T09:02:07+01:00
-modified: 2026-06-20T09:02:07+01:00
+modified: 2026-07-07T11:46:38+01:00
 translationKey: Ysgol Llanarth Workshop 5
 ---
 Words to follow!

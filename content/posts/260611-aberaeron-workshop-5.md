@@ -9,12 +9,19 @@ tags:
   - workshop
 draft: false
 date: 2026-06-11T12:31:16+01:00
-modified: 2026-07-07T11:06:35+01:00
+modified: 2026-07-07T12:02:06+01:00
 translationKey: Ysgol Gynradd Aberaeron Workshop 5
+author: Jake Rayson
 ---
+The final workshop was in the classroom, where Rebecca fully engaged the students in the genesis  of their creations‘ characters whilst I offered quiet suppot and observation. 
 
+She regaled them with a plenitude of questions: What is their name? Where do they live? How old are they? What is their favourite food? What are their special powers? What noise do they make? What weather do they like? What do they do? What hobbies do they have?
+
+The process was fascinating, and the ensuing fun conjured up very serious questions about the role of imagination and possibilities in our connection with the living world. We are natural storytellers and myth creators, and I’d argue that a playful examination and weaving of different relationships, entities and themes underpins our appreciation and enagement with nature.
+
+Their teacher Carys skilfully recorded and edited their character sketches as MP3 files, and produced QR codes and labels that accompanied their work at the Celebration Exhibition at Stidwdio 3.
 ## MP3 Oriel Gallery
-These are the audio recordings that students made for each  of their characters, in Cymraeg and in English.
+These are the audio recordings that students made for each  of their characters, in Cymraeg and in English, and also with QR codes (used for the exhibition).
 
 1. **Charlie** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396023/260611-aberaeron-workshop5-Charlie-C-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396023/260611-aberaeron-workshop5-Charlie-C-EN.mp3)
 2. **Efa** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396025/260611-aberaeron-workshop5-Efa-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396025/260611-aberaeron-workshop5-Efa-EN.mp3)
