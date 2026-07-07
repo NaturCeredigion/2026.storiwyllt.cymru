@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/260611-aberaeron-workshop-5.md",
+                "file": "content/posts/260612-llanarth-workshop-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "260611-aberaeron-workshop-5"
+              "title": "260612-llanarth-workshop-5"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "311843260ea37368",
   "lastOpenFiles": [
-    "content/posts/260303-symposiwm.md",
     "content/posts/260611-aberaeron-workshop-5.md",
+    "content/posts/260303-symposiwm.md",
     "content/posts/260612-llanarth-workshop-5.md",
     "content/posts/260522-llanarth-workshop-4.md",
     "assets/templates/post.md",

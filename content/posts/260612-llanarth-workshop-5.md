@@ -11,8 +11,30 @@ draft: false
 date: 2026-06-12T09:02:07+01:00
 modified: 2026-07-07T11:46:38+01:00
 translationKey: Ysgol Llanarth Workshop 5
+author: Jake Rayson
 ---
-Words to follow!
+It is always a joy visiting Molly’s field Cae Ysgubor, even when you mess up the timings and arrive late! I joined the group sat in the circle, and we were discussing natural cycles of life and loss.
+
+I was tasked with recording the some of the students‘ poems and haikus that they had written in their story books, with a very professional student Sound Assistant. 
+
+More clay was gathered from the stream to create more models and artefacts. It was raucous, so I recorded in the makeshift shelter with the door closed. Each student narrator came in and sat in the arm chair to record their poems and haikus. I was impressed by the level of confidence with which people delivered their lines, with little if any hesitation. The biggest problem was getting the levels right on the phone!
+
+Outside, the students took to painting their dried clay creations from the previous week. There was so much beautiful work happening, with every piece unique and special.
+
+There was a lunch break (“All food tastes better outside”!) and time for a break. A couple of students found a [Tent Spider](https://en.wikipedia.org/wiki/Pisaura_mirabilis) (Pisaura mirabilis) by the mini pond, which was very exciting. One of the students asked Molly:
+
+> Can we go and play now?
+
+to which she replied
+
+> I *insist* that you play!!
+
+At the end of the session, we gathered all the painted artefacts together and put them together on Molly‘s painted backdrop, to great effect. 
+
+![Diorama of painted clay artefacts on naturalistic backdrop](https://res.cloudinary.com/naturceredigion/image/upload/v1781966886/260613-llanarth-workshop5-31-montage.jpg)
+*Diorama of painted clay artefacts on naturalistic backdrop*
+
+And then we sat in our circle to close.
 ## Oriel Gallery
 ### Clay making
 {{< gallery >}}
