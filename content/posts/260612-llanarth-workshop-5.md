@@ -63,6 +63,20 @@ Words to follow!
 {{< /gallery >}}
 ## QR Poem Oriel Gallery
 *QR codes for each of the recorded haikus and poems, takes you straight to the MP3s*
+
+- [Lydia](https://res.cloudinary.com/naturceredigion/video/upload/v1781885101/260612-01-Lydia.mp3)
+- [Colton](https://res.cloudinary.com/naturceredigion/video/upload/v1781885101/260612-02-Colton.mp3)
+- [Elsi](https://res.cloudinary.com/naturceredigion/video/upload/v1781885102/260612-03-Elsi.mp3)
+- [Clarisa](https://res.cloudinary.com/naturceredigion/video/upload/v1781885102/260612-04-Clarisa.mp3)
+- [Xander](https://res.cloudinary.com/naturceredigion/video/upload/v1781885103/260612-05-Xander.mp3)
+- [Amarah](https://res.cloudinary.com/naturceredigion/video/upload/v1781885103/260612-06-Amarah.mp3)
+- [Shaya](https://res.cloudinary.com/naturceredigion/video/upload/v1781885104/260612-07-Shaya.mp3)
+- [Mason](https://res.cloudinary.com/naturceredigion/video/upload/v1781885105/260612-08-Mason.mp3)
+- [William](https://res.cloudinary.com/naturceredigion/video/upload/v1781885105/260612-09-William.mp3)
+- [Gwennan](https://res.cloudinary.com/naturceredigion/video/upload/v1781885106/260612-10-Gwennan.mp3)
+- [Jamil](https://res.cloudinary.com/naturceredigion/video/upload/v1781885107/260612-11-Jamil.mp3)
+- [Joey](https://res.cloudinary.com/naturceredigion/video/upload/v1781885107/260612-12-Joey.mp3)
+
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/c_lpad,h_980,w_1307/v1781943384/260612-QR-01-Lydia.png" caption="Lydia" >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/c_lpad,h_980,w_1307/v1781943384/260612-QR-02-Colton.png" caption="Colton" >}}

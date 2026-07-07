@@ -9,7 +9,7 @@ tags:
   - workshop
 draft: false
 date: 2026-06-11T12:31:16+01:00
-modified: 2026-07-07T10:49:56+01:00
+modified: 2026-07-07T11:06:35+01:00
 translationKey: Ysgol Gynradd Aberaeron Workshop 5
 ---
 
