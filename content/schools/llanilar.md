@@ -10,6 +10,7 @@ website: https://www.llanilar.ceredigion.sch.uk
 students: 106
 groupsize: 15
 map: https://www.openstreetmap.org/way/446375974
+translationKey: Ysgol Llanilar
 ---
 {{< load-photoswipe >}}
 

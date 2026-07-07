@@ -7,6 +7,7 @@ tags:
 draft: false
 modified: 2026-04-22T17:00:28+01:00
 date: 2026-04-22T08:15:12+01:00
+translationKey: Aberteifi outline
 ---
 The sessions will provide opportunities to:
 - Explore and experiment with a range of art techniques including rubbing, observational drawing, stencilling, collage, wax resist, tracing, pattern-making

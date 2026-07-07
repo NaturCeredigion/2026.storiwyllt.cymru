@@ -10,6 +10,7 @@ tags:
 draft: false
 date: 2026-06-11T21:04:14+01:00
 modified: 2026-06-20T21:36:58+01:00
+translationKey: Ysgol Gynradd Aberteifi Workshop 5
 ---
 In the final workshop, Group B students added the colour detail of the patterns to the butterfly and moth wings, following on from the [tracing and outlining in workshop 4](/posts/260521-aberteifi-workshop-4/). They also added the [Welsh translation of their English names](/posts/260521-aberteifi-lepidoptera-species/).  
 

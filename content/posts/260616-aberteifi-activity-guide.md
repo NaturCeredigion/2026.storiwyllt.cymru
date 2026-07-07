@@ -11,6 +11,7 @@ tags:
 draft: false
 date: 2026-06-16T10:37:50+01:00
 modified: 2026-06-25T17:12:30+01:00
+translationKey: Magical Wings activity guide
 ---
 *Authored by artist Pip Lewis*
 ## Magical Wings - creating layered artworks with artist Pip&nbsp;Lewis
@@ -26,7 +27,7 @@ modified: 2026-06-25T17:12:30+01:00
 This guide describes the processes involved in creating layered artworks using acetate and paper, drawing and marker art techniques. 
 
 The art process were designed to explore and learn about the range of pattern, line and colour found on the wings of specific Butterflies and Moths species living in Oak Tree  - and the function this has on their survival.
-### 1. Pattern sheet   
+### 1. Pattern sheet 
 In the first exercise the pupils made a pattern sheet , with seven of the most common patterns and shapes found on butterfly and moth’s wings.
 
 {{< gallery >}}

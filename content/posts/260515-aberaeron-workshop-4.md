@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-05-30T20:05:31+01:00
 date: 2026-05-15T16:34:07+01:00
+translationKey: Ysgol Gynradd Aberaeron Workshop 4
 ---
 Rebecca took full charge of the workshop, creating creatures from all the plants, fungi and animals of the wood and countryside surrounding Tŷ Mari.
 

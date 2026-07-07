@@ -1,7 +1,15 @@
 ---
 title: Workshops
+image:
+image_altText:
+image_caption:
+draft: true
 date: 2023-01-05 08:01:35 +0300
+modified: 2026-07-04T12:59:05+01:00
+translationKey: workshops
 ---
+
+
 # Sessions
 1. **[Introduction to Plants and Insects](#session-1-introduction-to-plants-and-insects)** - *naturalist*
     - *Objective:* Learn basics of plant and animal identification

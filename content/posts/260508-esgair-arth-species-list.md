@@ -8,6 +8,7 @@ tags:
 draft: false
 modified: 2026-05-19T14:57:06+01:00
 date: 2026-05-08T16:10:54+01:00
+translationKey: List of species at Esgair Arth
 ---
 Ecologist Carys May from WWBIC did an amazing job finding, explaining, photographing and cataloguing a whole load of different species on Ysgol Gynradd Aberaeron‘s trip to Tŷ Mari at Esgair Arth. 
 

@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-05-31T10:34:00+01:00
 date: 2026-05-08T16:34:07+01:00
+translationKey: Ysgol Gynradd Aberaeron Workshop 3
 ---
 We finally managed to go to the house of Mari Berllan Biter on the Esgair Arth estate. 
 

@@ -1,9 +1,12 @@
 ---
+title: Image workflow
+image: https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-root-moss-stone-twr-gwyllt-169.jpg
+image_altText: 
+image_caption: 
 date: 2026-03-25T20:22:17+00:00
 modified: 2026-03-25T20:22:17+00:00
 draft: false
-image: https://res.cloudinary.com/naturceredigion/image/upload/v1774433498/260320-lletau-llyffant-root-moss-stone-twr-gwyllt-169.jpg
-title: Image workflow
+translationKey: Image Workflow
 ---
 
 1. Take photos, make notes

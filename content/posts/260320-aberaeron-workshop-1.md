@@ -10,6 +10,7 @@ tags:
 draft: false
 date: 2026-03-20T20:17:47+00:00
 modified: 2026-06-19T15:37:43+01:00
+translationKey: Ysgol Gynradd Aberaeron Workshop 1 — Jewson wildlife garden
 ---
 ***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants.*
 

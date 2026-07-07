@@ -10,6 +10,7 @@ website: https://www.ysgolgynraddaberaeron.cymru
 students: 218
 groupsize: 15 (+15)
 map: https://www.openstreetmap.org/way/159052695
+translationKey: Ysgol Gynradd Aberaeron
 ---
 {{< load-photoswipe >}}
 

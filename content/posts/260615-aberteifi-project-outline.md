@@ -10,6 +10,7 @@ tags:
 draft: false
 date: 2026-06-15T16:09:20+01:00
 modified: 2026-06-25T17:12:20+01:00
+translationKey: Ysgol Gynradd Aberteifi Project outline
 ---
 *Authored by artist Pip Lewis*
 

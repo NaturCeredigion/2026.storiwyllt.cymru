@@ -9,10 +9,27 @@ tags:
   - workshop
 draft: false
 date: 2026-06-11T12:31:16+01:00
-modified: 2026-06-25T17:09:07+01:00
+modified: 2026-07-07T10:49:56+01:00
+translationKey: Ysgol Gynradd Aberaeron Workshop 5
 ---
+
 ## MP3 Oriel Gallery
 These are the audio recordings that students made for each  of their characters, in Cymraeg and in English.
+
+1. **Charlie** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396023/260611-aberaeron-workshop5-Charlie-C-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396023/260611-aberaeron-workshop5-Charlie-C-EN.mp3)
+2. **Efa** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396025/260611-aberaeron-workshop5-Efa-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396025/260611-aberaeron-workshop5-Efa-EN.mp3)
+3. **Gwion** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396026/260611-aberaeron-workshop5-Gwion-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396026/260611-aberaeron-workshop5-Gwion-EN.mp3)
+4. **Leo** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396023/260611-aberaeron-workshop5-Leo-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396023/260611-aberaeron-workshop5-Leo-EN.mp3)
+5. **Lexi** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396025/260611-aberaeron-workshop5-Lexi-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396025/260611-aberaeron-workshop5-Lexi-EN.mp3)
+6. **Malen** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396019/260611-aberaeron-workshop5-Malen-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396019/260611-aberaeron-workshop5-Malen-EN.mp3)
+7. **Mari** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396026/260611-aberaeron-workshop5-Mari-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396026/260611-aberaeron-workshop5-Mari-EN.mp3)
+8. **Marlow** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396023/260611-aberaeron-workshop5-Marlow-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396024/260611-aberaeron-workshop5-Marlow-EN.mp3)
+9. **Mia** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396019/260611-aberaeron-workshop5-Mia-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396019/260611-aberaeron-workshop5-Mia-EN.mp3)
+10. **Max** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396020/260611-aberaeron-workshop5-Max-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396020/260611-aberaeron-workshop5-Max-EN.mp3)
+11. **Nel** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396021/260611-aberaeron-workshop5-Nel-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396021/260611-aberaeron-workshop5-Nel-EN.mp3)
+12. **Olivia** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396022/260611-aberaeron-workshop5-Olivia-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396022/260611-aberaeron-workshop5-Olivia-EN.mp3)
+13. **Patrick** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396019/260611-aberaeron-workshop5-Patrick-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396019/260611-aberaeron-workshop5-Patrick-EN.mp3)
+14. **Willa** - [Welsh](https://res.cloudinary.com/naturceredigion/video/upload/v1782396021/260611-aberaeron-workshop5-Willa-CY.mp3) & [English](https://res.cloudinary.com/naturceredigion/video/upload/v1782396021/260611-aberaeron-workshop5-Willa-EN.mp3)
 
 {{< gallery >}}
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/c_lpad,h_980,w_1307/v1782401566/260611-aberaeron-workshop5-Charlie-C-CY-QR.png" caption="Charlie CY" >}}

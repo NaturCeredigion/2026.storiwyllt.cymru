@@ -77,9 +77,6 @@
     <loc>http://localhost:1313/posts/260515-aberaeron-workshop-4/</loc>
     <lastmod>2026-05-30T20:05:31+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/organise/</loc>
-    <lastmod>2026-05-14T16:48:34+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/260508-aberaeron-workshop-3/</loc>
     <lastmod>2026-05-31T10:34:00+01:00</lastmod>
   </url><url>
@@ -191,11 +188,6 @@
     <loc>http://localhost:1313/posts/260303-symposiwm/</loc>
     <lastmod>2026-04-02T13:16:03+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/workshops/</loc>
-    <lastmod>2023-01-05T08:01:35+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/resources/</loc>
   </url>
 </urlset>

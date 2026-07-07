@@ -9,6 +9,7 @@ tags:
 draft: false
 date: 2026-03-19T20:05:33+00:00
 modified: 2026-04-02T13:16:15+01:00
+translationKey: Ysgol Llanilar site visit
 ---
  A foundational element of the Stori Wyllt project has been to foster strong relationships between the schools, creatives and naturalists. This is why the initial [Stori Wyllt Symposiwm](file:///posts/260303-symposiwm/) was so important; an opportunity for practitioners to meet each other and ask questions.
 

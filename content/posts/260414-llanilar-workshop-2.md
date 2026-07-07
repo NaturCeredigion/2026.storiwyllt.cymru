@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-06-19T15:32:59+01:00
 date: 2026-04-14T12:03:52+01:00
+translationKey: Ysgol Llanilar Workshop 2
 ---
 For the second workshop at Ysgol Llanilar, the class of 23 was split into two groups of a dozen. One group went with Sheena the ecologist, and the other with Marian the artist. Sheena was also joined by mycologist and educationalist Louise Tranter 
 

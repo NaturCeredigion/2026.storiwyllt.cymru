@@ -10,6 +10,7 @@ draft: false
 author: Pip Lewis
 modified: 2026-05-30T15:46:58+01:00
 date: 2026-05-07T16:30:47+01:00
+translationKey: Ysgol Gynradd Aberteifi Workshop 3
 ---
 *Guest post by project artist Pip Lewis*
 ## Adar y Dderw -- birds of the Oak

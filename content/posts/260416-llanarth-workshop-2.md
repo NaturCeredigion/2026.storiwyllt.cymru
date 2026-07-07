@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-06-19T15:32:23+01:00
 date: 2026-04-16T12:32:49+01:00
+translationKey: Ysgol Llanarth Workshop 2
 ---
 [Jo Dainty](http://localhost:1313/schools/llanarth/#people) is a forest school practitioner and she crammed an incredible amount into the two hours on the Ysgol Llanarth school field, in a very entertaining and high-octane workshop.
 
@@ -34,7 +35,7 @@ Finally, there was tea making. I think there were 3 different flavours: Dandelio
 
 Jo checked the willow charcoal, and it was *almost* finished, it needs at least a couple of hours to burn all the way through.
 
-## Oriel Gallery 
+## Oriel Gallery
 {{< gallery >}}
   <!-- willow -->
   {{< figure src="https://res.cloudinary.com/naturceredigion/image/upload/v1776589228/260416-llanarth-workshop2-jo-student-cylch.jpg" caption="The workshop started with a seated circle around the fire bowl. The grass was damp and Jo brought a couple of dozen carpet sample mats. Inspired." >}}

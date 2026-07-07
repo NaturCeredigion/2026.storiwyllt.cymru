@@ -11,6 +11,7 @@ tags:
 draft: false
 date: 2026-06-16T12:59:59+01:00
 modified: 2026-06-24T16:11:02+01:00
+translationKey: Cyanotype accordion activity guide
 ---
 *Authored by artist Marian Haf*
 ### Outline
@@ -115,10 +116,10 @@ Pupils gather natural materials from the school grounds, such as:
 - Pattern
 ### Preparing the Cyanotype Solution
 **Teacher preparation recommended.**
-#### Solution A  
+#### Solution A
 - 25g Ferric Ammonium Citrate  
 - 100ml Water
-#### Solution B  
+#### Solution B
 - 10g Potassium Ferricyanide  
 - 100ml Water
 #### To make the sensitiser

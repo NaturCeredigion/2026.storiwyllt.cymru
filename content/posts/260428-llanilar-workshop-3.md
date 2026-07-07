@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-06-19T15:18:53+01:00
 date: 2026-04-28T10:00:52+01:00
+translationKey: Ysgol Llanilar Workshop 3
 ---
 > A cyanotype is a monochrome print made by placing objects on a pre-prepared light-sensitive surface†
 

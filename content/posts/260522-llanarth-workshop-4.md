@@ -10,6 +10,7 @@ draft: false
 modified: 2026-06-25T17:11:14+01:00
 date: 2026-05-22T08:26:44+01:00
 author: Jake Rayson
+translationKey: Ysgol Llanarth Workshop 4
 ---
 *Sketch by Jake Rayson*
 

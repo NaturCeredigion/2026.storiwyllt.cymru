@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-05-31T12:18:46+01:00
 date: 2026-05-21T20:43:28+01:00
+translationKey: Ysgol Llanilar Workshop 4
 ---
 Marian showed the students examples of the cyanotype collage strips that they’ll be creating, and then handed out the students‘ negative acetate prints in envelopes. These will form the textured background on the cyanotype. And then we went outside to gather plant material.
 

@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-06-19T15:23:06+01:00
 date: 2026-04-17T13:09:19+01:00
+translationKey: Ysgol Gynradd Aberteifi Workshop 1
 ---
 Underlining the variation in the different schools, settings and people across Stori Wyllt, we didn’t have an ecologist for Ysgol Gynradd Aberteifi for the first two workshops, as Yusef Samari has a *very* full calendar with the [Your Wild Patch / Eich Darn Gwyllt](https://www.wwbic.org.uk/projects/your-wild-patch-eich-darn-gwyllt/) project.
 

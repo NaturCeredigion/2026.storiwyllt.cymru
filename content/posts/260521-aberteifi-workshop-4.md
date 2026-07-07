@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-05-30T20:00:49+01:00
 date: 2026-05-21T20:04:13+01:00
+translationKey: Ysgol Gynradd Aberteifi Workshop 4
 ---
 *Guest post by artist Pip Lewis*
 ## Group B -- Butterflies & Moths!
@@ -19,7 +20,7 @@ The art process involved in making the final image will include tracing, working
 
 ![Green moth on bark](https://res.cloudinary.com/naturceredigion/image/upload/v1779994864/140612_Blotched-Emerald_Patrick_Clement.jpg)
 *Blotched Emerald moth*
-### Why do butterflies and moths have such colourful and patterned shapes?  
+### Why do butterflies and moths have such colourful and patterned shapes?
 The colours shapes and patterns help butterflies and moths to protect themselves from predators, so primarily are there to ensure their survival and reproduction.  
 
 We talked about how eyespot shapes on butterfly and moth wings can trick predators into not eating them,  as they look like a bigger dangerous creature!  
@@ -29,7 +30,7 @@ The  patterns can resemble leaves or bark, to avoid detection. Also having viv
   
 Prior to the workshop Pip selected and printed A3 photos of the following Butterfly and Moth species:  
 
-### Butterfly and Moth species  
+### Butterfly and Moth species
 | Moth species                                                                         | English&nbsp;name      | Welsh&nbsp;name          |
 | :----------------------------------------------------------------------------------- | :--------------------- | :----------------------- |
 | [*Comibaena bajularia*](https://en.wikipedia.org/wiki/Blotched_emerald)              | Blotched Emerald       | Emrallt Blotiog          |
@@ -54,12 +55,12 @@ Prior to the workshop Pip selected and printed A3 photos of the following Butter
 | [*Apatura iris*](https://en.wikipedia.org/wiki/Apatura_iris)                 | Purple Emperor        | Mantell Borffor     |
 | [*Pararge aegeria*](https://en.wikipedia.org/wiki/Speckled_wood_(butterfly)) | Speckled Wood         | Gweirlöyn Brych     |
 
-### Exercise 1 
+### Exercise 1
 ![Sheet of 8 patterns, black on white, 1 repeated](https://res.cloudinary.com/naturceredigion/image/upload/v1779993738/260521-aberteifi-workshop4-01-exercise1-7-patterns.jpg)
 *The 7 most common patterns on butterfly and moth wings*
 
 In the first exercise the pupils made a pattern sheet , with seven of the most common patterns and shapes found on butterfly and moth’s wings.
-### Exercise 2  
+### Exercise 2
 The exercise started with a photo lottery where each pupil randomly selected a number from a bag which identified a specific A3 photo of a butterfly or moth whose habitat is the oak tree. 
 
 A sheet of tracing paper was attached with a clip over the photograph and everyone drew  the outline of the butterfly or moth onto the tracing paper, and added all the details like the veins and pattern shapes, using a sharp pencil first and then going over theses lines with a permanent black marker.

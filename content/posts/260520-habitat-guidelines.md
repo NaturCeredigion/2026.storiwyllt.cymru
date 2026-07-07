@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-05-30T19:55:26+01:00
 date: 2026-05-20T19:09:54+01:00
+translationKey: Habitat guidelines
 ---
 We ran a workshop with Harry Smalley from Cardished at Ysgol Llanilar, constructing kit nest boxes. We then walked around the school grounds and village pond, looking for potential sites.
 ## Habitat overview
@@ -26,7 +27,7 @@ We ran a workshop with Harry Smalley from Cardished at Ysgol Llanilar, construct
 4. Sheltered from strong winds; and
 5. Exposed to the sun for part of the day (usually south, south-east or south-west).
 6. North Ceredigion Bat Group [northceredigionbatgroup@gmail.com](mailto:northceredigionbatgroup@gmail.com) & facebook.com/groups/northceredigionbatgroup
-### [Nest boxes](https://www.bto.org/how-you-can-help/providing-birds/putting-nest-boxes-birds) 
+### [Nest boxes](https://www.bto.org/how-you-can-help/providing-birds/putting-nest-boxes-birds)
 *[British Trust for Ornithology](https://www.bto.org/)*
 1. Not too close to another nest box
 2. Front angled vertically or slightly downwards to stop rain entering. Sheltered from prevailing wind, rain and strong sunlight (NE-ish).

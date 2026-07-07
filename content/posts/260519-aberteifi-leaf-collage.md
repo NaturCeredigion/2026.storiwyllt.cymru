@@ -10,6 +10,7 @@ tags:
 draft: false
 date: 2026-05-19T15:37:43+01:00
 modified: 2026-06-19T15:57:35+01:00
+translationKey: Oak leaf collages
 ---
 Inspired by artist Pip Lewis‘s most excellent [collage exercise with the bird artwork](/posts/260507-aberteifi-workshop-3/) the previous week with Group A, teacher Mari Roberts created collages of Oak leaves with Group B based on observational drawings the children had made.
 

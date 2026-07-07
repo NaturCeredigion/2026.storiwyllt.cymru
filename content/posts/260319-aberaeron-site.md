@@ -10,6 +10,7 @@ tags:
 draft: false
 date: 2026-03-19T20:17:25+00:00
 modified: 2026-04-01T13:18:36+01:00
+translationKey: Aberaeron site reccie
 ---
 Last year, we ran the Grassland ID workshops at Penmorfa with Ysgol Gynradd Aberaeron. 
 

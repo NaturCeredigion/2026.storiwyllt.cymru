@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-06-19T15:24:50+01:00
 date: 2026-04-17T12:58:06+01:00
+translationKey: Ysgol Gynradd Aberaeron Workshop 2
 ---
 We were still waiting for the go-ahead to the house of the witch Mari Berllan Peter in Esgair Arth woodland, so Plan B was put into operation, a trip to Allt y Graig woods, just the other side of Jewsons where the Twr Gwyllt (Wild Tower) is situated, with storyteller and artist Rebecca Wyn Kelly and ecologist Carys May.
 

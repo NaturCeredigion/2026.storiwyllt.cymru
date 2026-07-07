@@ -10,6 +10,7 @@ website: https://ygaberteifi.co.uk
 students: 357
 groupsize: 23 (+ 23)
 map: https://www.openstreetmap.org/way/217880147
+translationKey: Ysgol Gynradd Aberteifi
 ---
 {{< load-photoswipe >}}
 

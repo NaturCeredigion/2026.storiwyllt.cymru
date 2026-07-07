@@ -10,6 +10,7 @@ website: https://estyn.gov.wales/education-providers/ysgol-llanarth/
 students: 66
 groupsize: 23
 map: https://www.openstreetmap.org/way/105136066
+translationKey: Ysgol Llanarth
 ---
 {{< load-photoswipe >}}
 

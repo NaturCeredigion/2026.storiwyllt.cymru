@@ -9,6 +9,7 @@ tags:
 draft: false
 modified: 2026-06-19T15:34:04+01:00
 date: 2026-03-31T15:50:24+01:00
+translationKey: Ysgol Llanarth Workshop 1
 ---
 ***NB:** The notes before Easter have been written in retrospect, which means they lack detail. In future, I’ll be writing notes immediately afterwards, and also asking for immediate & short feedback from students and participants.*
 
