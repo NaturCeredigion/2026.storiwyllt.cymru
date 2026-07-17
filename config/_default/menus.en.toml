@@ -1,0 +1,72 @@
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Schools"
+    url = "/schools/"
+    weight = 4
+    hasChildren = true
+
+      [[menu.main]]
+      parent = "Schools"
+      name = "Aberteifi"
+      url = "/schools/aberteifi/"
+      weight = 1
+
+      [[menu.main]]
+      parent = "Schools"
+      name = "Llanarth"
+      url = "/schools/llanarth/"
+      weight = 2
+
+      [[menu.main]]
+      parent = "Schools"
+      name = "Aberaeron"
+      url = "/schools/aberaeron/"
+      weight = 3
+
+      [[menu.main]]
+      parent = "Schools"
+      name = "Llanilar"
+      url = "/schools/llanilar/"
+      weight = 4
+
+  [[menu.main]]
+    name = "Workshops"
+    url = "/workshops/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Organise"
+    url = "/organise/"
+    weight = 5
+
+  # Footer Menu
+  [[menu.footer]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.footer]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+  [[menu.footer]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/posts/"
+  weight = 3
+
+  [[menu.footer]]
+  identifier = "organise"
+  name = "Organise"
+  url = "/organise/"
+  weight = 4
