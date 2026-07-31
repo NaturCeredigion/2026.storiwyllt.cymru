@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/workshops.md",
+                "file": "content/posts/260703-llanilar-bats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "workshops"
+              "title": "260703-llanilar-bats"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,6 +186,12 @@
   },
   "active": "dcf42be4a794d85f",
   "lastOpenFiles": [
+    "public/posts/260703-llanilar-bats/index.html",
+    "public/posts/260703-llanilar-bats",
+    "content/posts/260616-llanilar-activity-guide.md",
+    "content/posts/260629-exhibition.md",
+    "content/posts/260703-llanilar-bats.md",
+    "content/workshops.md",
     "public/tags/rest/index.sync-conflict-20260708-101239-QLP3IME.xml",
     "public/projects/wild-nature/index.sync-conflict-20260708-101238-QLP3IME.html",
     "public/tags/people/index.sync-conflict-20260708-101234-QLP3IME.xml",
@@ -193,8 +201,6 @@
     "public/schools/woman-dancing/index.sync-conflict-20260708-101241-QLP3IME.html",
     "public/posts/the-proven-health-benefits-of-yoga-and-meditation/index.sync-conflict-20260708-101238-QLP3IME.html",
     "public/posts/10-things-you-can-do-for-your-mental-health/index.sync-conflict-20260708-101233-QLP3IME.html",
-    "public/workshops/aberteifi/index.sync-conflict-20260708-101239-QLP3IME.html",
-    "public/schools/wild-nature/index.sync-conflict-20260708-101231-QLP3IME.html",
     "content/artists.sync-conflict-20260708-101232-QLP3IME.md",
     "content/posts/_index.sync-conflict-20260708-101421-QLP3IME.md",
     "public/images/logo.sync-conflict-20260708-101234-YTHSLOD.png",
@@ -218,12 +224,8 @@
     "content/schools/aberteifi.md",
     "content/schools/aberaeron.md",
     "content/schools/_index.md",
-    "content/posts/260629-exhibition.md",
-    "content/posts/260616-llanilar-activity-guide.md",
     "content/posts/260616-aberteifi-activity-guide.md",
     "content/posts/260615-aberteifi-project-outline.md",
-    "content/posts/260612-llanarth-workshop-5.md",
-    "content/posts/260611-aberteifi-workshop-5.md",
     "public/images/stori-wyllt-logo.svg",
     "public/images/logo.png"
   ]

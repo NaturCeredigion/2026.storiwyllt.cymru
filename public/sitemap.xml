@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/guide/</loc>
-    <lastmod>2026-06-25T17:12:30+01:00</lastmod>
+    <loc>http://localhost:1313/posts/260703-llanilar-bats/</loc>
+    <lastmod>2026-07-31T10:42:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/llanilar/</loc>
-    <lastmod>2026-06-25T17:12:07+01:00</lastmod>
+    <lastmod>2026-07-31T10:42:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-07T12:31:14+01:00</lastmod>
+    <lastmod>2026-07-31T10:42:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-07-07T12:31:14+01:00</lastmod>
+    <lastmod>2026-07-31T10:42:12+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/workshop/</loc>
-    <lastmod>2026-07-07T12:31:14+01:00</lastmod>
+    <lastmod>2026-07-31T10:42:12+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/guide/</loc>
+    <lastmod>2026-06-25T17:12:30+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/260616-llanilar-activity-guide/</loc>
     <lastmod>2026-06-24T16:11:02+01:00</lastmod>
@@ -154,9 +157,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-05-01T13:00:22+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/_index.sync-conflict-20260708-101421-qlp3ime/</loc>
-    <lastmod>2026-03-26T18:32:09+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/workflow/</loc>
     <lastmod>2026-03-25T20:22:17+00:00</lastmod>
