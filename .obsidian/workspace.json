@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/schools/llanilar.md",
+                "file": "content/organise.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "llanilar"
+              "title": "organise"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "abcc9c7cc8a73e15",
   "lastOpenFiles": [
+    "content/schools/llanilar.md",
     "content/posts/260703-llanilar-bats.md",
     "content/posts/260714-instructions.md",
     "content/posts/260629-private-view.md",
@@ -219,7 +220,6 @@
     "content/organise-aberteifi.md",
     "content/organise.md",
     "content/about.md",
-    "content/schools/llanilar.md",
     "content/schools/llanarth.md",
     "content/schools/aberteifi.md",
     "content/schools/aberaeron.md",

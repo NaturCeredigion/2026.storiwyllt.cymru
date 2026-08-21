@@ -14,7 +14,7 @@ modified: 2026-07-04T12:59:05+01:00
 | *[Aberteifi](/organise-aberteifi/)* | Yusef Samari  | Pip Lewis         | Mari Roberts          |
 | *Aberaeron*                         | Carys May     | Rebecca Wyn Kelly | Carys Griffiths-Jones |
 | *Llanarth*                          | Jo Dainty     | Molly Gilbert     | Cally Mason           |
-| *Llanilar*                          | Sheena Duller | Marian Haf        | Jan Jones             |
+| *Llanilar*                          | Sheena Duller & Louise Tranter | Marian Haf        | Jan Jones             |
 
 <span></span>
 *Aberteifi organise page: [storiwyllt.cymru/organise-aberteifi](https://storiwyllt.cymru/organise-aberteifi/)*

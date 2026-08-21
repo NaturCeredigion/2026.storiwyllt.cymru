@@ -3,7 +3,7 @@ title: Ysgol Llanilar
 subtitle: “Gwneud eich gorau sydd orau bob tro”
 summary: Headteacher Jannette Jones has led from the front in developing the school gardens and engaging with Stori Wyllt.
 date: 2026-04-01T11:39:57+01:00
-modified: 2026-04-09T16:41:17+01:00
+modified: 2026-08-21T12:46:03+01:00
 image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544975/250324-llanilar-workshop1-jan-cleavers.jpg
 caption: Headteacher Jannette Jones showing children the growth habit of Cleaver leaves
 website: https://www.llanilar.ceredigion.sch.uk
