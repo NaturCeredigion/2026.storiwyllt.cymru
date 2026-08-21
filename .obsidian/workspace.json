@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f002dfd6822833b",
+        "id": "5550cf288f8c5bfd",
         "type": "tabs",
         "children": [
           {
-            "id": "dcf42be4a794d85f",
+            "id": "abcc9c7cc8a73e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/260703-llanilar-bats.md",
+                "file": "content/schools/llanilar.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "260703-llanilar-bats"
+              "title": "llanilar"
             }
           }
         ]
@@ -184,13 +184,14 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "dcf42be4a794d85f",
+  "active": "abcc9c7cc8a73e15",
   "lastOpenFiles": [
+    "content/posts/260703-llanilar-bats.md",
+    "content/posts/260714-instructions.md",
+    "content/posts/260629-private-view.md",
     "public/posts/260703-llanilar-bats/index.html",
     "public/posts/260703-llanilar-bats",
     "content/posts/260616-llanilar-activity-guide.md",
-    "content/posts/260629-exhibition.md",
-    "content/posts/260703-llanilar-bats.md",
     "content/workshops.md",
     "public/tags/rest/index.sync-conflict-20260708-101239-QLP3IME.xml",
     "public/projects/wild-nature/index.sync-conflict-20260708-101238-QLP3IME.html",
@@ -200,7 +201,6 @@
     "public/workshops/llanilar/index.sync-conflict-20260708-101237-QLP3IME.html",
     "public/schools/woman-dancing/index.sync-conflict-20260708-101241-QLP3IME.html",
     "public/posts/the-proven-health-benefits-of-yoga-and-meditation/index.sync-conflict-20260708-101238-QLP3IME.html",
-    "public/posts/10-things-you-can-do-for-your-mental-health/index.sync-conflict-20260708-101233-QLP3IME.html",
     "content/artists.sync-conflict-20260708-101232-QLP3IME.md",
     "content/posts/_index.sync-conflict-20260708-101421-QLP3IME.md",
     "public/images/logo.sync-conflict-20260708-101234-YTHSLOD.png",

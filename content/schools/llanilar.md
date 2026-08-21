@@ -8,7 +8,7 @@ image: https://res.cloudinary.com/naturceredigion/image/upload/v1774544975/25032
 caption: Headteacher Jannette Jones showing children the growth habit of Cleaver leaves
 website: https://www.llanilar.ceredigion.sch.uk
 students: 106
-groupsize: 15
+groupsize: 15 (+15)
 map: https://www.openstreetmap.org/way/446375974
 translationKey: Ysgol Llanilar
 ---
