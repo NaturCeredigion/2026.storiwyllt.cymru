@@ -1,0 +1,18 @@
+# --------------------------
+# English language
+# --------------------------
+[en]
+languageName = "English"
+languageCode = "en-gb"
+contentDir = "content/english"
+weight = 1
+
+# --------------------------
+# Welsh language
+# --------------------------
+[cy]
+languageName = "Cymraeg"
+languageCode = "cy-cy"
+contentDir = "content/cymraeg"
+weight = 2
+
