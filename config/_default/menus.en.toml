@@ -51,6 +51,11 @@ name = "Organise"
 url = "/organise/"
 weight = 5
 
+[[main]]
+name = "Organise"
+url = "/organise/"
+weight = 6
+
 # Footer menu
 [[footer]]
 name = "Home"
