@@ -48,13 +48,32 @@
               </li>
               {{ end }}
               {{ end }}
-
+              <!-- Language List -->
+              {{ if .IsTranslated }}
               <li class="lang-switch">
                 <select id="select-language" onchange="location=this.value">
-                  <option id="en" value="/en/" selected="">English</option>
-                  <option id="cy" value="/cy/">Cymraeg</option>
+                  {{ $siteLanguages := site.Languages}}
+                  {{ $pageLang := .Page.Lang}}
+                  {{ range .Page.AllTranslations }}
+                  {{ $translation := .}}
+                  {{ range $siteLanguages }}
+                  {{ if eq $translation.Lang .Lang }}
+                  {{ $selected := false }}
+                  {{ if eq $pageLang .Lang}}
+                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{
+                    .LanguageName }}
+                  </option>
+                  {{ else }}
+                  <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}
+                  </option>
+                  {{ end }}
+                  {{ end }}
+                  {{ end }}
+                  {{ end }}
                 </select>
               </li>
+              {{ end }}
+
             </ul>
           </div>
         </nav>
