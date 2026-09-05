@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Stori Wyllt 2026</title>
+    <link>http://localhost:1313/cy/tags/</link>
+    <description>Recent content in Tags on Stori Wyllt 2026</description>
+    <generator>Hugo</generator>
+    <language>cy-cy</language>
+    <lastBuildDate>Thu, 25 Jun 2026 22:00:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/cy/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/cy/tags/about/</link>
+      <pubDate>Wed, 01 Apr 2026 10:55:40 +0100</pubDate>
+      <guid>http://localhost:1313/cy/tags/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

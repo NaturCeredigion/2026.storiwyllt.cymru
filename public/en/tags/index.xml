@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Stori Wyllt 2026</title>
+    <link>http://localhost:1313/en/tags/</link>
+    <description>Recent content in Tags on Stori Wyllt 2026</description>
+    <generator>Hugo</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 25 Jun 2026 22:00:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide</title>
+      <link>http://localhost:1313/en/tags/guide/</link>
+      <pubDate>Tue, 16 Jun 2026 12:59:59 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Llanilar</title>
+      <link>http://localhost:1313/en/tags/llanilar/</link>
+      <pubDate>Tue, 16 Jun 2026 12:59:59 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/llanilar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Workshop</title>
+      <link>http://localhost:1313/en/tags/workshop/</link>
+      <pubDate>Tue, 16 Jun 2026 12:59:59 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/workshop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aberteifi</title>
+      <link>http://localhost:1313/en/tags/aberteifi/</link>
+      <pubDate>Tue, 16 Jun 2026 10:37:50 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/aberteifi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outline</title>
+      <link>http://localhost:1313/en/tags/outline/</link>
+      <pubDate>Mon, 15 Jun 2026 16:09:20 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/outline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aberaeron</title>
+      <link>http://localhost:1313/en/tags/aberaeron/</link>
+      <pubDate>Fri, 08 May 2026 16:10:54 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/aberaeron/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Species</title>
+      <link>http://localhost:1313/en/tags/species/</link>
+      <pubDate>Thu, 07 May 2026 09:54:20 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/species/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/en/tags/about/</link>
+      <pubDate>Wed, 01 Apr 2026 10:55:40 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

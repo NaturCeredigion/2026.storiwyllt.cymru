@@ -1,0 +1,25 @@
+#-------------------------------
+# General Site Settings
+baseURL = "https://storiwyllt.cymru"
+languageCode = "en-gb"
+title = "Stori Wyllt 2026"
+
+#-------------------------------
+# Language settings:
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+#-------------------------------
+# Pagination settings:
+[pagination]
+  pagerSize = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[markup.highlight]
+  codeFences = true
+  guessSyntax = true
+  noClasses = false
